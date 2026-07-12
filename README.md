@@ -142,6 +142,55 @@ Each folder contains the assignment, notebook, datasets (if applicable), and sup
 
 ---
 
+# ☁️ Week 4 — Azure Data Factory & Blob Storage Integration
+
+### Objective
+
+Design and implement a cloud-based ETL workflow using Microsoft Azure services to transfer a CSV file between Azure Blob Storage containers while validating file metadata before processing.
+
+### Key Learning Outcomes
+
+- Provisioned Azure cloud resources including Resource Group, Storage Account, and Azure Data Factory.
+- Configured Blob Storage containers for source and destination data.
+- Established connectivity through Azure Blob Storage Linked Service.
+- Created source and sink datasets for CSV files.
+- Developed an Azure Data Factory pipeline using:
+  - **Get Metadata** activity to verify source file properties.
+  - **Copy Data** activity to transfer data between containers.
+- Configured and validated Azure IAM permissions to enable secure communication between Azure Data Factory and Blob Storage.
+- Validated, published, and successfully executed the pipeline.
+- Confirmed successful file transfer by verifying the output in the destination container.
+
+### Mini Project
+
+An end-to-end Azure Data Factory pipeline was developed to automate CSV file movement within Azure Blob Storage. Before copying the file, metadata such as file existence, size, and last modified time was validated using the Get Metadata activity. After successful validation, the Copy Data activity transferred the file to the destination container. The project concluded with successful pipeline execution and verification of the copied output.
+
+### Deliverables
+
+- Azure Resource Group
+- Azure Storage Account
+- Blob Storage Containers
+- Azure Data Factory Instance
+- Linked Service Configuration
+- Source & Sink Datasets
+- Get Metadata Activity
+- Copy Data Activity
+- IAM Role Configuration
+- Published Pipeline
+- Successful Pipeline Execution
+- Output Verification
+
+### Technologies Used
+
+- Microsoft Azure
+- Azure Resource Manager
+- Azure Blob Storage
+- Azure Data Factory
+- Azure IAM
+- Get Metadata Activity
+- Copy Data Activity
+- CSV Dataset
+
 ## 🛠️ Skills Developed
 
 Throughout this internship, I aim to strengthen my skills in:
