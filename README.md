@@ -40,8 +40,8 @@ Each folder contains the assignment, notebook, datasets (if applicable), and sup
 | Week 1 | Basic Data Exploration and Cleaning using Pandas | ✅ Completed |
 | Week 2 | SQL-Based Sales Data Analysis | ✅ Completed |
 | Week 3 | Advanced SQL using Subqueries, CTEs & Window Functions | ✅ Completed |
-| Week 4 | To be Updated | ⏳ |
-| Week 5 | To be Updated | ⏳ |
+| Week 4 | Azure Data Factory & Blob Storage Integration | ✅ Completed |
+| Week 5 | Apache Spark Data Processing using PySpark | ✅ Completed |
 
 ---
 
@@ -191,6 +191,50 @@ An end-to-end Azure Data Factory pipeline was developed to automate CSV file mov
 - Copy Data Activity
 - CSV Dataset
 
+---
+
+# 🔥 Week 5 — Apache Spark Data Processing using PySpark
+
+### Objective
+
+Build a single, end-to-end PySpark workflow — environment setup, dataset ingestion,
+inspection, and cleaning — followed by 15 questions covering Spark fundamentals, DataFrame
+transformations, null and duplicate handling, casting, aggregation, and a final store-level
+revenue pipeline, all on one extended Superstore dataset.
+
+### Key Tasks
+
+- Set up PySpark in Google Colab and initialized a `SparkSession`
+- Generated an extended Superstore-style dataset (`user_id`, `transaction_date`, `status`,
+  `subscription`, `age`, `username`, `email`, `price`, `raw_timestamp`, `store_id`, etc.) with
+  realistic nulls, duplicates, and inconsistent timestamp formats
+- Performed schema inspection, null-value profiling, and baseline data cleaning
+- Explained key Spark concepts: MapReduce limitations, in-memory computing, DataFrame
+  immutability, the Shuffle process, wide vs. narrow transformations, and `inferSchema` risks
+- Removed duplicate records using `dropDuplicates()` on a business-key subset
+- Filtered and grouped data using `filter()`, `groupBy()`, and `.agg()`
+- Compared and applied `na.drop()` vs `na.fill()` for null handling
+- Cast and renamed a raw timestamp column to `TimestampType`
+- Removed invalid records based on null/empty contact fields
+- Computed multiple statistics (`min`, `max`, `mean`) in a single `.agg()` call
+- Built a complete cleaning-to-aggregation pipeline: deduplicate → fill null prices →
+  group by `store_id` → calculate total revenue
+
+### Technologies Used
+
+- PySpark (DataFrame API)
+- Apache Spark (local mode)
+- Google Colab
+- Python
+
+### Deliverables
+
+- Jupyter Notebook (`Week5_PySpark_Superstore.ipynb`)
+- Standalone Script (`week5_pyspark.py`)
+- Dependency List (`requirements.txt`)
+
+---
+
 ## 🛠️ Skills Developed
 
 Throughout this internship, I aim to strengthen my skills in:
@@ -203,6 +247,8 @@ Throughout this internship, I aim to strengthen my skills in:
 - Data Engineering
 - Database Design
 - Advanced SQL (Subqueries, CTEs & Window Functions)
+- Cloud Data Engineering (Azure Data Factory & Blob Storage)
+- Big Data Processing with Apache Spark & PySpark
 - Data Visualization
 - Artificial Intelligence
 
