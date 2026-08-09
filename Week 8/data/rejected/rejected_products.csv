@@ -1,0 +1,23 @@
+product_key,product_name,category,subcategory,brand,unit_cost,selling_price,rejection_reason
+PROD-000001,TechPulse Accessories Plus 237,Consumer Electronics,Accessories,TechPulse,45.0,0.0,Duplicate Primary Key
+PROD-000029,NexusGear Smartphones Max 394,Consumer Electronics,Smartphones,NexusGear,73.18,157.64,Duplicate Primary Key
+PROD-000001,ChefMaster Home Decor Standard 323,Home & Kitchen,Home Decor,ChefMaster,300.7,487.03,Duplicate Primary Key
+PROD-000003,CozyNest Cookware Ultra 116,Home & Kitchen,Cookware,CozyNest,93.72,266.03,Duplicate Primary Key
+PROD-000016,VerveFit Women's Wear Pro 670,Apparel & Footwear,Women's Wear,VerveFit,62.33,139.07,Duplicate Primary Key
+PROD-000028,NordicThread Athletic Shoes Ultra 968,Apparel & Footwear,Athletic Shoes,NordicThread,45.24,87.66,Duplicate Primary Key
+PROD-000007,NordicThread Outerwear Pro 761,Apparel & Footwear,Outerwear,NordicThread,28.88,44.74,Duplicate Primary Key
+PROD-000017,VitalityPlus Fitness Equipment Ultra 573,Health & Personal Care,General Accessories,VitalityPlus,63.15,144.94,Duplicate Primary Key
+PROD-000026,NexusGear Wearables Lite 237,Consumer Electronics,Wearables,NexusGear,599.0,-18.13,Non-positive selling price or unit cost
+PROD-000028,AuraSound Smartphones Standard 721,Consumer Electronics,Smartphones,AuraSound,45.0,0.0,Non-positive selling price or unit cost
+PROD-000034,ApexTech Audio & Headphones Pro 778,Consumer Electronics,Audio & Headphones,ApexTech,45.0,0.0,Non-positive selling price or unit cost
+PROD-000142,ChefMaster Bedding Max 192,Home & Kitchen,Bedding,ChefMaster,45.0,0.0,Non-positive selling price or unit cost
+PROD-000170,LuminaHome Home Decor Ultra 835,Home & Kitchen,Home Decor,LuminaHome,18.48,-69.28,Non-positive selling price or unit cost
+PROD-000211,LuminaHome Home Decor Pro 390,Home & Kitchen,Home Decor,LuminaHome,51.25,-46.63,Non-positive selling price or unit cost
+PROD-000245,UrbanStitch Fashion Accessories Max 897,Apparel & Footwear,Fashion Accessories,UrbanStitch,45.0,0.0,Non-positive selling price or unit cost
+PROD-000279,ZenithAttire Men's Wear Lite 678,Apparel & Footwear,Men's Wear,ZenithAttire,108.88,-88.05,Non-positive selling price or unit cost
+PROD-000348,ApexPublishing Technical & Engineering Standard 370,Books & Media,Technical & Engineering,ApexPublishing,61.23,-75.18,Non-positive selling price or unit cost
+PROD-000427,ScholarHouse Technical & Engineering Ultra 689,Books & Media,Technical & Engineering,ScholarHouse,41.23,-17.55,Non-positive selling price or unit cost
+PROD-000464,FlexFit Fitness Equipment Max 955,Health & Personal Care,Fitness Equipment,FlexFit,81.42,-13.33,Non-positive selling price or unit cost
+PROD-000494,RadiantSkin Hair Care Lite 460,Health & Personal Care,Hair Care,RadiantSkin,45.0,0.0,Non-positive selling price or unit cost
+PROD-000528,GlowBotanic Hair Care Standard 350,Health & Personal Care,Hair Care,GlowBotanic,45.0,0.0,Non-positive selling price or unit cost
+PROD-000548,FlexFit Vitamins & Supplements Lite 943,Health & Personal Care,Vitamins & Supplements,FlexFit,41.54,-96.74,Non-positive selling price or unit cost

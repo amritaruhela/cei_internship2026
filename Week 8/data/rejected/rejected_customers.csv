@@ -1,0 +1,39 @@
+customer_key,customer_name,email,signup_date,customer_segment,city,region,acquisition_channel,is_active,rejection_reason
+CUST-000041,Sam Hernandez,sam.hernandez475@yahoo.com,2024-11-30,Standard,Austin,TX,Social Media,1,Duplicate Primary Key
+CUST-000005,Reese Anderson,reese.anderson507@icloud.com,2025-09-13,Standard,Charlotte,NC,Social Media,1,Duplicate Primary Key
+CUST-000031,Quinn Garcia,quinn.garcia340@yahoo.com,2024-08-18,Standard,Jacksonville,FL,Affiliate Network,1,Duplicate Primary Key
+CUST-000031,Emerson White,user@.invalid_tld,2024-09-24,Preferred,Boston,MA,Paid Search,1,Duplicate Primary Key
+CUST-000019,Riley Moore,riley.moore348@yahoo.com,2025-07-27,Standard,Columbus,OH,Social Media,1,Duplicate Primary Key
+CUST-000003,Taylor Hernandez,taylor.hernandez53@gmail.com,2025-04-17,VIP,Los Angeles,CA,Direct Referral,0,Duplicate Primary Key
+CUST-000004,Morgan Garcia,morgan.garcia882@gmail.com,2024-10-24,Preferred,Jacksonville,FL,Paid Search,1,Duplicate Primary Key
+CUST-000010,Riley Martin,riley.martin807@icloud.com,2025-01-02,Standard,Washington,DC,Organic Search,1,Duplicate Primary Key
+CUST-000015,Rowan Martin,rowan.martin21@gmail.com,2025-10-20,Standard,Philadelphia,PA,Affiliate Network,1,Duplicate Primary Key
+CUST-000055,Alex Brown,missing_at_symbol.com,2024-06-01,Preferred,Seattle,WA,Organic Search,1,Invalid Email Syntax
+CUST-000074,Avery Jones,invalid_user@domain..com,2024-09-07,Standard,San Francisco,CA,Affiliate Network,1,Invalid Email Syntax
+CUST-000122,Dakota Garcia,invalid_user@domain..com,2024-06-09,Preferred,New York,NY,Social Media,1,Invalid Email Syntax
+CUST-000150,Sawyer Gonzalez,missing_at_symbol.com,2024-12-02,Standard,Miami,FL,Affiliate Network,1,Invalid Email Syntax
+CUST-000160,Morgan Davis,invalid_user@domain..com,2025-01-02,Preferred,Denver,CO,Paid Search,1,Invalid Email Syntax
+CUST-000177,Dakota Lopez,invalid_user@domain..com,2025-01-11,Standard,Seattle,WA,Paid Search,1,Invalid Email Syntax
+CUST-000191,Peyton Anderson,plainaddress_no_tld@,2024-12-13,VIP,Charlotte,NC,Social Media,1,Invalid Email Syntax
+CUST-000220,Casey Anderson,user@.invalid_tld,2025-03-28,Standard,Boston,MA,Paid Search,1,Invalid Email Syntax
+CUST-000223,Finley Taylor,plainaddress_no_tld@,2025-08-17,Preferred,Seattle,WA,Organic Search,1,Invalid Email Syntax
+CUST-000250,Taylor Brown,invalid_user@domain..com,2025-07-02,Standard,New York,NY,Affiliate Network,0,Invalid Email Syntax
+CUST-000255,Cameron Williams,invalid_user@domain..com,2025-11-03,Standard,Boston,MA,Organic Search,0,Invalid Email Syntax
+CUST-000262,Harper Rodriguez,double@@atdomain.com,2025-03-10,Preferred,Chicago,IL,Social Media,0,Invalid Email Syntax
+CUST-000287,Adrian Martinez,double@@atdomain.com,2025-02-19,Standard,San Jose,CA,Social Media,1,Invalid Email Syntax
+CUST-000354,Rowan Jackson,user@.invalid_tld,2025-11-26,Standard,Columbus,OH,Affiliate Network,1,Invalid Email Syntax
+CUST-000377,Morgan Taylor,missing_at_symbol.com,2024-07-15,VIP,Washington,DC,Affiliate Network,1,Invalid Email Syntax
+CUST-000382,Jordan Davis,invalid_user@domain..com,2025-08-03,VIP,San Francisco,CA,Paid Search,1,Invalid Email Syntax
+CUST-000421,Alex White,double@@atdomain.com,2024-07-21,Preferred,Charlotte,NC,Affiliate Network,1,Invalid Email Syntax
+CUST-000436,Jordan White,user@.invalid_tld,2024-08-11,Standard,Columbus,OH,Organic Search,1,Invalid Email Syntax
+CUST-000439,Riley Martin,plainaddress_no_tld@,2024-07-30,Preferred,San Antonio,TX,Organic Search,0,Invalid Email Syntax
+CUST-000440,Cameron Moore,invalid_user@domain..com,2025-07-05,Preferred,Philadelphia,PA,Paid Search,1,Invalid Email Syntax
+CUST-000453,Peyton Lee,user@.invalid_tld,2024-04-07,Preferred,New York,NY,Direct Referral,1,Invalid Email Syntax
+CUST-000472,Sawyer Wilson,user@.invalid_tld,2024-09-07,Standard,Chicago,IL,Social Media,1,Invalid Email Syntax
+CUST-000494,Avery Jones,double@@atdomain.com,2024-06-08,Standard,Houston,TX,Direct Referral,1,Invalid Email Syntax
+CUST-000538,Avery Brown,plainaddress_no_tld@,2024-06-23,Standard,Boston,MA,Paid Search,1,Invalid Email Syntax
+CUST-000542,Reese Jackson,missing_at_symbol.com,2025-11-14,Standard,Houston,TX,Organic Search,1,Invalid Email Syntax
+CUST-000559,Riley Williams,double@@atdomain.com,2025-06-02,Standard,Fort Worth,TX,Direct Referral,0,Invalid Email Syntax
+CUST-000571,Quinn Martinez,invalid_user@domain..com,2024-03-06,Standard,Austin,TX,Paid Search,1,Invalid Email Syntax
+CUST-000574,Quinn Rodriguez,missing_at_symbol.com,2025-02-01,Preferred,Detroit,MI,Organic Search,0,Invalid Email Syntax
+CUST-000645,Logan Williams,missing_at_symbol.com,2024-06-26,Preferred,Detroit,MI,Affiliate Network,1,Invalid Email Syntax
