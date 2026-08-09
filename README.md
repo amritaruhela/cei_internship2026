@@ -18,7 +18,7 @@ DIT University, Dehradun
  
 ## 📂 Repository Structure
  
-text
+```text
 CEI-2026/
 │
 ├── Week-1/
@@ -28,8 +28,9 @@ CEI-2026/
 ├── Week-5/
 ├── Week-6/
 ├── Week-7/
+├── Week 8/
 └── README.md
- 
+```
  
 Each folder contains the assignment, notebook, datasets (if applicable), and supporting files for that week.
  
@@ -46,6 +47,7 @@ Each folder contains the assignment, notebook, datasets (if applicable), and sup
 | Week 5 | Apache Spark Data Processing using PySpark | ✅ Completed |
 | Week 6 | Apache Spark & PySpark — Retail Analytics Pipeline | ✅ Completed |
 | Week 7 | Python Basics — Data Exploration & Cleaning using Pandas | ✅ Completed |
+| Week 8 | Online Marketplace Customer & Order Intelligence System | ✅ Completed |
  
 ---
  
@@ -305,6 +307,43 @@ cleaned dataset.
 - Jupyter Notebook (Week7_Pandas_Data_Cleaning.ipynb)
 - Cleaned Dataset (cleaned_superstore.csv)
 - Brief Assignment Summary (assignment_summary.md)
+---
+
+# 🛒 Week 8 — Online Marketplace Customer & Order Intelligence System (OMIS)
+
+### Objective
+
+Architect, build, and validate an enterprise-grade, production-quality Online Marketplace Customer & Order Intelligence System (OMIS) from scratch using Python, SQL, and SQLite. The system processes multi-vendor marketplace data across 5 entities to analyze customer purchasing behavior, order fulfillment, product performance, return friction, retention dynamics, and customer segmentation.
+
+### Key Tasks
+
+- Synthesized 500+ realistic records across 5 entities (`customers`, `products`, `orders`, `order_lines`, `returns`) with controlled, documented data-quality anomalies (invalid email syntax, missing attributes, out-of-bounds prices/discounts, orphan foreign keys, malformed timestamp strings).
+- Implemented a robust data cleaning and governance pipeline with non-destructive quarantine isolation (`data/rejected/`) and automated Markdown audit report generation.
+- Initialized a 3NF Star/Snowflake hybrid relational SQLite database schema featuring primary keys, foreign keys (`ON DELETE CASCADE`), `CHECK` constraints, and performance query indexes.
+- Formulated and executed 20 analytical SQL queries across Basic, Intermediate, and Advanced suites (utilizing Window Functions like `SUM OVER`, `DENSE_RANK`, `LAG`, `NTILE`, CTEs, and product co-purchase self-joins).
+- Generated a Customer Cohort Retention Matrix (Month 0 to Month 5+) and computed RFM Customer Segmentation (`VIP`, `High Value`, `Regular`, `Occasional`, `At Risk`).
+- Built an interactive CLI BI application supporting Daily, Weekly, Monthly, and Custom date range reporting with Period-over-Period (PoP) percentage growth comparisons.
+- Rendered 8 high-resolution analytical visualizations saved to `docs/charts/`.
+- Implemented an automated unit testing suite covering 12 edge cases using Python's standard `unittest` framework (100% pass rate).
+
+### Technologies Used
+
+- Python 3.11
+- Pandas, NumPy
+- SQLite, SQL
+- Matplotlib, Seaborn
+- Python `unittest` framework
+
+### Deliverables
+
+- Enterprise CLI & Pipeline Entrypoint (`main.py`)
+- SQL Analytical Suites (`sql/schema.sql`, `sql/basic.sql`, `sql/intermediate.sql`, `sql/advanced.sql`)
+- Data Generation & Governance Engine (`src/generation/`, `src/validation/`, `src/cleaning/`)
+- Relational Database & Analytics Engine (`src/database/`, `src/analytics/`, `src/reporting/`)
+- Automated Edge Case Test Suite (`tests/test_pipeline.py`)
+- Analytical Visualizations (`docs/charts/`)
+- Formal Technical Project Report & Model Specification (`docs/project_report.md`, `docs/data_model_documentation.md`, `README.md`)
+
 ---
  
 ## 🛠️ Skills Developed
