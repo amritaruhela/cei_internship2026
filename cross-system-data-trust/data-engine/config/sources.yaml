@@ -1,0 +1,75 @@
+sources:
+  crm:
+    name: "CRM System"
+    description: "Customer Relationship Management source"
+    primary_key: customer_id
+    date_column: updated_at
+    expected_schema:
+      customer_id: string
+      customer_name: string
+      email: string
+      signup_date: date
+      customer_status: string
+      region: string
+      segment: string
+      updated_at: timestamp
+
+  billing:
+    name: "Billing System"
+    description: "Transaction and payment records"
+    primary_key: transaction_id
+    business_key: customer_id
+    date_column: transaction_date
+    revenue_column: amount
+    status_column: status
+    recognized_statuses: ["completed"]
+    expected_schema:
+      transaction_id: string
+      customer_id: string
+      amount: double
+      transaction_date: date
+      status: string
+
+  analytics:
+    name: "Analytics Platform"
+    description: "Daily aggregated analytics metrics"
+    primary_key: date
+    date_column: date
+    grain: daily
+    expected_schema:
+      date: date
+      total_customers: integer
+      total_revenue: double
+      avg_transaction: double
+
+# Cross-system comparison mappings
+comparisons:
+  billing_vs_analytics:
+    source_a: billing
+    source_b: analytics
+    join_key: date
+    metrics:
+      - name: revenue
+        source_a_expr: "SUM(amount) WHERE status='completed'"
+        source_b_col: total_revenue
+        tolerance_pct: 0.05
+        rule_id: DQ-R001
+      - name: customer_count
+        source_a_expr: "COUNT(DISTINCT customer_id) WHERE status='completed'"
+        source_b_col: total_customers
+        tolerance_pct: 0.10
+        rule_id: DQ-R002
+      - name: avg_transaction
+        source_a_expr: "AVG(amount) WHERE status='completed'"
+        source_b_col: avg_transaction
+        tolerance_pct: 0.05
+        rule_id: DQ-R003
+
+  crm_vs_billing:
+    source_a: crm
+    source_b: billing
+    join_key: customer_id
+    checks:
+      - name: referential_integrity
+        description: "All billing customer_ids must exist in CRM"
+        rule_id: DQ-B003

@@ -1,0 +1,193 @@
+# Data Quality Rules Configuration
+# These rules are loaded by the Rule Engine at runtime.
+# Modify thresholds here without changing application code.
+
+rules:
+  # ─────────────────────────────────────────
+  # BILLING RULES
+  # ─────────────────────────────────────────
+  - rule_id: DQ-B001
+    source: billing
+    column: amount
+    rule_type: completeness
+    description: "Billing amount must not be null"
+    threshold: 0.98
+    severity: HIGH
+    enabled: true
+
+  - rule_id: DQ-B002
+    source: billing
+    column: transaction_id
+    rule_type: uniqueness
+    description: "Transaction IDs must be unique"
+    threshold: 1.0
+    severity: CRITICAL
+    enabled: true
+
+  - rule_id: DQ-B003
+    source: billing
+    column: customer_id
+    rule_type: referential_integrity
+    description: "Customer IDs must exist in CRM (GHOST records are violations)"
+    threshold: 0.995
+    severity: HIGH
+    enabled: true
+
+  - rule_id: DQ-B004
+    source: billing
+    column: status
+    rule_type: validity
+    description: "Status must be one of: completed, pending, failed, refunded"
+    valid_values: ["completed", "pending", "failed", "refunded"]
+    threshold: 1.0
+    severity: MEDIUM
+    enabled: true
+
+  - rule_id: DQ-B005
+    source: billing
+    column: amount
+    rule_type: validity
+    description: "Amount must be positive"
+    min_value: 0.01
+    threshold: 0.999
+    severity: MEDIUM
+    enabled: true
+
+  - rule_id: DQ-B006
+    source: billing
+    column: transaction_date
+    rule_type: freshness
+    description: "Billing data should not be more than 2 days stale"
+    max_delay_hours: 48
+    severity: HIGH
+    enabled: true
+
+  # ─────────────────────────────────────────
+  # ANALYTICS RULES
+  # ─────────────────────────────────────────
+  - rule_id: DQ-A001
+    source: analytics
+    column: total_revenue
+    rule_type: completeness
+    description: "Analytics total_revenue must not be null"
+    threshold: 0.98
+    severity: HIGH
+    enabled: true
+
+  - rule_id: DQ-A002
+    source: analytics
+    column: date
+    rule_type: uniqueness
+    description: "Analytics date must be unique (one row per day)"
+    threshold: 1.0
+    severity: CRITICAL
+    enabled: true
+
+  - rule_id: DQ-A003
+    source: analytics
+    column: total_customers
+    rule_type: consistency
+    description: "total_customers cannot be negative"
+    min_value: 0
+    threshold: 1.0
+    severity: MEDIUM
+    enabled: true
+
+  - rule_id: DQ-A004
+    source: analytics
+    column: avg_transaction
+    rule_type: consistency
+    description: "avg_transaction must be positive when revenue exists"
+    min_value: 0.01
+    threshold: 0.98
+    severity: LOW
+    enabled: true
+
+  - rule_id: DQ-A005
+    source: analytics
+    column: date
+    rule_type: freshness
+    description: "Analytics data should not be more than 24 hours stale"
+    max_delay_hours: 24
+    severity: HIGH
+    enabled: true
+
+  # ─────────────────────────────────────────
+  # CRM RULES
+  # ─────────────────────────────────────────
+  - rule_id: DQ-C001
+    source: crm
+    column: customer_id
+    rule_type: uniqueness
+    description: "CRM customer IDs must be unique"
+    threshold: 1.0
+    severity: CRITICAL
+    enabled: true
+
+  - rule_id: DQ-C002
+    source: crm
+    column: email
+    rule_type: completeness
+    description: "Customer email must not be null"
+    threshold: 0.95
+    severity: MEDIUM
+    enabled: true
+
+  - rule_id: DQ-C003
+    source: crm
+    column: customer_status
+    rule_type: validity
+    description: "Customer status must be valid"
+    valid_values: ["ACTIVE", "INACTIVE", "CHURNED", "SUSPENDED"]
+    threshold: 1.0
+    severity: MEDIUM
+    enabled: true
+
+  - rule_id: DQ-C004
+    source: crm
+    column: email
+    rule_type: validity
+    description: "Email must be valid format"
+    pattern: "^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\\.[a-zA-Z]{2,}$"
+    threshold: 0.95
+    severity: LOW
+    enabled: true
+
+  # ─────────────────────────────────────────
+  # RECONCILIATION RULES
+  # ─────────────────────────────────────────
+  - rule_id: DQ-R001
+    source: reconciliation
+    metric: revenue_mismatch_pct
+    rule_type: reconciliation
+    description: "Daily revenue between Billing and Analytics must not deviate > 5%"
+    threshold: 0.05
+    severity_critical: 0.10
+    severity_high: 0.05
+    severity_medium: 0.02
+    severity_low: 0.005
+    enabled: true
+
+  - rule_id: DQ-R002
+    source: reconciliation
+    metric: customer_count_mismatch_pct
+    rule_type: reconciliation
+    description: "Daily customer count between Billing and Analytics must not deviate > 10%"
+    threshold: 0.10
+    severity_critical: 0.20
+    severity_high: 0.10
+    severity_medium: 0.05
+    severity_low: 0.01
+    enabled: true
+
+  - rule_id: DQ-R003
+    source: reconciliation
+    metric: avg_transaction_mismatch_pct
+    rule_type: reconciliation
+    description: "Average transaction value discrepancy between Billing and Analytics"
+    threshold: 0.05
+    severity_critical: 0.15
+    severity_high: 0.05
+    severity_medium: 0.02
+    severity_low: 0.005
+    enabled: true

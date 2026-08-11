@@ -1,0 +1,53 @@
+version: '3.8'
+
+services:
+  postgres:
+    image: postgres:15-alpine
+    container_name: datatrust_postgres
+    environment:
+      POSTGRES_USER: datatrust
+      POSTGRES_PASSWORD: datatrust_pass
+      POSTGRES_DB: datatrust
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+      - ./sql/schemas/01_create_tables.sql:/docker-entrypoint-initdb.d/01_init.sql
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U datatrust -d datatrust"]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    container_name: datatrust_backend
+    environment:
+      DATABASE_URL: postgresql+asyncpg://datatrust:datatrust_pass@postgres:5432/datatrust
+      POSTGRES_USER: datatrust
+      POSTGRES_PASSWORD: datatrust_pass
+      POSTGRES_DB: datatrust
+      SECRET_KEY: super_secret_datatrust_jwt_key_in_docker
+      ENVIRONMENT: production
+    ports:
+      - "8000:8000"
+    depends_on:
+      postgres:
+        condition: service_healthy
+    volumes:
+      - ./data:/app/data
+
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    container_name: datatrust_frontend
+    ports:
+      - "3000:80"
+    depends_on:
+      - backend
+
+volumes:
+  postgres_data:
