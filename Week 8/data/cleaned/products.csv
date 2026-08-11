@@ -1,0 +1,529 @@
+product_key,product_name,category,subcategory,brand,unit_cost,selling_price
+PROD-000001,NexusGear Accessories Ultra 922,Consumer Electronics,Accessories,NexusGear,409.35,772.92
+PROD-000002,AuraSound Audio & Headphones Lite 626,Consumer Electronics,Audio & Headphones,AuraSound,94.54,141.86
+PROD-000003,ApexTech Accessories Pro 741,Consumer Electronics,Accessories,ApexTech,54.4,116.89
+PROD-000004,VoltEdge Laptops Pro 310,Consumer Electronics,Laptops,VoltEdge,370.44,815.87
+PROD-000005,TechPulse Wearables Standard 802,Consumer Electronics,Wearables,TechPulse,133.5,247.55
+PROD-000006,TechPulse Audio & Headphones Pro 175,Consumer Electronics,Audio & Headphones,TechPulse,42.33,100.31
+PROD-000007,TechPulse Accessories Ultra 941,Consumer Electronics,Accessories,TechPulse,217.53,356.91
+PROD-000008,VoltEdge Wearables Standard 514,Consumer Electronics,Wearables,VoltEdge,458.7,660.87
+PROD-000009,ApexTech Smartphones Pro 756,Consumer Electronics,Smartphones,ApexTech,736.17,1086.01
+PROD-000010,TechPulse Accessories Standard 968,Consumer Electronics,Accessories,TechPulse,47.81,127.42
+PROD-000011,NexusGear Smartphones Standard 408,Consumer Electronics,Smartphones,NexusGear,551.97,917.71
+PROD-000012,VoltEdge Wearables Plus 941,Consumer Electronics,Wearables,VoltEdge,532.96,997.86
+PROD-000013,AuraSound Accessories Max 864,Consumer Electronics,Accessories,AuraSound,251.96,598.66
+PROD-000014,NexusGear Accessories Standard 247,Consumer Electronics,Accessories,NexusGear,179.63,461.11
+PROD-000015,TechPulse Audio & Headphones Ultra 995,Consumer Electronics,Audio & Headphones,TechPulse,552.75,841.49
+PROD-000016,ApexTech Smartphones Ultra 503,Consumer Electronics,Smartphones,ApexTech,300.37,814.98
+PROD-000017,AuraSound Audio & Headphones Standard 859,Consumer Electronics,Audio & Headphones,AuraSound,786.73,1357.24
+PROD-000018,ApexTech Wearables Max 264,Consumer Electronics,Wearables,ApexTech,141.5,292.3
+PROD-000019,AuraSound Audio & Headphones Pro 285,Consumer Electronics,Audio & Headphones,AuraSound,507.99,1013.04
+PROD-000020,ApexTech Smartphones Plus 760,Consumer Electronics,Smartphones,ApexTech,498.65,833.49
+PROD-000021,NexusGear Smartphones Pro 302,Consumer Electronics,Smartphones,NexusGear,579.18,1093.86
+PROD-000022,NexusGear Audio & Headphones Max 787,Consumer Electronics,Audio & Headphones,NexusGear,658.39,990.09
+PROD-000023,TechPulse Accessories Max 425,Consumer Electronics,Accessories,TechPulse,432.41,739.06
+PROD-000024,ApexTech Audio & Headphones Max 679,Consumer Electronics,Audio & Headphones,ApexTech,358.44,858.95
+PROD-000025,AuraSound Wearables Pro 420,Consumer Electronics,Wearables,AuraSound,239.23,384.33
+PROD-000027,VoltEdge Wearables Plus 467,Consumer Electronics,General Accessories,VoltEdge,617.81,1166.65
+PROD-000029,ApexTech Laptops Max 369,Consumer Electronics,Laptops,ApexTech,531.46,1105.64
+PROD-000030,TechPulse Smartphones Ultra 746,Consumer Electronics,Smartphones,TechPulse,32.84,66.16
+PROD-000031,ApexTech Wearables Max 137,Consumer Electronics,Wearables,ApexTech,426.36,836.35
+PROD-000032,VoltEdge Accessories Standard 893,Consumer Electronics,Accessories,VoltEdge,135.01,239.97
+PROD-000033,NexusGear Accessories Max 575,Consumer Electronics,Accessories,NexusGear,509.02,761.65
+PROD-000035,AuraSound Accessories Ultra 243,Consumer Electronics,Accessories,AuraSound,433.62,680.4
+PROD-000036,AuraSound Accessories Standard 849,Consumer Electronics,Accessories,AuraSound,422.53,735.58
+PROD-000037,VoltEdge Laptops Max 164,Consumer Electronics,Laptops,VoltEdge,254.18,411.24
+PROD-000038,ApexTech Laptops Lite 497,Consumer Electronics,Laptops,ApexTech,386.78,715.11
+PROD-000039,TechPulse Smartphones Standard 431,Consumer Electronics,Smartphones,TechPulse,62.37,172.76
+PROD-000040,NexusGear Audio & Headphones Ultra 657,Consumer Electronics,Audio & Headphones,NexusGear,490.8,863.83
+PROD-000041,NexusGear Wearables Ultra 769,Consumer Electronics,Wearables,NexusGear,907.8,1349.37
+PROD-000042,VoltEdge Audio & Headphones Max 628,Consumer Electronics,Audio & Headphones,VoltEdge,256.92,620.64
+PROD-000043,VoltEdge Audio & Headphones Plus 718,Consumer Electronics,Audio & Headphones,VoltEdge,11.64,29.75
+PROD-000044,AuraSound Wearables Max 178,Consumer Electronics,Wearables,AuraSound,470.25,781.51
+PROD-000045,AuraSound Laptops Max 470,Consumer Electronics,Laptops,AuraSound,377.21,910.98
+PROD-000046,VoltEdge Laptops Lite 837,Consumer Electronics,Laptops,VoltEdge,87.04,187.73
+PROD-000047,AuraSound Wearables Ultra 265,Consumer Electronics,Wearables,AuraSound,543.91,977.93
+PROD-000048,TechPulse Laptops Max 687,Consumer Electronics,Laptops,TechPulse,585.38,896.66
+PROD-000049,TechPulse Accessories Ultra 250,Consumer Electronics,Accessories,TechPulse,62.63,102.74
+PROD-000050,ApexTech Laptops Plus 713,Consumer Electronics,Laptops,ApexTech,693.54,1454.47
+PROD-000051,TechPulse Audio & Headphones Max 559,Consumer Electronics,Audio & Headphones,TechPulse,490.95,917.65
+PROD-000052,AuraSound Wearables Max 950,Consumer Electronics,Wearables,AuraSound,408.18,627.92
+PROD-000053,AuraSound Accessories Ultra 775,Consumer Electronics,Accessories,AuraSound,497.63,775.98
+PROD-000054,VoltEdge Audio & Headphones Ultra 704,Consumer Electronics,Audio & Headphones,VoltEdge,69.18,121.88
+PROD-000055,TechPulse Laptops Pro 307,Consumer Electronics,Laptops,TechPulse,302.94,793.6
+PROD-000056,AuraSound Wearables Ultra 198,Consumer Electronics,Wearables,AuraSound,108.63,282.57
+PROD-000057,TechPulse Accessories Ultra 615,Consumer Electronics,Accessories,TechPulse,756.49,1133.52
+PROD-000058,ApexTech Laptops Ultra 947,Consumer Electronics,Laptops,ApexTech,8.09,21.77
+PROD-000059,ApexTech Wearables Plus 479,Consumer Electronics,Wearables,ApexTech,599.29,1314.73
+PROD-000060,AuraSound Wearables Plus 908,Consumer Electronics,Wearables,AuraSound,668.32,1157.62
+PROD-000062,NexusGear Smartphones Ultra 997,Consumer Electronics,Smartphones,NexusGear,502.88,824.71
+PROD-000063,TechPulse Smartphones Ultra 635,Consumer Electronics,Smartphones,TechPulse,135.58,194.38
+PROD-000064,NexusGear Laptops Plus 470,Consumer Electronics,Laptops,NexusGear,97.91,177.73
+PROD-000065,NexusGear Accessories Lite 975,Consumer Electronics,Accessories,NexusGear,408.64,813.43
+PROD-000066,NexusGear Accessories Standard 506,Consumer Electronics,Accessories,NexusGear,631.65,1137.35
+PROD-000067,VoltEdge Accessories Max 479,Consumer Electronics,Accessories,VoltEdge,449.73,847.45
+PROD-000068,ApexTech Audio & Headphones Lite 892,Consumer Electronics,Audio & Headphones,ApexTech,470.85,1064.12
+PROD-000069,AuraSound Smartphones Plus 901,Consumer Electronics,Smartphones,AuraSound,678.74,1054.97
+PROD-000070,ApexTech Laptops Plus 904,Consumer Electronics,Laptops,ApexTech,264.24,520.88
+PROD-000071,AuraSound Smartphones Plus 751,Consumer Electronics,Smartphones,AuraSound,18.59,27.82
+PROD-000072,VoltEdge Laptops Ultra 545,Consumer Electronics,Laptops,VoltEdge,91.46,150.44
+PROD-000073,TechPulse Audio & Headphones Ultra 138,Consumer Electronics,Audio & Headphones,TechPulse,408.78,1092.24
+PROD-000074,ApexTech Wearables Standard 633,Consumer Electronics,Wearables,ApexTech,161.05,443.96
+PROD-000075,AuraSound Smartphones Standard 606,Consumer Electronics,Smartphones,AuraSound,421.49,669.67
+PROD-000076,NexusGear Accessories Max 134,Consumer Electronics,Accessories,NexusGear,615.27,1180.25
+PROD-000077,ApexTech Laptops Max 790,Consumer Electronics,Laptops,ApexTech,45.21,73.36
+PROD-000078,AuraSound Smartphones Pro 382,Consumer Electronics,Smartphones,AuraSound,676.65,1173.91
+PROD-000079,VoltEdge Wearables Ultra 305,Consumer Electronics,Wearables,VoltEdge,347.58,786.25
+PROD-000080,TechPulse Smartphones Ultra 391,Consumer Electronics,Smartphones,TechPulse,552.06,1094.68
+PROD-000081,NexusGear Accessories Lite 935,Consumer Electronics,Accessories,NexusGear,209.36,429.22
+PROD-000082,VoltEdge Laptops Plus 688,Consumer Electronics,Laptops,VoltEdge,17.16,26.87
+PROD-000083,TechPulse Accessories Ultra 174,Consumer Electronics,Accessories,TechPulse,444.29,764.68
+PROD-000084,ApexTech Smartphones Lite 997,Consumer Electronics,Smartphones,ApexTech,344.65,816.09
+PROD-000085,VoltEdge Audio & Headphones Plus 676,Consumer Electronics,Audio & Headphones,VoltEdge,452.39,735.76
+PROD-000086,VoltEdge Audio & Headphones Standard 571,Consumer Electronics,Audio & Headphones,VoltEdge,536.44,1346.85
+PROD-000087,TechPulse Wearables Lite 169,Consumer Electronics,Wearables,TechPulse,248.6,586.35
+PROD-000088,AuraSound Laptops Lite 522,Consumer Electronics,Laptops,AuraSound,744.59,1434.05
+PROD-000090,TechPulse Audio & Headphones Ultra 282,Consumer Electronics,Audio & Headphones,TechPulse,417.96,725.29
+PROD-000091,NexusGear Accessories Max 864,Consumer Electronics,Accessories,NexusGear,393.35,1030.99
+PROD-000092,AuraSound Wearables Max 853,Consumer Electronics,Wearables,AuraSound,229.63,378.23
+PROD-000093,AuraSound Laptops Max 956,Consumer Electronics,Laptops,AuraSound,603.78,935.51
+PROD-000094,TechPulse Smartphones Pro 792,Consumer Electronics,Smartphones,TechPulse,756.82,1434.54
+PROD-000095,ApexTech Smartphones Pro 968,Consumer Electronics,Smartphones,ApexTech,354.24,733.78
+PROD-000096,ApexTech Wearables Lite 602,Consumer Electronics,Wearables,ApexTech,125.7,290.64
+PROD-000097,NexusGear Accessories Plus 327,Consumer Electronics,Accessories,NexusGear,740.44,1130.24
+PROD-000098,VoltEdge Accessories Plus 653,Consumer Electronics,Accessories,VoltEdge,39.44,68.18
+PROD-000099,VoltEdge Laptops Pro 815,Consumer Electronics,Laptops,VoltEdge,463.91,786.93
+PROD-000100,TechPulse Smartphones Standard 315,Consumer Electronics,Smartphones,TechPulse,386.57,581.54
+PROD-000101,ApexTech Audio & Headphones Lite 291,Consumer Electronics,Audio & Headphones,ApexTech,513.26,831.86
+PROD-000102,ApexTech Wearables Lite 474,Consumer Electronics,Wearables,ApexTech,161.17,292.18
+PROD-000103,NexusGear Wearables Lite 974,Consumer Electronics,Wearables,NexusGear,332.33,612.87
+PROD-000104,AuraSound Accessories Ultra 802,Consumer Electronics,Accessories,AuraSound,238.27,358.27
+PROD-000105,AuraSound Audio & Headphones Ultra 542,Consumer Electronics,Audio & Headphones,AuraSound,812.79,1287.33
+PROD-000106,VoltEdge Laptops Pro 280,Consumer Electronics,Laptops,VoltEdge,420.39,643.84
+PROD-000107,ApexTech Accessories Standard 423,Consumer Electronics,Accessories,ApexTech,703.44,1182.28
+PROD-000108,ApexTech Accessories Pro 507,Consumer Electronics,Accessories,ApexTech,107.01,166.47
+PROD-000109,NexusGear Laptops Plus 959,Consumer Electronics,Laptops,NexusGear,516.61,952.19
+PROD-000110,NexusGear Audio & Headphones Lite 468,Consumer Electronics,Audio & Headphones,NexusGear,317.52,849.31
+PROD-000111,CozyNest Home Decor Pro 521,Home & Kitchen,Home Decor,CozyNest,29.25,73.79
+PROD-000112,LuminaHome Storage Ultra 689,Home & Kitchen,Storage,LuminaHome,168.9,330.17
+PROD-000113,CozyNest Home Decor Lite 789,Home & Kitchen,Home Decor,CozyNest,112.6,262.56
+PROD-000114,ChefMaster Bedding Plus 728,Home & Kitchen,Bedding,ChefMaster,73.73,153.95
+PROD-000115,LuminaHome Small Appliances Standard 927,Home & Kitchen,Small Appliances,LuminaHome,257.04,465.34
+PROD-000116,ArtisanLiving Storage Plus 969,Home & Kitchen,Storage,ArtisanLiving,305.85,454.92
+PROD-000117,LuminaHome Home Decor Lite 424,Home & Kitchen,Home Decor,LuminaHome,149.71,331.7
+PROD-000118,PureCraft Storage Lite 555,Home & Kitchen,Storage,PureCraft,146.25,393.76
+PROD-000119,ArtisanLiving Storage Plus 523,Home & Kitchen,Storage,ArtisanLiving,38.55,96.14
+PROD-000120,LuminaHome Small Appliances Standard 357,Home & Kitchen,Small Appliances,LuminaHome,214.24,471.1
+PROD-000121,LuminaHome Cookware Max 506,Home & Kitchen,Cookware,LuminaHome,44.01,64.95
+PROD-000122,ArtisanLiving Bedding Pro 126,Home & Kitchen,Bedding,ArtisanLiving,200.9,388.89
+PROD-000123,ChefMaster Cookware Lite 732,Home & Kitchen,Cookware,ChefMaster,42.51,90.3
+PROD-000124,CozyNest Bedding Max 353,Home & Kitchen,General Accessories,CozyNest,203.09,372.72
+PROD-000125,LuminaHome Small Appliances Ultra 958,Home & Kitchen,Small Appliances,LuminaHome,67.21,97.73
+PROD-000126,CozyNest Home Decor Plus 578,Home & Kitchen,Home Decor,CozyNest,249.2,487.86
+PROD-000127,ArtisanLiving Home Decor Plus 238,Home & Kitchen,Home Decor,ArtisanLiving,221.18,485.22
+PROD-000128,ArtisanLiving Small Appliances Ultra 567,Home & Kitchen,Small Appliances,ArtisanLiving,153.29,321.05
+PROD-000129,PureCraft Storage Ultra 755,Home & Kitchen,Storage,PureCraft,192.37,325.16
+PROD-000130,PureCraft Home Decor Ultra 332,Home & Kitchen,Home Decor,PureCraft,221.01,405.27
+PROD-000131,PureCraft Home Decor Lite 259,Home & Kitchen,General Accessories,PureCraft,113.55,162.22
+PROD-000132,CozyNest Small Appliances Lite 580,Home & Kitchen,Small Appliances,CozyNest,126.08,274.51
+PROD-000133,PureCraft Bedding Lite 109,Home & Kitchen,Bedding,PureCraft,162.58,386.44
+PROD-000134,LuminaHome Storage Pro 661,Home & Kitchen,Storage,LuminaHome,109.07,196.21
+PROD-000135,PureCraft Storage Plus 355,Home & Kitchen,General Accessories,PureCraft,41.63,94.18
+PROD-000136,PureCraft Bedding Max 369,Home & Kitchen,Bedding,PureCraft,25.7,53.41
+PROD-000137,ArtisanLiving Storage Standard 801,Home & Kitchen,Storage,ArtisanLiving,69.46,146.84
+PROD-000138,CozyNest Storage Plus 292,Home & Kitchen,Storage,CozyNest,272.87,428.93
+PROD-000139,ChefMaster Home Decor Standard 566,Home & Kitchen,Home Decor,ChefMaster,190.25,314.59
+PROD-000140,PureCraft Storage Max 428,Home & Kitchen,Storage,PureCraft,16.66,24.4
+PROD-000141,ChefMaster Storage Max 204,Home & Kitchen,Storage,ChefMaster,99.63,151.82
+PROD-000143,PureCraft Home Decor Lite 904,Home & Kitchen,Home Decor,PureCraft,141.24,402.73
+PROD-000144,ChefMaster Bedding Lite 182,Home & Kitchen,Bedding,ChefMaster,155.62,424.11
+PROD-000145,CozyNest Cookware Plus 173,Home & Kitchen,Cookware,CozyNest,177.21,278.44
+PROD-000146,PureCraft Home Decor Pro 224,Home & Kitchen,Home Decor,PureCraft,219.38,487.67
+PROD-000147,PureCraft Bedding Max 855,Home & Kitchen,Bedding,PureCraft,313.47,497.34
+PROD-000148,ArtisanLiving Cookware Standard 313,Home & Kitchen,Cookware,ArtisanLiving,112.75,244.31
+PROD-000149,CozyNest Home Decor Max 744,Home & Kitchen,Home Decor,CozyNest,161.76,368.18
+PROD-000150,ArtisanLiving Storage Pro 359,Home & Kitchen,Storage,ArtisanLiving,147.9,248.39
+PROD-000152,CozyNest Bedding Pro 271,Home & Kitchen,Bedding,CozyNest,198.28,400.27
+PROD-000153,LuminaHome Bedding Pro 143,Home & Kitchen,Bedding,LuminaHome,136.01,296.81
+PROD-000154,LuminaHome Storage Lite 889,Home & Kitchen,Storage,LuminaHome,37.65,58.39
+PROD-000155,ArtisanLiving Cookware Lite 877,Home & Kitchen,Cookware,ArtisanLiving,216.07,318.18
+PROD-000156,ArtisanLiving Small Appliances Pro 228,Home & Kitchen,Small Appliances,ArtisanLiving,148.22,251.59
+PROD-000157,CozyNest Storage Plus 850,Home & Kitchen,Storage,CozyNest,49.81,108.58
+PROD-000158,LuminaHome Home Decor Lite 140,Home & Kitchen,Home Decor,LuminaHome,136.92,250.36
+PROD-000159,ArtisanLiving Home Decor Standard 601,Home & Kitchen,Home Decor,ArtisanLiving,67.93,107.03
+PROD-000160,CozyNest Home Decor Standard 579,Home & Kitchen,Home Decor,CozyNest,60.75,148.52
+PROD-000161,LuminaHome Storage Pro 643,Home & Kitchen,Storage,LuminaHome,53.79,90.18
+PROD-000162,ArtisanLiving Home Decor Lite 564,Home & Kitchen,Home Decor,ArtisanLiving,7.31,15.34
+PROD-000163,LuminaHome Bedding Pro 734,Home & Kitchen,Bedding,LuminaHome,184.45,430.55
+PROD-000164,CozyNest Small Appliances Standard 164,Home & Kitchen,Small Appliances,CozyNest,170.93,334.26
+PROD-000165,LuminaHome Bedding Ultra 799,Home & Kitchen,Bedding,LuminaHome,129.94,256.3
+PROD-000166,CozyNest Storage Lite 519,Home & Kitchen,Storage,CozyNest,215.48,325.83
+PROD-000167,ChefMaster Storage Pro 955,Home & Kitchen,Storage,ChefMaster,299.5,469.82
+PROD-000168,LuminaHome Cookware Pro 597,Home & Kitchen,Cookware,LuminaHome,74.34,107.92
+PROD-000169,PureCraft Bedding Ultra 738,Home & Kitchen,Bedding,PureCraft,216.78,355.13
+PROD-000171,PureCraft Small Appliances Pro 579,Home & Kitchen,Small Appliances,PureCraft,273.86,403.48
+PROD-000172,PureCraft Storage Lite 913,Home & Kitchen,Storage,PureCraft,147.64,358.58
+PROD-000173,ArtisanLiving Home Decor Pro 851,Home & Kitchen,Home Decor,ArtisanLiving,29.17,49.13
+PROD-000174,ArtisanLiving Small Appliances Pro 203,Home & Kitchen,Small Appliances,ArtisanLiving,188.45,366.7
+PROD-000175,LuminaHome Small Appliances Ultra 772,Home & Kitchen,Small Appliances,LuminaHome,65.26,135.64
+PROD-000176,ArtisanLiving Small Appliances Standard 671,Home & Kitchen,Small Appliances,ArtisanLiving,143.46,216.35
+PROD-000177,CozyNest Storage Standard 569,Home & Kitchen,Storage,CozyNest,195.84,355.73
+PROD-000178,LuminaHome Cookware Max 663,Home & Kitchen,Cookware,LuminaHome,122.05,209.75
+PROD-000179,ArtisanLiving Small Appliances Ultra 553,Home & Kitchen,Small Appliances,ArtisanLiving,179.68,467.75
+PROD-000180,CozyNest Storage Lite 522,Home & Kitchen,Storage,CozyNest,211.82,385.62
+PROD-000181,ArtisanLiving Home Decor Max 676,Home & Kitchen,General Accessories,ArtisanLiving,159.03,279.62
+PROD-000182,CozyNest Storage Lite 563,Home & Kitchen,Storage,CozyNest,130.17,232.03
+PROD-000184,ChefMaster Home Decor Lite 327,Home & Kitchen,Home Decor,ChefMaster,70.29,119.18
+PROD-000185,ArtisanLiving Home Decor Ultra 669,Home & Kitchen,Home Decor,ArtisanLiving,145.86,291.76
+PROD-000186,ChefMaster Cookware Plus 464,Home & Kitchen,Cookware,ChefMaster,55.08,90.7
+PROD-000187,LuminaHome Storage Max 362,Home & Kitchen,Storage,LuminaHome,272.72,408.36
+PROD-000188,ArtisanLiving Bedding Max 851,Home & Kitchen,Bedding,ArtisanLiving,30.74,52.43
+PROD-000189,LuminaHome Bedding Plus 945,Home & Kitchen,Bedding,LuminaHome,204.76,451.02
+PROD-000190,ArtisanLiving Cookware Standard 407,Home & Kitchen,Cookware,ArtisanLiving,13.81,33.12
+PROD-000191,ChefMaster Bedding Pro 889,Home & Kitchen,Bedding,ChefMaster,69.46,177.17
+PROD-000192,PureCraft Bedding Pro 990,Home & Kitchen,Bedding,PureCraft,170.34,388.63
+PROD-000193,ChefMaster Storage Standard 896,Home & Kitchen,Storage,ChefMaster,219.03,321.6
+PROD-000194,ChefMaster Storage Lite 652,Home & Kitchen,Storage,ChefMaster,169.22,288.97
+PROD-000195,LuminaHome Small Appliances Pro 789,Home & Kitchen,Small Appliances,LuminaHome,208.01,369.81
+PROD-000196,ArtisanLiving Bedding Ultra 616,Home & Kitchen,Bedding,ArtisanLiving,32.2,58.68
+PROD-000197,LuminaHome Bedding Max 444,Home & Kitchen,Bedding,LuminaHome,27.51,55.02
+PROD-000198,ArtisanLiving Cookware Plus 368,Home & Kitchen,Cookware,ArtisanLiving,29.5,56.25
+PROD-000199,LuminaHome Small Appliances Plus 672,Home & Kitchen,Small Appliances,LuminaHome,62.38,111.07
+PROD-000200,LuminaHome Storage Ultra 730,Home & Kitchen,Storage,LuminaHome,257.52,498.57
+PROD-000201,ChefMaster Small Appliances Lite 895,Home & Kitchen,Small Appliances,ChefMaster,102.92,223.57
+PROD-000202,ChefMaster Storage Pro 787,Home & Kitchen,Storage,ChefMaster,123.35,215.58
+PROD-000203,CozyNest Small Appliances Lite 708,Home & Kitchen,Small Appliances,CozyNest,143.33,332.86
+PROD-000204,CozyNest Small Appliances Ultra 941,Home & Kitchen,Small Appliances,CozyNest,270.01,495.22
+PROD-000205,PureCraft Small Appliances Pro 937,Home & Kitchen,Small Appliances,PureCraft,59.0,128.23
+PROD-000206,ChefMaster Small Appliances Pro 857,Home & Kitchen,Small Appliances,ChefMaster,15.24,41.44
+PROD-000207,CozyNest Small Appliances Pro 451,Home & Kitchen,Small Appliances,CozyNest,232.35,351.48
+PROD-000208,PureCraft Bedding Pro 439,Home & Kitchen,Bedding,PureCraft,59.54,116.36
+PROD-000209,ArtisanLiving Small Appliances Ultra 868,Home & Kitchen,Small Appliances,ArtisanLiving,74.57,140.44
+PROD-000210,ChefMaster Small Appliances Plus 696,Home & Kitchen,Small Appliances,ChefMaster,234.31,454.42
+PROD-000212,ChefMaster Home Decor Plus 770,Home & Kitchen,Home Decor,ChefMaster,320.35,473.4
+PROD-000213,CozyNest Home Decor Pro 119,Home & Kitchen,Home Decor,CozyNest,61.3,156.85
+PROD-000214,LuminaHome Bedding Plus 620,Home & Kitchen,Bedding,LuminaHome,325.02,488.65
+PROD-000215,PureCraft Home Decor Ultra 644,Home & Kitchen,Home Decor,PureCraft,36.36,57.68
+PROD-000216,ArtisanLiving Bedding Standard 122,Home & Kitchen,Bedding,ArtisanLiving,12.93,34.27
+PROD-000217,CozyNest Home Decor Plus 502,Home & Kitchen,Home Decor,CozyNest,260.8,376.02
+PROD-000218,CozyNest Home Decor Standard 409,Home & Kitchen,Home Decor,CozyNest,46.33,129.55
+PROD-000219,CozyNest Storage Pro 740,Home & Kitchen,Storage,CozyNest,79.01,139.96
+PROD-000220,ArtisanLiving Cookware Lite 330,Home & Kitchen,Cookware,ArtisanLiving,34.19,88.57
+PROD-000221,UrbanStitch Women's Wear Standard 491,Apparel & Footwear,Women's Wear,UrbanStitch,63.01,136.17
+PROD-000222,NordicThread Women's Wear Max 686,Apparel & Footwear,Women's Wear,NordicThread,17.58,48.78
+PROD-000223,VerveFit Fashion Accessories Plus 655,Apparel & Footwear,Fashion Accessories,VerveFit,20.65,43.79
+PROD-000224,ZenithAttire Fashion Accessories Standard 919,Apparel & Footwear,Fashion Accessories,ZenithAttire,39.46,60.55
+PROD-000225,AeroStyle Fashion Accessories Plus 888,Apparel & Footwear,Fashion Accessories,AeroStyle,17.54,46.97
+PROD-000227,VerveFit Women's Wear Max 844,Apparel & Footwear,Women's Wear,VerveFit,11.47,19.5
+PROD-000228,NordicThread Outerwear Lite 553,Apparel & Footwear,Outerwear,NordicThread,78.18,189.57
+PROD-000229,AeroStyle Athletic Shoes Max 209,Apparel & Footwear,Athletic Shoes,AeroStyle,30.22,43.74
+PROD-000230,ZenithAttire Fashion Accessories Lite 720,Apparel & Footwear,Fashion Accessories,ZenithAttire,91.12,147.17
+PROD-000231,AeroStyle Women's Wear Standard 126,Apparel & Footwear,Women's Wear,AeroStyle,44.91,97.82
+PROD-000232,AeroStyle Outerwear Ultra 966,Apparel & Footwear,Outerwear,AeroStyle,70.37,156.11
+PROD-000233,AeroStyle Athletic Shoes Plus 603,Apparel & Footwear,Athletic Shoes,AeroStyle,80.35,125.03
+PROD-000234,UrbanStitch Women's Wear Plus 882,Apparel & Footwear,Women's Wear,UrbanStitch,91.23,242.58
+PROD-000235,AeroStyle Outerwear Standard 787,Apparel & Footwear,Outerwear,AeroStyle,107.48,247.2
+PROD-000236,AeroStyle Men's Wear Plus 987,Apparel & Footwear,Men's Wear,AeroStyle,73.04,159.05
+PROD-000237,AeroStyle Outerwear Plus 514,Apparel & Footwear,Outerwear,AeroStyle,95.91,196.84
+PROD-000238,VerveFit Outerwear Plus 726,Apparel & Footwear,Outerwear,VerveFit,117.73,235.54
+PROD-000239,ZenithAttire Fashion Accessories Standard 996,Apparel & Footwear,Fashion Accessories,ZenithAttire,123.38,179.72
+PROD-000240,NordicThread Men's Wear Plus 946,Apparel & Footwear,Men's Wear,NordicThread,86.79,220.96
+PROD-000241,ZenithAttire Women's Wear Ultra 505,Apparel & Footwear,Women's Wear,ZenithAttire,168.92,246.15
+PROD-000242,ZenithAttire Outerwear Standard 150,Apparel & Footwear,Outerwear,ZenithAttire,31.45,57.59
+PROD-000243,VerveFit Athletic Shoes Plus 270,Apparel & Footwear,Athletic Shoes,VerveFit,54.77,112.83
+PROD-000244,ZenithAttire Men's Wear Max 574,Apparel & Footwear,Men's Wear,ZenithAttire,113.58,209.59
+PROD-000246,AeroStyle Fashion Accessories Plus 523,Apparel & Footwear,Fashion Accessories,AeroStyle,61.75,89.32
+PROD-000247,ZenithAttire Outerwear Standard 306,Apparel & Footwear,Outerwear,ZenithAttire,148.46,222.1
+PROD-000248,AeroStyle Athletic Shoes Standard 850,Apparel & Footwear,Athletic Shoes,AeroStyle,27.62,41.84
+PROD-000249,VerveFit Outerwear Pro 636,Apparel & Footwear,Outerwear,VerveFit,80.42,180.47
+PROD-000250,ZenithAttire Fashion Accessories Max 487,Apparel & Footwear,Fashion Accessories,ZenithAttire,98.04,143.2
+PROD-000251,VerveFit Women's Wear Ultra 992,Apparel & Footwear,Women's Wear,VerveFit,109.51,169.13
+PROD-000252,AeroStyle Women's Wear Standard 152,Apparel & Footwear,Women's Wear,AeroStyle,66.36,112.15
+PROD-000253,VerveFit Outerwear Standard 285,Apparel & Footwear,Outerwear,VerveFit,26.43,40.42
+PROD-000254,UrbanStitch Women's Wear Ultra 883,Apparel & Footwear,Women's Wear,UrbanStitch,39.17,72.61
+PROD-000255,ZenithAttire Outerwear Pro 722,Apparel & Footwear,Outerwear,ZenithAttire,137.0,222.13
+PROD-000256,NordicThread Fashion Accessories Plus 519,Apparel & Footwear,Fashion Accessories,NordicThread,57.5,117.44
+PROD-000257,AeroStyle Men's Wear Ultra 384,Apparel & Footwear,Men's Wear,AeroStyle,80.62,159.69
+PROD-000258,UrbanStitch Women's Wear Max 251,Apparel & Footwear,Women's Wear,UrbanStitch,14.78,25.58
+PROD-000259,UrbanStitch Women's Wear Standard 691,Apparel & Footwear,General Accessories,UrbanStitch,125.97,211.52
+PROD-000260,UrbanStitch Men's Wear Pro 526,Apparel & Footwear,Men's Wear,UrbanStitch,159.92,248.5
+PROD-000261,ZenithAttire Athletic Shoes Standard 808,Apparel & Footwear,Athletic Shoes,ZenithAttire,89.3,178.71
+PROD-000262,AeroStyle Fashion Accessories Plus 867,Apparel & Footwear,Fashion Accessories,AeroStyle,56.1,150.0
+PROD-000263,VerveFit Men's Wear Lite 477,Apparel & Footwear,Men's Wear,VerveFit,93.17,225.65
+PROD-000264,ZenithAttire Outerwear Pro 399,Apparel & Footwear,Outerwear,ZenithAttire,81.71,124.31
+PROD-000265,VerveFit Athletic Shoes Ultra 523,Apparel & Footwear,General Accessories,VerveFit,62.58,137.1
+PROD-000266,UrbanStitch Fashion Accessories Pro 685,Apparel & Footwear,Fashion Accessories,UrbanStitch,89.16,185.8
+PROD-000267,NordicThread Men's Wear Standard 805,Apparel & Footwear,Men's Wear,NordicThread,66.22,156.13
+PROD-000269,VerveFit Fashion Accessories Max 729,Apparel & Footwear,Fashion Accessories,VerveFit,75.71,146.12
+PROD-000270,NordicThread Outerwear Max 724,Apparel & Footwear,Outerwear,NordicThread,40.55,67.77
+PROD-000271,UrbanStitch Women's Wear Pro 124,Apparel & Footwear,Women's Wear,UrbanStitch,51.76,122.91
+PROD-000272,ZenithAttire Women's Wear Plus 523,Apparel & Footwear,Women's Wear,ZenithAttire,13.46,23.3
+PROD-000273,UrbanStitch Women's Wear Standard 306,Apparel & Footwear,General Accessories,UrbanStitch,107.75,176.37
+PROD-000274,VerveFit Men's Wear Lite 618,Apparel & Footwear,Men's Wear,VerveFit,61.76,143.12
+PROD-000275,VerveFit Men's Wear Lite 505,Apparel & Footwear,Men's Wear,VerveFit,89.39,184.54
+PROD-000276,AeroStyle Men's Wear Max 438,Apparel & Footwear,Men's Wear,AeroStyle,79.41,210.53
+PROD-000278,ZenithAttire Outerwear Lite 573,Apparel & Footwear,Outerwear,ZenithAttire,110.3,198.69
+PROD-000280,UrbanStitch Fashion Accessories Max 691,Apparel & Footwear,Fashion Accessories,UrbanStitch,73.65,175.3
+PROD-000281,UrbanStitch Athletic Shoes Max 387,Apparel & Footwear,Athletic Shoes,UrbanStitch,123.33,212.17
+PROD-000282,ZenithAttire Outerwear Max 684,Apparel & Footwear,Outerwear,ZenithAttire,99.19,156.35
+PROD-000283,VerveFit Men's Wear Standard 978,Apparel & Footwear,Men's Wear,VerveFit,60.07,87.19
+PROD-000284,UrbanStitch Outerwear Plus 998,Apparel & Footwear,Outerwear,UrbanStitch,37.35,68.94
+PROD-000285,AeroStyle Athletic Shoes Ultra 409,Apparel & Footwear,Athletic Shoes,AeroStyle,30.76,54.06
+PROD-000286,AeroStyle Men's Wear Pro 554,Apparel & Footwear,Men's Wear,AeroStyle,55.77,132.67
+PROD-000287,AeroStyle Fashion Accessories Max 448,Apparel & Footwear,Fashion Accessories,AeroStyle,102.86,231.85
+PROD-000288,VerveFit Fashion Accessories Lite 246,Apparel & Footwear,Fashion Accessories,VerveFit,129.95,195.24
+PROD-000289,AeroStyle Fashion Accessories Max 841,Apparel & Footwear,Fashion Accessories,AeroStyle,11.95,21.18
+PROD-000290,UrbanStitch Fashion Accessories Pro 418,Apparel & Footwear,Fashion Accessories,UrbanStitch,107.49,233.92
+PROD-000291,UrbanStitch Fashion Accessories Lite 578,Apparel & Footwear,Fashion Accessories,UrbanStitch,148.5,223.67
+PROD-000292,UrbanStitch Athletic Shoes Ultra 876,Apparel & Footwear,Athletic Shoes,UrbanStitch,33.59,86.63
+PROD-000293,AeroStyle Athletic Shoes Max 393,Apparel & Footwear,Athletic Shoes,AeroStyle,46.0,78.2
+PROD-000294,UrbanStitch Outerwear Lite 252,Apparel & Footwear,Outerwear,UrbanStitch,32.93,49.9
+PROD-000295,ZenithAttire Fashion Accessories Ultra 204,Apparel & Footwear,Fashion Accessories,ZenithAttire,35.54,61.56
+PROD-000296,VerveFit Athletic Shoes Max 821,Apparel & Footwear,Athletic Shoes,VerveFit,101.53,203.44
+PROD-000297,UrbanStitch Women's Wear Lite 727,Apparel & Footwear,Women's Wear,UrbanStitch,114.62,224.4
+PROD-000298,AeroStyle Men's Wear Pro 582,Apparel & Footwear,Men's Wear,AeroStyle,154.9,227.02
+PROD-000299,UrbanStitch Outerwear Pro 536,Apparel & Footwear,Outerwear,UrbanStitch,47.87,105.58
+PROD-000300,NordicThread Fashion Accessories Ultra 464,Apparel & Footwear,Fashion Accessories,NordicThread,35.88,86.7
+PROD-000301,UrbanStitch Fashion Accessories Plus 681,Apparel & Footwear,Fashion Accessories,UrbanStitch,18.2,43.8
+PROD-000302,UrbanStitch Outerwear Plus 417,Apparel & Footwear,Outerwear,UrbanStitch,79.03,175.06
+PROD-000303,NordicThread Outerwear Max 329,Apparel & Footwear,Outerwear,NordicThread,18.02,46.63
+PROD-000304,VerveFit Athletic Shoes Plus 287,Apparel & Footwear,Athletic Shoes,VerveFit,83.46,178.65
+PROD-000305,NordicThread Athletic Shoes Plus 130,Apparel & Footwear,Athletic Shoes,NordicThread,18.51,28.02
+PROD-000306,NordicThread Outerwear Max 389,Apparel & Footwear,Outerwear,NordicThread,95.19,194.88
+PROD-000307,ZenithAttire Women's Wear Pro 515,Apparel & Footwear,Women's Wear,ZenithAttire,87.03,206.66
+PROD-000308,ZenithAttire Athletic Shoes Standard 172,Apparel & Footwear,Athletic Shoes,ZenithAttire,103.06,200.69
+PROD-000309,ZenithAttire Outerwear Plus 344,Apparel & Footwear,Outerwear,ZenithAttire,81.29,159.95
+PROD-000310,NordicThread Outerwear Pro 448,Apparel & Footwear,Outerwear,NordicThread,28.32,61.95
+PROD-000311,NordicThread Outerwear Ultra 906,Apparel & Footwear,Outerwear,NordicThread,42.86,93.77
+PROD-000312,UrbanStitch Women's Wear Standard 828,Apparel & Footwear,Women's Wear,UrbanStitch,78.85,148.86
+PROD-000313,ZenithAttire Fashion Accessories Plus 433,Apparel & Footwear,Fashion Accessories,ZenithAttire,59.51,144.33
+PROD-000314,VerveFit Women's Wear Plus 171,Apparel & Footwear,Women's Wear,VerveFit,71.12,154.58
+PROD-000315,NordicThread Fashion Accessories Lite 606,Apparel & Footwear,Fashion Accessories,NordicThread,112.41,165.68
+PROD-000316,AeroStyle Women's Wear Ultra 873,Apparel & Footwear,Women's Wear,AeroStyle,114.5,163.58
+PROD-000317,AeroStyle Women's Wear Plus 644,Apparel & Footwear,Women's Wear,AeroStyle,39.6,81.73
+PROD-000318,AeroStyle Outerwear Max 797,Apparel & Footwear,Outerwear,AeroStyle,131.44,220.88
+PROD-000319,NordicThread Athletic Shoes Standard 452,Apparel & Footwear,Athletic Shoes,NordicThread,122.86,247.68
+PROD-000320,ZenithAttire Fashion Accessories Plus 967,Apparel & Footwear,Fashion Accessories,ZenithAttire,25.55,42.79
+PROD-000321,ZenithAttire Athletic Shoes Pro 100,Apparel & Footwear,General Accessories,ZenithAttire,74.1,179.54
+PROD-000322,UrbanStitch Athletic Shoes Lite 986,Apparel & Footwear,Athletic Shoes,UrbanStitch,10.93,19.91
+PROD-000323,NordicThread Fashion Accessories Standard 425,Apparel & Footwear,Fashion Accessories,NordicThread,101.28,181.54
+PROD-000324,ZenithAttire Outerwear Max 778,Apparel & Footwear,Outerwear,ZenithAttire,34.96,53.68
+PROD-000325,NordicThread Fashion Accessories Lite 960,Apparel & Footwear,Fashion Accessories,NordicThread,66.85,111.59
+PROD-000326,AeroStyle Women's Wear Pro 173,Apparel & Footwear,Women's Wear,AeroStyle,108.15,166.49
+PROD-000327,NordicThread Outerwear Max 186,Apparel & Footwear,Outerwear,NordicThread,18.84,45.09
+PROD-000328,ZenithAttire Outerwear Plus 738,Apparel & Footwear,Outerwear,ZenithAttire,28.8,55.2
+PROD-000329,NordicThread Fashion Accessories Plus 463,Apparel & Footwear,Fashion Accessories,NordicThread,36.45,66.11
+PROD-000330,ZenithAttire Men's Wear Plus 967,Apparel & Footwear,Men's Wear,ZenithAttire,83.88,186.08
+PROD-000331,OmniReads Technical & Engineering Ultra 690,Books & Media,Technical & Engineering,OmniReads,17.78,49.72
+PROD-000332,OmniReads Children's Books Standard 477,Books & Media,Children's Books,OmniReads,11.45,21.55
+PROD-000333,BeaconPress Fiction Standard 848,Books & Media,Fiction,BeaconPress,26.92,67.42
+PROD-000334,OmniReads Technical & Engineering Ultra 180,Books & Media,Technical & Engineering,OmniReads,32.63,67.08
+PROD-000335,OmniReads Non-Fiction Standard 859,Books & Media,Non-Fiction,OmniReads,38.52,82.66
+PROD-000336,ScholarHouse Children's Books Lite 727,Books & Media,Children's Books,ScholarHouse,8.61,14.85
+PROD-000337,OmniReads Fiction Plus 624,Books & Media,Fiction,OmniReads,54.68,109.56
+PROD-000338,OmniReads Technical & Engineering Lite 917,Books & Media,Technical & Engineering,OmniReads,26.74,41.69
+PROD-000339,InsightBooks Children's Books Standard 903,Books & Media,Children's Books,InsightBooks,48.55,71.56
+PROD-000340,ScholarHouse Self-Help Max 686,Books & Media,Self-Help,ScholarHouse,5.2,14.72
+PROD-000341,ApexPublishing Children's Books Lite 596,Books & Media,Children's Books,ApexPublishing,9.49,18.15
+PROD-000342,InsightBooks Technical & Engineering Max 730,Books & Media,Technical & Engineering,InsightBooks,16.06,40.18
+PROD-000343,ApexPublishing Fiction Ultra 278,Books & Media,Fiction,ApexPublishing,48.55,110.01
+PROD-000344,InsightBooks Self-Help Max 367,Books & Media,Self-Help,InsightBooks,59.17,95.85
+PROD-000345,ScholarHouse Non-Fiction Pro 451,Books & Media,Non-Fiction,ScholarHouse,42.73,118.22
+PROD-000346,BeaconPress Children's Books Plus 870,Books & Media,Children's Books,BeaconPress,51.33,119.28
+PROD-000347,OmniReads Non-Fiction Standard 752,Books & Media,Non-Fiction,OmniReads,13.72,27.56
+PROD-000349,OmniReads Non-Fiction Plus 587,Books & Media,Non-Fiction,OmniReads,18.62,42.44
+PROD-000350,BeaconPress Children's Books Plus 799,Books & Media,Children's Books,BeaconPress,46.61,87.31
+PROD-000351,ScholarHouse Non-Fiction Plus 112,Books & Media,Non-Fiction,ScholarHouse,17.28,41.05
+PROD-000352,InsightBooks Self-Help Ultra 799,Books & Media,Self-Help,InsightBooks,76.64,115.09
+PROD-000353,InsightBooks Children's Books Plus 725,Books & Media,Children's Books,InsightBooks,44.31,110.89
+PROD-000354,InsightBooks Technical & Engineering Lite 921,Books & Media,Technical & Engineering,InsightBooks,9.37,19.9
+PROD-000355,OmniReads Self-Help Standard 867,Books & Media,Self-Help,OmniReads,16.66,35.83
+PROD-000356,ScholarHouse Non-Fiction Lite 793,Books & Media,Non-Fiction,ScholarHouse,54.54,85.61
+PROD-000357,ApexPublishing Children's Books Standard 108,Books & Media,Children's Books,ApexPublishing,70.49,101.31
+PROD-000358,ScholarHouse Fiction Pro 801,Books & Media,Fiction,ScholarHouse,36.45,58.49
+PROD-000359,InsightBooks Technical & Engineering Max 134,Books & Media,Technical & Engineering,InsightBooks,7.76,11.62
+PROD-000360,BeaconPress Children's Books Ultra 753,Books & Media,Children's Books,BeaconPress,8.21,22.51
+PROD-000361,ScholarHouse Fiction Max 484,Books & Media,Fiction,ScholarHouse,31.52,81.85
+PROD-000362,BeaconPress Children's Books Pro 812,Books & Media,Children's Books,BeaconPress,17.57,29.44
+PROD-000363,OmniReads Fiction Lite 887,Books & Media,Fiction,OmniReads,21.64,56.39
+PROD-000364,InsightBooks Technical & Engineering Max 899,Books & Media,Technical & Engineering,InsightBooks,7.36,17.2
+PROD-000365,OmniReads Self-Help Lite 161,Books & Media,Self-Help,OmniReads,15.64,37.65
+PROD-000366,OmniReads Non-Fiction Pro 603,Books & Media,Non-Fiction,OmniReads,74.13,117.71
+PROD-000367,BeaconPress Self-Help Standard 603,Books & Media,Self-Help,BeaconPress,10.74,21.03
+PROD-000368,BeaconPress Self-Help Ultra 758,Books & Media,Self-Help,BeaconPress,11.33,20.78
+PROD-000369,ApexPublishing Technical & Engineering Pro 174,Books & Media,Technical & Engineering,ApexPublishing,7.49,16.81
+PROD-000370,ApexPublishing Self-Help Plus 252,Books & Media,General Accessories,ApexPublishing,57.0,81.46
+PROD-000371,OmniReads Fiction Lite 255,Books & Media,Fiction,OmniReads,33.24,86.7
+PROD-000372,ApexPublishing Children's Books Ultra 824,Books & Media,Children's Books,ApexPublishing,59.86,113.32
+PROD-000373,OmniReads Self-Help Standard 899,Books & Media,Self-Help,OmniReads,66.97,99.15
+PROD-000374,ApexPublishing Non-Fiction Plus 805,Books & Media,Non-Fiction,ApexPublishing,53.02,99.79
+PROD-000375,ScholarHouse Children's Books Lite 441,Books & Media,Children's Books,ScholarHouse,47.4,84.67
+PROD-000376,InsightBooks Fiction Ultra 973,Books & Media,Fiction,InsightBooks,77.7,115.65
+PROD-000377,InsightBooks Self-Help Standard 307,Books & Media,Self-Help,InsightBooks,19.62,28.59
+PROD-000378,BeaconPress Self-Help Lite 812,Books & Media,Self-Help,BeaconPress,34.65,52.29
+PROD-000379,OmniReads Technical & Engineering Pro 747,Books & Media,Technical & Engineering,OmniReads,36.51,57.61
+PROD-000380,BeaconPress Fiction Pro 837,Books & Media,Fiction,BeaconPress,73.73,119.59
+PROD-000381,ApexPublishing Self-Help Ultra 758,Books & Media,Self-Help,ApexPublishing,22.14,43.15
+PROD-000382,ApexPublishing Self-Help Pro 447,Books & Media,Self-Help,ApexPublishing,6.45,15.21
+PROD-000383,OmniReads Fiction Pro 316,Books & Media,Fiction,OmniReads,45.98,98.58
+PROD-000384,ScholarHouse Self-Help Max 858,Books & Media,Self-Help,ScholarHouse,27.58,73.3
+PROD-000385,BeaconPress Fiction Plus 769,Books & Media,Fiction,BeaconPress,4.25,11.11
+PROD-000386,ApexPublishing Children's Books Max 818,Books & Media,Children's Books,ApexPublishing,56.3,81.01
+PROD-000387,InsightBooks Fiction Pro 567,Books & Media,Fiction,InsightBooks,31.32,76.84
+PROD-000388,ApexPublishing Fiction Pro 609,Books & Media,Fiction,ApexPublishing,36.35,75.03
+PROD-000389,BeaconPress Fiction Plus 445,Books & Media,Fiction,BeaconPress,35.29,99.07
+PROD-000390,InsightBooks Self-Help Pro 800,Books & Media,Self-Help,InsightBooks,47.54,72.92
+PROD-000391,ApexPublishing Non-Fiction Ultra 277,Books & Media,Non-Fiction,ApexPublishing,30.41,46.23
+PROD-000392,OmniReads Non-Fiction Max 813,Books & Media,Non-Fiction,OmniReads,32.14,50.05
+PROD-000393,ScholarHouse Non-Fiction Pro 236,Books & Media,Non-Fiction,ScholarHouse,8.1,20.09
+PROD-000394,OmniReads Children's Books Max 116,Books & Media,Children's Books,OmniReads,71.63,106.63
+PROD-000395,BeaconPress Fiction Pro 823,Books & Media,Fiction,BeaconPress,31.68,81.33
+PROD-000396,OmniReads Self-Help Standard 229,Books & Media,Self-Help,OmniReads,15.17,31.87
+PROD-000397,OmniReads Children's Books Plus 344,Books & Media,Children's Books,OmniReads,55.01,113.12
+PROD-000398,ScholarHouse Fiction Max 834,Books & Media,Fiction,ScholarHouse,23.69,64.48
+PROD-000399,InsightBooks Technical & Engineering Plus 104,Books & Media,Technical & Engineering,InsightBooks,44.87,70.9
+PROD-000400,ApexPublishing Children's Books Ultra 470,Books & Media,Children's Books,ApexPublishing,37.15,104.75
+PROD-000401,BeaconPress Children's Books Plus 888,Books & Media,Children's Books,BeaconPress,49.25,78.53
+PROD-000402,BeaconPress Fiction Pro 915,Books & Media,Fiction,BeaconPress,10.34,25.55
+PROD-000403,OmniReads Self-Help Max 263,Books & Media,Self-Help,OmniReads,57.11,83.38
+PROD-000404,InsightBooks Technical & Engineering Max 545,Books & Media,Technical & Engineering,InsightBooks,17.86,36.89
+PROD-000405,ApexPublishing Self-Help Pro 858,Books & Media,General Accessories,ApexPublishing,7.58,14.81
+PROD-000406,ApexPublishing Non-Fiction Plus 627,Books & Media,Non-Fiction,ApexPublishing,8.46,21.87
+PROD-000407,ScholarHouse Self-Help Ultra 433,Books & Media,Self-Help,ScholarHouse,24.34,55.51
+PROD-000408,BeaconPress Technical & Engineering Pro 433,Books & Media,Technical & Engineering,BeaconPress,21.14,34.27
+PROD-000409,BeaconPress Self-Help Plus 325,Books & Media,Self-Help,BeaconPress,8.49,17.15
+PROD-000410,OmniReads Fiction Max 321,Books & Media,Fiction,OmniReads,60.56,111.99
+PROD-000411,InsightBooks Self-Help Max 568,Books & Media,Self-Help,InsightBooks,42.56,88.89
+PROD-000412,BeaconPress Technical & Engineering Lite 230,Books & Media,Technical & Engineering,BeaconPress,6.29,12.55
+PROD-000413,BeaconPress Technical & Engineering Pro 972,Books & Media,Technical & Engineering,BeaconPress,33.58,60.66
+PROD-000414,BeaconPress Technical & Engineering Lite 718,Books & Media,Technical & Engineering,BeaconPress,11.13,26.39
+PROD-000415,BeaconPress Children's Books Ultra 666,Books & Media,Children's Books,BeaconPress,69.59,103.9
+PROD-000416,OmniReads Children's Books Max 705,Books & Media,Children's Books,OmniReads,33.12,61.55
+PROD-000417,OmniReads Fiction Standard 993,Books & Media,Fiction,OmniReads,21.29,36.37
+PROD-000418,BeaconPress Children's Books Ultra 252,Books & Media,Children's Books,BeaconPress,42.58,110.42
+PROD-000419,ApexPublishing Self-Help Pro 581,Books & Media,Self-Help,ApexPublishing,47.33,90.41
+PROD-000420,ScholarHouse Self-Help Plus 590,Books & Media,Self-Help,ScholarHouse,45.1,98.87
+PROD-000421,OmniReads Fiction Plus 346,Books & Media,Fiction,OmniReads,7.95,18.21
+PROD-000422,BeaconPress Self-Help Max 467,Books & Media,Self-Help,BeaconPress,19.79,41.82
+PROD-000423,ApexPublishing Fiction Plus 785,Books & Media,Fiction,ApexPublishing,19.44,42.83
+PROD-000424,ScholarHouse Children's Books Pro 565,Books & Media,Children's Books,ScholarHouse,39.4,60.47
+PROD-000425,BeaconPress Self-Help Lite 741,Books & Media,Self-Help,BeaconPress,28.95,60.53
+PROD-000426,OmniReads Fiction Standard 440,Books & Media,Fiction,OmniReads,40.49,67.92
+PROD-000428,ScholarHouse Fiction Lite 853,Books & Media,Fiction,ScholarHouse,58.47,112.47
+PROD-000429,ApexPublishing Technical & Engineering Pro 492,Books & Media,Technical & Engineering,ApexPublishing,23.96,49.57
+PROD-000430,InsightBooks Technical & Engineering Max 763,Books & Media,Technical & Engineering,InsightBooks,48.05,71.02
+PROD-000431,BeaconPress Non-Fiction Lite 344,Books & Media,Non-Fiction,BeaconPress,32.57,68.89
+PROD-000432,BeaconPress Children's Books Standard 879,Books & Media,Children's Books,BeaconPress,19.61,34.01
+PROD-000433,ScholarHouse Technical & Engineering Standard 533,Books & Media,Technical & Engineering,ScholarHouse,26.94,39.75
+PROD-000434,OmniReads Technical & Engineering Plus 613,Books & Media,Technical & Engineering,OmniReads,44.32,67.45
+PROD-000435,ScholarHouse Children's Books Lite 562,Books & Media,Children's Books,ScholarHouse,32.73,77.92
+PROD-000436,BeaconPress Fiction Plus 189,Books & Media,Fiction,BeaconPress,6.9,17.89
+PROD-000437,ApexPublishing Technical & Engineering Pro 268,Books & Media,Technical & Engineering,ApexPublishing,18.07,39.62
+PROD-000438,BeaconPress Self-Help Max 633,Books & Media,Self-Help,BeaconPress,79.36,114.67
+PROD-000439,ScholarHouse Self-Help Max 585,Books & Media,Self-Help,ScholarHouse,25.85,47.47
+PROD-000440,InsightBooks Fiction Max 164,Books & Media,Fiction,InsightBooks,4.8,11.44
+PROD-000441,PureSilk Personal Hygiene Plus 692,Health & Personal Care,Personal Hygiene,PureSilk,35.6,75.12
+PROD-000442,FlexFit Hair Care Ultra 781,Health & Personal Care,Hair Care,FlexFit,57.72,142.39
+PROD-000443,FlexFit Fitness Equipment Lite 680,Health & Personal Care,Fitness Equipment,FlexFit,14.86,35.06
+PROD-000444,PureSilk Vitamins & Supplements Max 595,Health & Personal Care,Vitamins & Supplements,PureSilk,48.32,80.65
+PROD-000445,VitalityPlus Skincare Lite 391,Health & Personal Care,Skincare,VitalityPlus,62.01,96.62
+PROD-000446,RadiantSkin Vitamins & Supplements Lite 286,Health & Personal Care,Vitamins & Supplements,RadiantSkin,79.17,194.9
+PROD-000447,VitalityPlus Vitamins & Supplements Max 219,Health & Personal Care,Vitamins & Supplements,VitalityPlus,10.49,17.81
+PROD-000448,FlexFit Vitamins & Supplements Lite 478,Health & Personal Care,Vitamins & Supplements,FlexFit,22.66,45.04
+PROD-000449,PureSilk Skincare Lite 251,Health & Personal Care,Skincare,PureSilk,41.31,80.84
+PROD-000450,RadiantSkin Vitamins & Supplements Lite 224,Health & Personal Care,Vitamins & Supplements,RadiantSkin,103.23,184.87
+PROD-000451,VitalityPlus Fitness Equipment Plus 427,Health & Personal Care,Fitness Equipment,VitalityPlus,14.29,39.64
+PROD-000452,RadiantSkin Personal Hygiene Lite 762,Health & Personal Care,Personal Hygiene,RadiantSkin,76.93,144.03
+PROD-000453,RadiantSkin Hair Care Standard 250,Health & Personal Care,Hair Care,RadiantSkin,72.05,161.91
+PROD-000454,PureSilk Fitness Equipment Standard 215,Health & Personal Care,Fitness Equipment,PureSilk,57.36,149.0
+PROD-000455,RadiantSkin Vitamins & Supplements Pro 415,Health & Personal Care,Vitamins & Supplements,RadiantSkin,7.11,14.7
+PROD-000456,FlexFit Vitamins & Supplements Lite 194,Health & Personal Care,Vitamins & Supplements,FlexFit,35.07,72.0
+PROD-000457,RadiantSkin Vitamins & Supplements Ultra 327,Health & Personal Care,Vitamins & Supplements,RadiantSkin,68.37,158.43
+PROD-000458,GlowBotanic Vitamins & Supplements Pro 651,Health & Personal Care,Vitamins & Supplements,GlowBotanic,79.36,171.39
+PROD-000459,RadiantSkin Skincare Plus 299,Health & Personal Care,Skincare,RadiantSkin,50.44,103.18
+PROD-000460,GlowBotanic Personal Hygiene Standard 469,Health & Personal Care,Personal Hygiene,GlowBotanic,38.44,85.53
+PROD-000461,PureSilk Fitness Equipment Plus 481,Health & Personal Care,Fitness Equipment,PureSilk,7.13,12.31
+PROD-000462,FlexFit Hair Care Ultra 189,Health & Personal Care,Hair Care,FlexFit,19.84,50.97
+PROD-000463,FlexFit Fitness Equipment Lite 267,Health & Personal Care,Fitness Equipment,FlexFit,58.77,163.07
+PROD-000465,PureSilk Vitamins & Supplements Plus 988,Health & Personal Care,Vitamins & Supplements,PureSilk,63.97,109.8
+PROD-000466,FlexFit Personal Hygiene Pro 106,Health & Personal Care,Personal Hygiene,FlexFit,33.36,87.79
+PROD-000468,VitalityPlus Vitamins & Supplements Max 952,Health & Personal Care,Vitamins & Supplements,VitalityPlus,41.77,82.53
+PROD-000469,PureSilk Skincare Ultra 411,Health & Personal Care,Skincare,PureSilk,45.81,103.87
+PROD-000470,GlowBotanic Vitamins & Supplements Pro 257,Health & Personal Care,Vitamins & Supplements,GlowBotanic,21.89,59.9
+PROD-000471,GlowBotanic Fitness Equipment Standard 781,Health & Personal Care,Fitness Equipment,GlowBotanic,99.5,179.6
+PROD-000472,VitalityPlus Fitness Equipment Pro 222,Health & Personal Care,Fitness Equipment,VitalityPlus,81.9,155.29
+PROD-000473,RadiantSkin Skincare Standard 470,Health & Personal Care,Skincare,RadiantSkin,60.44,120.39
+PROD-000474,FlexFit Hair Care Standard 937,Health & Personal Care,Hair Care,FlexFit,17.03,32.71
+PROD-000475,GlowBotanic Personal Hygiene Lite 266,Health & Personal Care,Personal Hygiene,GlowBotanic,78.19,120.5
+PROD-000476,VitalityPlus Fitness Equipment Lite 267,Health & Personal Care,Fitness Equipment,VitalityPlus,11.49,20.04
+PROD-000477,GlowBotanic Hair Care Lite 398,Health & Personal Care,Hair Care,GlowBotanic,41.18,110.62
+PROD-000478,VitalityPlus Personal Hygiene Standard 287,Health & Personal Care,Personal Hygiene,VitalityPlus,76.15,155.28
+PROD-000479,RadiantSkin Vitamins & Supplements Lite 993,Health & Personal Care,Vitamins & Supplements,RadiantSkin,28.33,70.07
+PROD-000480,PureSilk Hair Care Standard 814,Health & Personal Care,Hair Care,PureSilk,93.82,140.78
+PROD-000481,PureSilk Personal Hygiene Max 113,Health & Personal Care,Personal Hygiene,PureSilk,21.66,36.01
+PROD-000482,FlexFit Fitness Equipment Lite 266,Health & Personal Care,Fitness Equipment,FlexFit,19.02,29.45
+PROD-000483,VitalityPlus Vitamins & Supplements Ultra 728,Health & Personal Care,Vitamins & Supplements,VitalityPlus,51.7,141.02
+PROD-000484,RadiantSkin Personal Hygiene Standard 874,Health & Personal Care,Personal Hygiene,RadiantSkin,90.0,162.48
+PROD-000485,GlowBotanic Skincare Max 117,Health & Personal Care,Skincare,GlowBotanic,59.74,101.1
+PROD-000486,VitalityPlus Hair Care Plus 711,Health & Personal Care,Hair Care,VitalityPlus,39.43,109.38
+PROD-000487,PureSilk Vitamins & Supplements Pro 862,Health & Personal Care,Vitamins & Supplements,PureSilk,102.51,164.76
+PROD-000488,VitalityPlus Vitamins & Supplements Lite 228,Health & Personal Care,Vitamins & Supplements,VitalityPlus,17.78,49.86
+PROD-000489,GlowBotanic Fitness Equipment Pro 119,Health & Personal Care,Fitness Equipment,GlowBotanic,68.36,157.18
+PROD-000490,VitalityPlus Skincare Pro 133,Health & Personal Care,Skincare,VitalityPlus,83.59,160.67
+PROD-000491,FlexFit Skincare Pro 359,Health & Personal Care,Skincare,FlexFit,10.82,18.21
+PROD-000492,GlowBotanic Skincare Pro 716,Health & Personal Care,General Accessories,GlowBotanic,18.85,49.02
+PROD-000493,PureSilk Vitamins & Supplements Pro 192,Health & Personal Care,Vitamins & Supplements,PureSilk,16.52,37.65
+PROD-000495,VitalityPlus Personal Hygiene Ultra 683,Health & Personal Care,Personal Hygiene,VitalityPlus,9.49,22.97
+PROD-000496,RadiantSkin Skincare Max 832,Health & Personal Care,Skincare,RadiantSkin,27.89,46.38
+PROD-000497,GlowBotanic Personal Hygiene Standard 201,Health & Personal Care,Personal Hygiene,GlowBotanic,70.12,185.59
+PROD-000498,PureSilk Fitness Equipment Standard 703,Health & Personal Care,Fitness Equipment,PureSilk,20.97,45.16
+PROD-000499,VitalityPlus Skincare Lite 488,Health & Personal Care,Skincare,VitalityPlus,47.1,90.57
+PROD-000500,GlowBotanic Fitness Equipment Lite 226,Health & Personal Care,Fitness Equipment,GlowBotanic,51.04,98.51
+PROD-000501,PureSilk Fitness Equipment Standard 395,Health & Personal Care,Fitness Equipment,PureSilk,79.45,115.85
+PROD-000502,FlexFit Hair Care Pro 494,Health & Personal Care,Hair Care,FlexFit,31.29,63.88
+PROD-000503,FlexFit Hair Care Max 667,Health & Personal Care,Hair Care,FlexFit,31.04,87.37
+PROD-000504,VitalityPlus Fitness Equipment Pro 961,Health & Personal Care,Fitness Equipment,VitalityPlus,60.32,162.45
+PROD-000505,VitalityPlus Hair Care Pro 790,Health & Personal Care,Hair Care,VitalityPlus,68.57,103.4
+PROD-000506,RadiantSkin Fitness Equipment Standard 792,Health & Personal Care,Fitness Equipment,RadiantSkin,16.99,26.14
+PROD-000507,RadiantSkin Fitness Equipment Pro 859,Health & Personal Care,Fitness Equipment,RadiantSkin,66.47,185.8
+PROD-000508,PureSilk Skincare Max 446,Health & Personal Care,Skincare,PureSilk,19.44,48.04
+PROD-000509,GlowBotanic Fitness Equipment Max 958,Health & Personal Care,General Accessories,GlowBotanic,47.64,90.68
+PROD-000510,RadiantSkin Personal Hygiene Lite 874,Health & Personal Care,Personal Hygiene,RadiantSkin,75.94,159.99
+PROD-000511,PureSilk Fitness Equipment Plus 782,Health & Personal Care,Fitness Equipment,PureSilk,69.58,124.59
+PROD-000512,RadiantSkin Fitness Equipment Lite 250,Health & Personal Care,Fitness Equipment,RadiantSkin,103.24,155.91
+PROD-000513,FlexFit Hair Care Plus 336,Health & Personal Care,Hair Care,FlexFit,84.47,129.38
+PROD-000514,GlowBotanic Skincare Pro 610,Health & Personal Care,Skincare,GlowBotanic,49.95,138.83
+PROD-000515,RadiantSkin Fitness Equipment Standard 434,Health & Personal Care,Fitness Equipment,RadiantSkin,18.81,39.01
+PROD-000516,GlowBotanic Skincare Standard 869,Health & Personal Care,Skincare,GlowBotanic,57.41,108.78
+PROD-000517,VitalityPlus Fitness Equipment Lite 777,Health & Personal Care,Fitness Equipment,VitalityPlus,54.73,104.59
+PROD-000518,PureSilk Personal Hygiene Ultra 659,Health & Personal Care,Personal Hygiene,PureSilk,5.78,13.35
+PROD-000519,GlowBotanic Fitness Equipment Plus 560,Health & Personal Care,Fitness Equipment,GlowBotanic,39.64,69.76
+PROD-000520,GlowBotanic Fitness Equipment Pro 281,Health & Personal Care,Fitness Equipment,GlowBotanic,46.17,115.76
+PROD-000521,VitalityPlus Hair Care Plus 541,Health & Personal Care,Hair Care,VitalityPlus,15.98,35.54
+PROD-000522,GlowBotanic Fitness Equipment Ultra 791,Health & Personal Care,Fitness Equipment,GlowBotanic,52.24,103.2
+PROD-000523,RadiantSkin Personal Hygiene Plus 587,Health & Personal Care,Personal Hygiene,RadiantSkin,75.38,116.82
+PROD-000524,FlexFit Skincare Lite 606,Health & Personal Care,Skincare,FlexFit,69.43,122.29
+PROD-000525,PureSilk Hair Care Lite 162,Health & Personal Care,Hair Care,PureSilk,10.5,15.34
+PROD-000526,PureSilk Hair Care Standard 697,Health & Personal Care,Hair Care,PureSilk,5.86,15.1
+PROD-000527,FlexFit Hair Care Pro 538,Health & Personal Care,Hair Care,FlexFit,43.45,75.57
+PROD-000529,GlowBotanic Personal Hygiene Standard 167,Health & Personal Care,Personal Hygiene,GlowBotanic,115.55,175.09
+PROD-000530,GlowBotanic Vitamins & Supplements Ultra 433,Health & Personal Care,Vitamins & Supplements,GlowBotanic,8.03,17.09
+PROD-000531,RadiantSkin Fitness Equipment Ultra 531,Health & Personal Care,Fitness Equipment,RadiantSkin,27.68,60.65
+PROD-000532,GlowBotanic Personal Hygiene Lite 486,Health & Personal Care,Personal Hygiene,GlowBotanic,69.5,118.36
+PROD-000533,FlexFit Skincare Pro 807,Health & Personal Care,Skincare,FlexFit,80.52,138.26
+PROD-000534,PureSilk Personal Hygiene Max 729,Health & Personal Care,Personal Hygiene,PureSilk,24.13,66.9
+PROD-000535,FlexFit Vitamins & Supplements Standard 967,Health & Personal Care,Vitamins & Supplements,FlexFit,131.41,195.07
+PROD-000536,VitalityPlus Personal Hygiene Lite 371,Health & Personal Care,Personal Hygiene,VitalityPlus,6.68,19.02
+PROD-000537,VitalityPlus Fitness Equipment Ultra 860,Health & Personal Care,Fitness Equipment,VitalityPlus,86.17,192.0
+PROD-000538,GlowBotanic Personal Hygiene Ultra 444,Health & Personal Care,Personal Hygiene,GlowBotanic,31.07,61.93
+PROD-000539,FlexFit Personal Hygiene Plus 314,Health & Personal Care,Personal Hygiene,FlexFit,51.15,75.98
+PROD-000540,RadiantSkin Hair Care Lite 543,Health & Personal Care,Hair Care,RadiantSkin,80.31,136.05
+PROD-000541,FlexFit Fitness Equipment Lite 739,Health & Personal Care,Fitness Equipment,FlexFit,50.17,107.91
+PROD-000542,VitalityPlus Personal Hygiene Pro 742,Health & Personal Care,Personal Hygiene,VitalityPlus,57.17,143.62
+PROD-000543,FlexFit Personal Hygiene Max 776,Health & Personal Care,Personal Hygiene,FlexFit,84.87,192.79
+PROD-000544,PureSilk Fitness Equipment Standard 645,Health & Personal Care,Fitness Equipment,PureSilk,65.73,163.69
+PROD-000545,RadiantSkin Fitness Equipment Standard 741,Health & Personal Care,General Accessories,RadiantSkin,13.46,21.37
+PROD-000546,VitalityPlus Fitness Equipment Max 254,Health & Personal Care,Fitness Equipment,VitalityPlus,65.59,151.81
+PROD-000547,FlexFit Fitness Equipment Lite 980,Health & Personal Care,Fitness Equipment,FlexFit,113.63,167.73
+PROD-000549,VitalityPlus Personal Hygiene Plus 344,Health & Personal Care,Personal Hygiene,VitalityPlus,19.98,31.57
+PROD-000550,PureSilk Vitamins & Supplements Plus 597,Health & Personal Care,Vitamins & Supplements,PureSilk,63.69,116.36

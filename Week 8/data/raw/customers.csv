@@ -1,0 +1,651 @@
+customer_key,customer_name,email,signup_date,customer_segment,city,region,acquisition_channel,is_active
+CUST-000001,Adrian Brown,adrian.brown769@gmail.com,2024-10-08,Preferred,,,Direct Referral,1
+CUST-000002,Elliot Brown,elliot.brown99@enterprise.org,2025-08-27,Standard,Columbus,OH,Organic Search,1
+CUST-000003,Taylor Miller,taylor.miller527@yahoo.com,2025-09-08,VIP,New York,NY,Affiliate Network,1
+CUST-000004,Sawyer Lee,sawyer.lee439@enterprise.org,2024-08-13,Preferred,Charlotte,NC,Affiliate Network,1
+CUST-000005,Alex Garcia,alex.garcia358@icloud.com,2024-10-11,Standard,Phoenix,AZ,Direct Referral,1
+CUST-000006,Morgan Williams,morgan.williams109@icloud.com,2025-01-02,Enterprise,Jacksonville,FL,Affiliate Network,1
+CUST-000007,Jordan White,jordan.white559@icloud.com,2024-05-07,Preferred,Fort Worth,TX,Organic Search,0
+CUST-000008,Quinn Lee,quinn.lee916@enterprise.org,2025-01-05,Preferred,Denver,CO,Direct Referral,1
+CUST-000009,Jordan Perez,jordan.perez801@yahoo.com,2024-10-23,Standard,Chicago,IL,Direct Referral,1
+CUST-000010,Sam Rodriguez,sam.rodriguez660@icloud.com,2025-01-08,Standard,Philadelphia,PA,Paid Search,1
+CUST-000011,Avery Perez,avery.perez728@outlook.com,2025-11-30,Standard,Boston,MA,Organic Search,0
+CUST-000012,  aDRIAN gARCIA  ,adrian.garcia756@enterprise.org,2024-09-07,VIP, philadelphia ,PA,Social Media,1
+CUST-000013,Reese Lee,reese.lee234@enterprise.org,2024-11-28,Preferred,Los Angeles,CA,Direct Referral,1
+CUST-000014,Skyler Gonzalez,skyler.gonzalez77@outlook.com,2024-08-04,Preferred,Denver,CO,Paid Search,1
+CUST-000015,Adrian Thomas,adrian.thomas915@icloud.com,2025-10-20,Standard,Charlotte,NC,Direct Referral,1
+CUST-000016,Casey Davis,casey.davis561@enterprise.org,2024-09-26,Standard,Detroit,MI,Affiliate Network,1
+CUST-000017,Emerson Gonzalez,emerson.gonzalez234@outlook.com,2024-05-21,Standard,Indianapolis,IN,Social Media,1
+CUST-000018,Jordan Brown,jordan.brown652@yahoo.com,2024-06-12,Standard,Miami,FL,Social Media,0
+CUST-000019,Taylor Gonzalez,taylor.gonzalez620@icloud.com,2025-04-24,Preferred,Indianapolis,IN,Paid Search,0
+CUST-000020,Alex Perez,alex.perez708@gmail.com,2025-07-03,Preferred,Dallas,TX,Paid Search,1
+CUST-000021,Quinn Wilson,quinn.wilson474@yahoo.com,2024-01-04,Preferred,Detroit,MI,Paid Search,0
+CUST-000022,Riley Taylor,riley.taylor901@gmail.com,2025-10-02,Standard,San Jose,CA,Affiliate Network,0
+CUST-000023,Avery Jones,avery.jones790@outlook.com,2024-06-14,Enterprise,Seattle,WA,Affiliate Network,1
+CUST-000024,Finley Hernandez,finley.hernandez29@icloud.com,2024-04-24,VIP,Jacksonville,FL,Paid Search,1
+CUST-000025,Jordan Davis,jordan.davis979@enterprise.org,2024-03-21,Preferred,Chicago,IL,Social Media,1
+CUST-000026,Rowan Jones,rowan.jones685@yahoo.com,2025-05-01,Standard,Seattle,WA,Direct Referral,1
+CUST-000027,Harper Martin,harper.martin997@icloud.com,2024-08-04,Standard,Seattle,WA,Direct Referral,1
+CUST-000028,Sam Perez,sam.perez458@outlook.com,2025-06-13,Standard,Charlotte,NC,Organic Search,1
+CUST-000029,Dakota Williams,dakota.williams31@outlook.com,2025-08-25,Standard,Seattle,WA,Direct Referral,0
+CUST-000030,Dakota Smith,dakota.smith734@gmail.com,2025-10-08,Preferred,Los Angeles,CA,Direct Referral,1
+CUST-000031,Jordan Hernandez,jordan.hernandez536@gmail.com,2024-08-31,Preferred,Dallas,TX,Social Media,1
+CUST-000032,Rowan Jones,rowan.jones600@enterprise.org,2025-04-29,Enterprise,San Diego,CA,Social Media,1
+CUST-000033,Avery Brown,avery.brown684@gmail.com,2025-03-17,Standard,Jacksonville,FL,Social Media,1
+CUST-000034,Hayden White,hayden.white699@gmail.com,2025-10-31,Standard,Boston,MA,Organic Search,1
+CUST-000035,Sam White,sam.white829@outlook.com,2024-04-21,Standard,San Diego,CA,Direct Referral,1
+CUST-000036,Rowan Anderson,rowan.anderson442@yahoo.com,2024-07-06,Standard,Dallas,TX,Social Media,1
+CUST-000037,Taylor Anderson,taylor.anderson110@enterprise.org,2024-02-21,Standard,Boston,MA,Affiliate Network,1
+CUST-000038,Taylor Davis,taylor.davis426@yahoo.com,2025-05-12,Standard,San Francisco,CA,Direct Referral,1
+CUST-000039,Jordan Garcia,jordan.garcia12@icloud.com,2025-02-03,Standard,,,Social Media,1
+CUST-000040,Peyton Thompson,peyton.thompson687@enterprise.org,2025-05-13,Preferred,Phoenix,AZ,Direct Referral,1
+CUST-000041,Avery Johnson,avery.johnson763@enterprise.org,2025-07-09,Standard,Los Angeles,CA,Paid Search,1
+CUST-000042,Jordan Jackson,jordan.jackson524@icloud.com,2025-06-27,Preferred,Philadelphia,PA,Organic Search,0
+CUST-000043,  tAYLOR gARCIA  ,taylor.garcia619@gmail.com,2024-03-10,Preferred, miami ,FL,Direct Referral,1
+CUST-000044,Morgan Jackson,morgan.jackson602@yahoo.com,2025-08-31,Standard,Los Angeles,CA,Affiliate Network,1
+CUST-000045,Peyton Perez,peyton.perez588@enterprise.org,2025-06-19,Preferred,Austin,TX,Paid Search,1
+CUST-000046,Logan Thompson,logan.thompson254@outlook.com,2024-09-28,Preferred,Fort Worth,TX,Direct Referral,1
+CUST-000047,Hayden Hernandez,hayden.hernandez19@gmail.com,2025-04-14,Standard,Washington,DC,Affiliate Network,1
+CUST-000048,Taylor Moore,taylor.moore528@yahoo.com,2024-09-28,Standard,Phoenix,AZ,Paid Search,1
+CUST-000049,Dakota Lopez,dakota.lopez171@outlook.com,2025-03-24,Preferred,Seattle,WA,Paid Search,0
+CUST-000050,Adrian Taylor,adrian.taylor693@gmail.com,2025-07-21,Standard,San Jose,CA,Organic Search,1
+CUST-000051,Reese Brown,reese.brown770@gmail.com,2025-07-20,Standard,Phoenix,AZ,Paid Search,1
+CUST-000052,  fINLEY mILLER  ,finley.miller218@outlook.com,2025-10-11,Standard, dallas ,TX,Affiliate Network,1
+CUST-000053,Reese Johnson,reese.johnson659@gmail.com,2025-03-09,Preferred,Dallas,TX,Organic Search,1
+CUST-000054,Skyler Jones,skyler.jones175@outlook.com,2025-03-28,Preferred,Seattle,WA,Social Media,0
+CUST-000055,Alex Brown,missing_at_symbol.com,2024-06-01,Preferred,Seattle,WA,Organic Search,1
+CUST-000056,Emerson Moore,emerson.moore450@yahoo.com,2024-05-10,Preferred,Los Angeles,CA,Paid Search,1
+CUST-000057,Jordan Lopez,jordan.lopez708@yahoo.com,2024-09-12,Standard,Miami,FL,Organic Search,1
+CUST-000058,Rowan Wilson,rowan.wilson777@enterprise.org,2024-06-07,Standard,San Diego,CA,Direct Referral,1
+CUST-000059,Peyton Smith,peyton.smith764@yahoo.com,2024-12-06,Standard,Columbus,OH,Direct Referral,1
+CUST-000060,Riley Thompson,riley.thompson401@gmail.com,2024-02-09,Standard,San Francisco,CA,Direct Referral,1
+CUST-000061,Hayden Lopez,hayden.lopez850@outlook.com,2024-08-21,Preferred,San Diego,CA,Organic Search,1
+CUST-000062,Sam Hernandez,sam.hernandez895@outlook.com,2024-03-12,Standard,Dallas,TX,Paid Search,0
+CUST-000063,Sam Perez,sam.perez349@enterprise.org,2024-01-29,Standard,Houston,TX,Paid Search,1
+CUST-000064,Emerson Rodriguez,emerson.rodriguez121@gmail.com,2025-09-02,Preferred,Columbus,OH,Paid Search,1
+CUST-000065,Peyton Martin,peyton.martin128@enterprise.org,2025-01-29,Preferred,Denver,CO,Direct Referral,1
+CUST-000066,Jordan Thompson,jordan.thompson11@icloud.com,2025-06-16,Standard,Seattle,WA,Direct Referral,1
+CUST-000067,Peyton Williams,peyton.williams648@outlook.com,2024-11-17,Standard,Miami,FL,Organic Search,1
+CUST-000068,Harper Martinez,harper.martinez344@icloud.com,2025-02-16,Standard,Atlanta,GA,Paid Search,0
+CUST-000069,Casey Miller,casey.miller690@icloud.com,2025-01-23,Standard,Miami,FL,Direct Referral,0
+CUST-000070,Emerson Martinez,emerson.martinez571@icloud.com,2024-01-01,Standard,San Jose,CA,Paid Search,1
+CUST-000071,Peyton Jackson,peyton.jackson680@enterprise.org,2024-11-25,Standard,Charlotte,NC,Social Media,1
+CUST-000072,Logan Miller,logan.miller494@enterprise.org,2024-06-22,Standard,Miami,FL,Organic Search,1
+CUST-000073,Harper Perez,harper.perez353@enterprise.org,2024-04-05,VIP,San Diego,CA,Paid Search,1
+CUST-000074,Avery Jones,invalid_user@domain..com,2024-09-07,Standard,San Francisco,CA,Affiliate Network,1
+CUST-000075,Hayden Wilson,hayden.wilson209@enterprise.org,2025-01-28,Standard,San Francisco,CA,Social Media,1
+CUST-000076,Casey Lee,casey.lee924@gmail.com,2024-04-19,Standard,Columbus,OH,Direct Referral,1
+CUST-000077,Sawyer Taylor,sawyer.taylor61@icloud.com,2025-07-24,Standard,San Diego,CA,Organic Search,1
+CUST-000078,Casey Anderson,casey.anderson582@enterprise.org,2025-09-01,Preferred,Austin,TX,Social Media,0
+CUST-000079,Elliot Taylor,elliot.taylor860@icloud.com,2025-07-15,Standard,Charlotte,NC,Direct Referral,1
+CUST-000080,Hayden Rodriguez,hayden.rodriguez870@yahoo.com,2025-10-14,Preferred,Dallas,TX,Affiliate Network,1
+CUST-000081,Adrian Davis,adrian.davis460@outlook.com,2024-03-20,Preferred,Atlanta,GA,Paid Search,1
+CUST-000082,Reese Hernandez,reese.hernandez924@outlook.com,2025-07-07,Standard,Chicago,IL,Direct Referral,1
+CUST-000083,Dakota Gonzalez,dakota.gonzalez733@yahoo.com,2024-08-07,Preferred,Chicago,IL,Social Media,1
+CUST-000084,Skyler Moore,skyler.moore435@icloud.com,2024-03-04,Standard,San Antonio,TX,Social Media,1
+CUST-000085,Emerson Thompson,emerson.thompson887@gmail.com,2025-08-12,Standard,Fort Worth,TX,Social Media,1
+CUST-000086,Cameron Martinez,cameron.martinez883@icloud.com,2025-03-05,Standard,Seattle,WA,Affiliate Network,0
+CUST-000087,Dakota Thomas,dakota.thomas289@yahoo.com,2025-03-22,Preferred,San Francisco,CA,Organic Search,1
+CUST-000088,Skyler Perez,skyler.perez751@icloud.com,2024-06-18,Standard,Charlotte,NC,Direct Referral,0
+CUST-000089,Rowan Smith,rowan.smith616@icloud.com,2025-07-31,Standard,Miami,FL,Organic Search,1
+CUST-000090,Adrian Wilson,adrian.wilson897@yahoo.com,2025-04-17,Standard,Philadelphia,PA,Organic Search,1
+CUST-000041,Sam Hernandez,sam.hernandez475@yahoo.com,2024-11-30,Standard,Austin,TX,Social Media,1
+CUST-000092,Peyton Rodriguez,peyton.rodriguez491@gmail.com,2024-01-20,Preferred,Detroit,MI,Affiliate Network,1
+CUST-000093,Cameron Davis,cameron.davis809@gmail.com,2025-10-29,Standard,Los Angeles,CA,Organic Search,1
+CUST-000094,Avery Smith,avery.smith166@enterprise.org,2024-09-01,Standard,Phoenix,AZ,Social Media,1
+CUST-000095,Emerson Miller,emerson.miller726@icloud.com,2024-09-19,Standard,Jacksonville,FL,Direct Referral,0
+CUST-000096,Finley White,finley.white806@gmail.com,2024-06-16,Preferred,San Jose,CA,Organic Search,0
+CUST-000097,Alex Martinez,alex.martinez703@enterprise.org,2025-01-19,Standard,Fort Worth,TX,Direct Referral,1
+CUST-000098,Emerson Thompson,emerson.thompson114@yahoo.com,2024-11-04,Standard,Miami,FL,Affiliate Network,1
+CUST-000099,Emerson Johnson,emerson.johnson555@outlook.com,2025-03-14,Standard,Miami,FL,Paid Search,1
+CUST-000100,Harper Lee,harper.lee22@outlook.com,2025-03-06,Enterprise,San Francisco,CA,Organic Search,1
+CUST-000101,Cameron Lee,cameron.lee734@icloud.com,2024-06-05,VIP,Columbus,OH,Direct Referral,0
+CUST-000102,Adrian Rodriguez,adrian.rodriguez837@enterprise.org,2025-07-05,Preferred,San Francisco,CA,Social Media,1
+CUST-000103,Elliot Jackson,elliot.jackson340@outlook.com,2024-09-08,Standard,Chicago,IL,Paid Search,1
+CUST-000104,Dakota Anderson,dakota.anderson634@enterprise.org,2025-11-15,Enterprise,Fort Worth,TX,Paid Search,1
+CUST-000105,Kendall Hernandez,kendall.hernandez509@yahoo.com,2024-08-05,Preferred,Jacksonville,FL,Paid Search,1
+CUST-000106,Reese Martin,reese.martin579@outlook.com,2024-01-11,Preferred,Indianapolis,IN,Direct Referral,1
+CUST-000107,Dakota White,dakota.white510@icloud.com,2025-07-22,Standard,San Diego,CA,Social Media,1
+CUST-000108,Hayden Smith,hayden.smith311@gmail.com,2024-08-14,Standard,Fort Worth,TX,Direct Referral,1
+CUST-000109,Logan Jackson,logan.jackson494@outlook.com,2025-07-20,Standard,Indianapolis,IN,Paid Search,1
+CUST-000110,Elliot Moore,elliot.moore370@outlook.com,2025-04-09,VIP,Dallas,TX,Paid Search,1
+CUST-000111,Dakota Brown,dakota.brown333@yahoo.com,2024-05-02,Standard,Detroit,MI,Affiliate Network,1
+CUST-000112,Avery Miller,avery.miller293@icloud.com,2025-08-26,Standard,Indianapolis,IN,Affiliate Network,1
+CUST-000113,Morgan Miller,morgan.miller242@outlook.com,2025-01-04,Standard,Philadelphia,PA,Paid Search,1
+CUST-000114,Sawyer Moore,sawyer.moore290@yahoo.com,2024-02-16,Standard,Los Angeles,CA,Affiliate Network,1
+CUST-000115,Sawyer Jones,sawyer.jones115@icloud.com,2024-01-13,Standard,Denver,CO,Paid Search,1
+CUST-000116,Kendall Anderson,kendall.anderson198@outlook.com,2024-02-22,VIP,Dallas,TX,Social Media,1
+CUST-000117,Taylor Gonzalez,taylor.gonzalez85@icloud.com,2025-08-13,Preferred,Boston,MA,Organic Search,1
+CUST-000118,Casey Jackson,casey.jackson97@outlook.com,2024-09-11,Preferred,Houston,TX,Affiliate Network,1
+CUST-000119,Finley Martin,finley.martin241@enterprise.org,2025-06-19,Standard,Fort Worth,TX,Social Media,1
+CUST-000120,Quinn Jackson,quinn.jackson322@icloud.com,2025-08-05,Preferred,Washington,DC,Organic Search,0
+CUST-000121,Elliot Brown,elliot.brown650@yahoo.com,2024-08-04,Standard,Dallas,TX,Organic Search,1
+CUST-000122,Dakota Garcia,invalid_user@domain..com,2024-06-09,Preferred,New York,NY,Social Media,1
+CUST-000123,Sawyer Martin,sawyer.martin308@icloud.com,2024-02-03,Standard,San Diego,CA,Paid Search,1
+CUST-000124,Sawyer Anderson,sawyer.anderson713@gmail.com,2024-08-27,Standard,Dallas,TX,Affiliate Network,1
+CUST-000125,Peyton Brown,peyton.brown240@enterprise.org,2025-10-25,Standard,Phoenix,AZ,Paid Search,1
+CUST-000126,Taylor Johnson,taylor.johnson821@yahoo.com,2024-11-10,Standard,Washington,DC,Affiliate Network,1
+CUST-000127,Hayden Brown,hayden.brown715@icloud.com,2024-11-07,Standard,Atlanta,GA,Social Media,1
+CUST-000128,  hARPER mOORE  ,harper.moore458@icloud.com,2024-03-23,Standard, washington ,DC,Organic Search,1
+CUST-000129,Elliot Hernandez,elliot.hernandez266@enterprise.org,2024-01-27,Standard,Chicago,IL,Direct Referral,0
+CUST-000130,Emerson Smith,emerson.smith600@outlook.com,2024-02-11,Standard,Philadelphia,PA,Social Media,0
+CUST-000131,Adrian Anderson,adrian.anderson195@outlook.com,2025-08-22,Standard,Columbus,OH,Social Media,1
+CUST-000132,Kendall Lopez,kendall.lopez351@icloud.com,2024-11-24,VIP,Miami,FL,Organic Search,1
+CUST-000133,Skyler Wilson,skyler.wilson305@icloud.com,2025-11-09,Standard,Fort Worth,TX,Affiliate Network,1
+CUST-000134,Hayden Williams,hayden.williams268@outlook.com,2024-11-27,Standard,Houston,TX,Social Media,0
+CUST-000135,Alex Perez,alex.perez483@enterprise.org,2025-02-27,Standard,Los Angeles,CA,Direct Referral,0
+CUST-000136,Cameron Martin,cameron.martin650@icloud.com,2025-03-28,Standard,Los Angeles,CA,Direct Referral,1
+CUST-000137,Rowan Jones,rowan.jones458@outlook.com,2025-05-11,Enterprise,Houston,TX,Organic Search,0
+CUST-000138,Dakota Thompson,dakota.thompson328@yahoo.com,2025-07-18,Standard,New York,NY,Affiliate Network,1
+CUST-000139,Taylor Davis,taylor.davis482@gmail.com,2024-04-30,Preferred,Boston,MA,Direct Referral,1
+CUST-000140,Sawyer Martinez,sawyer.martinez732@enterprise.org,2024-10-06,Standard,Columbus,OH,Social Media,1
+CUST-000141,Dakota Anderson,dakota.anderson158@enterprise.org,2025-01-27,Standard,San Antonio,TX,Affiliate Network,0
+CUST-000142,Elliot Jones,elliot.jones292@gmail.com,2025-02-28,Standard,Austin,TX,Affiliate Network,1
+CUST-000143,Alex Martinez,alex.martinez867@outlook.com,2025-08-24,VIP,Denver,CO,Social Media,1
+CUST-000144,Hayden Moore,hayden.moore363@icloud.com,2024-12-06,Standard,Seattle,WA,Affiliate Network,1
+CUST-000145,Hayden Hernandez,hayden.hernandez724@yahoo.com,2024-09-01,Standard,Denver,CO,Social Media,1
+CUST-000146,Peyton Johnson,peyton.johnson772@outlook.com,2025-04-29,Standard,Atlanta,GA,Social Media,1
+CUST-000147,Logan Lee,logan.lee517@yahoo.com,2024-02-07,Standard,Phoenix,AZ,Affiliate Network,0
+CUST-000148,Skyler Brown,skyler.brown112@icloud.com,2025-06-22,Standard,Charlotte,NC,Organic Search,1
+CUST-000149,Peyton Lee,peyton.lee86@yahoo.com,2025-04-25,Standard,Dallas,TX,Paid Search,0
+CUST-000150,Sawyer Gonzalez,missing_at_symbol.com,2024-12-02,Standard,Miami,FL,Affiliate Network,1
+CUST-000151,Skyler Lee,skyler.lee903@icloud.com,2025-07-08,Preferred,Los Angeles,CA,Affiliate Network,1
+CUST-000152,Dakota Lee,dakota.lee242@outlook.com,2024-04-02,VIP,Columbus,OH,Organic Search,1
+CUST-000153,Hayden Garcia,hayden.garcia935@outlook.com,2024-01-30,Standard,Los Angeles,CA,Paid Search,1
+CUST-000154,Quinn Lopez,quinn.lopez451@outlook.com,2024-05-29,Standard,San Diego,CA,Affiliate Network,1
+CUST-000155,Emerson Perez,emerson.perez184@yahoo.com,2024-06-28,Standard,Chicago,IL,Affiliate Network,1
+CUST-000156,Finley Perez,finley.perez519@yahoo.com,2025-08-20,Preferred,Phoenix,AZ,Direct Referral,1
+CUST-000157,Adrian Rodriguez,adrian.rodriguez271@icloud.com,2025-11-13,Standard,New York,NY,Social Media,1
+CUST-000158,Logan Moore,logan.moore85@yahoo.com,2025-03-28,Preferred,Jacksonville,FL,Affiliate Network,1
+CUST-000159,Adrian Wilson,adrian.wilson477@outlook.com,2024-11-05,Preferred,San Antonio,TX,Social Media,1
+CUST-000160,Morgan Davis,invalid_user@domain..com,2025-01-02,Preferred,Denver,CO,Paid Search,1
+CUST-000161,Alex Perez,alex.perez291@icloud.com,2024-01-09,Standard,,,Organic Search,0
+CUST-000162,Elliot Thomas,elliot.thomas804@outlook.com,2024-08-23,VIP,Washington,DC,Paid Search,1
+CUST-000163,Adrian Miller,adrian.miller266@enterprise.org,2025-11-25,Standard,Detroit,MI,Direct Referral,1
+CUST-000164,Adrian Lee,adrian.lee326@gmail.com,2025-03-27,Standard,Los Angeles,CA,Affiliate Network,1
+CUST-000165,Elliot Jones,elliot.jones941@gmail.com,2024-10-29,Standard,Austin,TX,Social Media,1
+CUST-000166,Avery Jones,avery.jones907@enterprise.org,2025-01-09,Standard,Indianapolis,IN,Affiliate Network,1
+CUST-000167,Riley Rodriguez,riley.rodriguez835@icloud.com,2024-10-29,Preferred,Detroit,MI,Paid Search,1
+CUST-000168,Hayden Williams,hayden.williams782@yahoo.com,2024-08-19,Preferred,Miami,FL,Social Media,0
+CUST-000169,Cameron Williams,cameron.williams24@icloud.com,2024-09-27,Standard,Seattle,WA,Organic Search,1
+CUST-000170,Cameron Perez,cameron.perez608@outlook.com,2025-01-25,Enterprise,Boston,MA,Paid Search,1
+CUST-000171,Logan Davis,logan.davis35@icloud.com,2025-09-26,Standard,Seattle,WA,Paid Search,0
+CUST-000172,Dakota Lee,dakota.lee660@gmail.com,2025-04-20,Standard,Atlanta,GA,Paid Search,1
+CUST-000173,Morgan Jones,morgan.jones978@gmail.com,2024-02-08,Standard,San Jose,CA,Social Media,1
+CUST-000174,Morgan Davis,morgan.davis148@enterprise.org,2025-02-01,VIP,Charlotte,NC,Paid Search,0
+CUST-000175,Peyton Jackson,peyton.jackson916@yahoo.com,2025-02-28,Standard,Boston,MA,Organic Search,1
+CUST-000176,Finley Wilson,finley.wilson43@outlook.com,2025-01-14,Standard,San Antonio,TX,Social Media,1
+CUST-000177,Dakota Lopez,invalid_user@domain..com,2025-01-11,Standard,Seattle,WA,Paid Search,1
+CUST-000178,Sam Rodriguez,sam.rodriguez135@yahoo.com,2025-04-10,Enterprise,Chicago,IL,Direct Referral,0
+CUST-000179,Alex Johnson,alex.johnson259@outlook.com,2024-05-08,VIP,Denver,CO,Direct Referral,1
+CUST-000180,Rowan Miller,rowan.miller231@enterprise.org,2024-08-26,Preferred,Austin,TX,Direct Referral,0
+CUST-000181,Alex Rodriguez,alex.rodriguez143@yahoo.com,2025-07-07,VIP,,,Direct Referral,1
+CUST-000182,Logan Smith,logan.smith25@yahoo.com,2025-01-01,VIP,San Diego,CA,Affiliate Network,1
+CUST-000183,Alex Garcia,alex.garcia63@outlook.com,2024-05-09,Standard,Detroit,MI,Social Media,0
+CUST-000184,Morgan White,morgan.white497@gmail.com,2025-04-04,Standard,Jacksonville,FL,Affiliate Network,0
+CUST-000185,  mORGAN aNDERSON  ,morgan.anderson236@enterprise.org,2025-09-21,Preferred, los angeles ,CA,Affiliate Network,1
+CUST-000186,Hayden Lee,hayden.lee72@gmail.com,2025-05-05,Preferred,Fort Worth,TX,Social Media,1
+CUST-000187,Kendall Thompson,kendall.thompson85@icloud.com,2024-03-23,Standard,Austin,TX,Affiliate Network,1
+CUST-000188,Taylor Jones,taylor.jones649@outlook.com,2025-10-10,Standard,Denver,CO,Affiliate Network,1
+CUST-000189,Sam Martin,sam.martin311@enterprise.org,2025-04-09,Preferred,Indianapolis,IN,Affiliate Network,1
+CUST-000190,Morgan Thompson,morgan.thompson883@gmail.com,2025-11-01,Standard,Boston,MA,Affiliate Network,1
+CUST-000191,Peyton Anderson,plainaddress_no_tld@,2024-12-13,VIP,Charlotte,NC,Social Media,1
+CUST-000192,  eLLIOT bROWN  ,elliot.brown447@outlook.com,2024-11-16,Standard, miami ,FL,Paid Search,1
+CUST-000193,Casey Perez,casey.perez78@icloud.com,2024-04-03,Standard,Chicago,IL,Organic Search,1
+CUST-000194,Morgan White,morgan.white841@outlook.com,2024-05-13,Preferred,Seattle,WA,Organic Search,0
+CUST-000195,Rowan Moore,rowan.moore696@outlook.com,2024-05-05,Standard,Columbus,OH,Paid Search,1
+CUST-000196,Elliot Johnson,elliot.johnson624@outlook.com,2024-11-15,Standard,Jacksonville,FL,Organic Search,0
+CUST-000197,Harper Miller,harper.miller682@yahoo.com,2025-05-08,Standard,San Diego,CA,Organic Search,1
+CUST-000198,Rowan Lopez,rowan.lopez790@gmail.com,2024-10-12,VIP,Denver,CO,Direct Referral,1
+CUST-000199,Rowan Martin,rowan.martin701@enterprise.org,2025-10-20,Standard,Seattle,WA,Organic Search,0
+CUST-000200,Logan Thompson,logan.thompson39@outlook.com,2024-07-03,Standard,Dallas,TX,Paid Search,1
+CUST-000201,Cameron Smith,cameron.smith900@yahoo.com,2024-05-26,Preferred,Denver,CO,Social Media,1
+CUST-000202,Casey White,casey.white103@gmail.com,2025-06-27,Enterprise,San Antonio,TX,Social Media,1
+CUST-000203,Hayden Hernandez,hayden.hernandez388@yahoo.com,2024-11-15,Standard,Detroit,MI,Paid Search,0
+CUST-000204,Finley Williams,finley.williams169@gmail.com,2024-06-10,Standard,Washington,DC,Organic Search,1
+CUST-000005,Reese Anderson,reese.anderson507@icloud.com,2025-09-13,Standard,Charlotte,NC,Social Media,1
+CUST-000206,Avery Taylor,avery.taylor363@gmail.com,2025-03-16,Standard,Houston,TX,Paid Search,0
+CUST-000207,Kendall Taylor,kendall.taylor56@outlook.com,2024-08-13,Standard,Fort Worth,TX,Affiliate Network,1
+CUST-000208,Alex Miller,alex.miller978@outlook.com,2024-08-04,Preferred,Phoenix,AZ,Paid Search,1
+CUST-000209,Skyler Brown,skyler.brown519@gmail.com,2025-03-16,Standard,Philadelphia,PA,Direct Referral,1
+CUST-000210,Rowan Thompson,rowan.thompson522@yahoo.com,2025-07-26,Standard,Miami,FL,Paid Search,1
+CUST-000211,Sam White,sam.white456@gmail.com,2024-01-20,Preferred,Charlotte,NC,Organic Search,1
+CUST-000212,Emerson Wilson,emerson.wilson424@enterprise.org,2025-10-17,Standard,Columbus,OH,Paid Search,1
+CUST-000213,Sam Smith,sam.smith185@outlook.com,2025-09-24,Standard,Charlotte,NC,Paid Search,1
+CUST-000214,Peyton Brown,peyton.brown456@yahoo.com,2025-08-26,Preferred,Fort Worth,TX,Affiliate Network,1
+CUST-000215,Sam Martinez,sam.martinez236@outlook.com,2024-12-07,Preferred,Philadelphia,PA,Organic Search,0
+CUST-000216,Adrian Brown,adrian.brown532@enterprise.org,2024-07-17,Preferred,Jacksonville,FL,Paid Search,1
+CUST-000217,Dakota Brown,dakota.brown272@yahoo.com,2024-07-21,Standard,Philadelphia,PA,Affiliate Network,1
+CUST-000218,Adrian Williams,adrian.williams984@yahoo.com,2025-10-05,Standard,San Francisco,CA,Social Media,0
+CUST-000219,Emerson Anderson,emerson.anderson668@enterprise.org,2025-10-12,VIP,Washington,DC,Paid Search,1
+CUST-000220,  cASEY aNDERSON  ,user@.invalid_tld,2025-03-28,Standard, boston ,MA,Paid Search,1
+CUST-000221,  eMERSON jOHNSON  ,emerson.johnson529@outlook.com,2024-03-16,Standard, san jose ,CA,Social Media,1
+CUST-000222,Jordan Johnson,jordan.johnson861@outlook.com,2024-10-20,Standard,Chicago,IL,Organic Search,0
+CUST-000223,Finley Taylor,plainaddress_no_tld@,2025-08-17,Preferred,Seattle,WA,Organic Search,1
+CUST-000224,Emerson Lee,emerson.lee339@yahoo.com,2025-09-11,Enterprise,San Francisco,CA,Affiliate Network,1
+CUST-000225,Jordan Anderson,jordan.anderson840@gmail.com,2024-12-17,Standard,Atlanta,GA,Organic Search,0
+CUST-000226,  aDRIAN gARCIA  ,adrian.garcia263@gmail.com,2025-03-24,VIP, charlotte ,NC,Affiliate Network,0
+CUST-000227,Finley Garcia,finley.garcia391@outlook.com,2024-10-16,Standard,Fort Worth,TX,Social Media,1
+CUST-000228,Logan Martin,logan.martin818@gmail.com,2025-10-08,Standard,Boston,MA,Paid Search,1
+CUST-000229,  sKYLER bROWN  ,skyler.brown704@enterprise.org,2025-01-30,Preferred, san jose ,CA,Paid Search,0
+CUST-000230,Casey Hernandez,casey.hernandez606@gmail.com,2025-11-10,Standard,Phoenix,AZ,Paid Search,1
+CUST-000231,Adrian Thompson,adrian.thompson142@icloud.com,2025-09-01,Standard,Atlanta,GA,Organic Search,1
+CUST-000232,Rowan Gonzalez,rowan.gonzalez842@outlook.com,2024-05-10,Standard,Miami,FL,Affiliate Network,1
+CUST-000233,Adrian Perez,adrian.perez530@icloud.com,2025-01-05,Enterprise,New York,NY,Paid Search,1
+CUST-000234,Riley Miller,riley.miller980@outlook.com,2025-05-12,Standard,San Antonio,TX,Direct Referral,1
+CUST-000235,Casey Williams,casey.williams874@outlook.com,2024-04-13,VIP,Indianapolis,IN,Affiliate Network,0
+CUST-000236,Jordan Perez,jordan.perez907@outlook.com,2025-09-24,Preferred,Phoenix,AZ,Affiliate Network,1
+CUST-000237,Casey Garcia,casey.garcia861@yahoo.com,2025-10-01,Standard,Philadelphia,PA,Social Media,1
+CUST-000238,Peyton Lopez,peyton.lopez464@yahoo.com,2025-09-17,Preferred,San Jose,CA,Social Media,1
+CUST-000239,Rowan Davis,rowan.davis998@outlook.com,2025-04-25,Standard,San Antonio,TX,Paid Search,0
+CUST-000240,Hayden Anderson,hayden.anderson806@outlook.com,2025-01-26,Standard,Indianapolis,IN,Affiliate Network,1
+CUST-000241,Riley Miller,riley.miller151@enterprise.org,2024-09-13,Preferred,Los Angeles,CA,Social Media,1
+CUST-000242,Rowan Brown,rowan.brown881@enterprise.org,2024-05-07,Preferred,San Jose,CA,Organic Search,1
+CUST-000243,Reese Anderson,reese.anderson160@enterprise.org,2025-03-23,Standard,Chicago,IL,Direct Referral,1
+CUST-000244,Cameron Smith,cameron.smith64@icloud.com,2025-02-09,Standard,Indianapolis,IN,Paid Search,1
+CUST-000245,Sam Williams,sam.williams239@outlook.com,2024-01-29,Preferred,Austin,TX,Organic Search,1
+CUST-000246,Casey Jones,casey.jones303@gmail.com,2025-04-28,VIP,Atlanta,GA,Direct Referral,1
+CUST-000247,Hayden Martin,hayden.martin937@gmail.com,2024-03-22,Preferred,New York,NY,Paid Search,1
+CUST-000248,Casey Moore,casey.moore550@enterprise.org,2025-03-09,Standard,Houston,TX,Paid Search,1
+CUST-000249,Quinn Brown,quinn.brown254@gmail.com,2025-03-05,Standard,Boston,MA,Affiliate Network,1
+CUST-000250,Taylor Brown,invalid_user@domain..com,2025-07-02,Standard,New York,NY,Affiliate Network,0
+CUST-000251,Dakota Thompson,dakota.thompson308@yahoo.com,2025-03-15,Preferred,New York,NY,Affiliate Network,1
+CUST-000252,Dakota Jackson,dakota.jackson201@icloud.com,2025-11-11,VIP,Miami,FL,Organic Search,0
+CUST-000253,Cameron Williams,cameron.williams567@enterprise.org,2025-06-03,Standard,Indianapolis,IN,Affiliate Network,1
+CUST-000254,Sam Thomas,sam.thomas660@gmail.com,2025-01-31,Standard,Jacksonville,FL,Paid Search,1
+CUST-000255,Cameron Williams,invalid_user@domain..com,2025-11-03,Standard,Boston,MA,Organic Search,0
+CUST-000256,Elliot Hernandez,elliot.hernandez55@yahoo.com,2024-12-26,Preferred,Seattle,WA,Paid Search,1
+CUST-000257,Logan Anderson,logan.anderson656@icloud.com,2024-07-05,Preferred,Phoenix,AZ,Organic Search,1
+CUST-000258,Jordan Martinez,jordan.martinez54@yahoo.com,2024-07-23,Standard,Los Angeles,CA,Paid Search,1
+CUST-000259,Harper Gonzalez,harper.gonzalez494@enterprise.org,2024-09-16,Standard,Los Angeles,CA,Direct Referral,1
+CUST-000260,Cameron Johnson,cameron.johnson289@outlook.com,2024-05-07,Standard,Jacksonville,FL,Social Media,1
+CUST-000261,Elliot Anderson,elliot.anderson357@icloud.com,2024-07-10,Standard,San Francisco,CA,Social Media,1
+CUST-000262,Harper Rodriguez,double@@atdomain.com,2025-03-10,Preferred,Chicago,IL,Social Media,0
+CUST-000263,Riley Moore,riley.moore338@outlook.com,2024-04-15,Standard,Chicago,IL,Paid Search,1
+CUST-000264,Quinn Anderson,quinn.anderson744@enterprise.org,2025-03-12,Standard,Philadelphia,PA,Social Media,1
+CUST-000265,Hayden Johnson,hayden.johnson639@outlook.com,2025-03-21,VIP,Dallas,TX,Organic Search,1
+CUST-000266,Logan Lee,logan.lee382@icloud.com,2025-06-09,Standard,Detroit,MI,Direct Referral,1
+CUST-000267,Casey Martin,casey.martin45@icloud.com,2024-05-09,Standard,Chicago,IL,Direct Referral,1
+CUST-000268,Cameron Gonzalez,cameron.gonzalez43@enterprise.org,2025-09-11,Standard,Phoenix,AZ,Social Media,1
+CUST-000269,Cameron Anderson,cameron.anderson597@gmail.com,2024-05-20,Standard,Indianapolis,IN,Paid Search,1
+CUST-000270,  sKYLER lEE  ,skyler.lee265@outlook.com,2024-04-26,Standard, new york ,NY,Direct Referral,1
+CUST-000271,Harper Gonzalez,harper.gonzalez130@enterprise.org,2024-09-25,Standard,Dallas,TX,Social Media,1
+CUST-000272,Finley Martinez,finley.martinez214@icloud.com,2024-05-05,Standard,Phoenix,AZ,Organic Search,1
+CUST-000273,Riley Thompson,riley.thompson99@icloud.com,2025-11-29,Standard,Austin,TX,Paid Search,1
+CUST-000274,Rowan Moore,rowan.moore922@outlook.com,2024-11-03,Standard,Philadelphia,PA,Direct Referral,1
+CUST-000275,Harper Davis,harper.davis215@gmail.com,2024-05-22,Preferred,San Diego,CA,Social Media,1
+CUST-000276,Cameron Moore,cameron.moore387@enterprise.org,2025-04-23,Standard,Seattle,WA,Direct Referral,0
+CUST-000277,Taylor Williams,taylor.williams417@outlook.com,2025-05-05,Standard,Indianapolis,IN,Social Media,1
+CUST-000278,Emerson Williams,emerson.williams334@yahoo.com,2025-10-19,Standard,Chicago,IL,Social Media,1
+CUST-000279,Logan Taylor,logan.taylor141@outlook.com,2025-07-18,VIP,Boston,MA,Affiliate Network,1
+CUST-000280,Casey Wilson,casey.wilson942@enterprise.org,2024-02-26,VIP,Houston,TX,Affiliate Network,1
+CUST-000031,Quinn Garcia,quinn.garcia340@yahoo.com,2024-08-18,Standard,Jacksonville,FL,Affiliate Network,1
+CUST-000282,Taylor Rodriguez,taylor.rodriguez660@yahoo.com,2025-07-18,Standard,Dallas,TX,Direct Referral,1
+CUST-000283,Finley Moore,finley.moore524@gmail.com,2025-10-18,Standard,,,Affiliate Network,0
+CUST-000284,Casey Garcia,casey.garcia747@enterprise.org,2025-09-11,Standard,Austin,TX,Affiliate Network,1
+CUST-000285,Alex Williams,alex.williams981@gmail.com,2025-10-18,Standard,Denver,CO,Paid Search,1
+CUST-000286,Emerson Wilson,emerson.wilson664@enterprise.org,2024-02-01,Standard,San Francisco,CA,Affiliate Network,1
+CUST-000287,Adrian Martinez,double@@atdomain.com,2025-02-19,Standard,San Jose,CA,Social Media,1
+CUST-000288,  sAWYER jOHNSON  ,sawyer.johnson460@yahoo.com,2025-03-01,Standard, san francisco ,CA,Social Media,1
+CUST-000289,Skyler Martin,skyler.martin330@yahoo.com,2024-11-22,Standard,Detroit,MI,Paid Search,1
+CUST-000290,Casey Lopez,casey.lopez585@enterprise.org,2024-04-18,Standard,Austin,TX,Direct Referral,1
+CUST-000291,Morgan Rodriguez,morgan.rodriguez263@icloud.com,2024-05-24,Preferred,Houston,TX,Organic Search,1
+CUST-000292,Sam Martin,sam.martin264@icloud.com,2024-06-12,Standard,Austin,TX,Affiliate Network,1
+CUST-000293,Avery Garcia,avery.garcia537@icloud.com,2025-04-23,VIP,San Francisco,CA,Paid Search,1
+CUST-000294,Alex Williams,alex.williams527@icloud.com,2025-04-13,Standard,San Diego,CA,Direct Referral,0
+CUST-000295,Cameron Johnson,cameron.johnson298@gmail.com,2025-05-21,Preferred,Washington,DC,Social Media,1
+CUST-000296,Rowan Smith,rowan.smith451@gmail.com,2024-05-17,VIP,Dallas,TX,Paid Search,1
+CUST-000297,Cameron Johnson,cameron.johnson62@icloud.com,2025-08-06,Enterprise,Seattle,WA,Direct Referral,1
+CUST-000298,Rowan Martinez,rowan.martinez405@gmail.com,2025-05-31,Preferred,Charlotte,NC,Affiliate Network,1
+CUST-000299,Finley Perez,finley.perez131@enterprise.org,2024-05-11,Preferred,Houston,TX,Social Media,1
+CUST-000300,Skyler Moore,skyler.moore783@outlook.com,2024-05-27,Preferred,San Antonio,TX,Affiliate Network,0
+CUST-000301,Sam Taylor,sam.taylor56@gmail.com,2024-02-09,Preferred,Phoenix,AZ,Paid Search,1
+CUST-000302,Harper Anderson,harper.anderson630@yahoo.com,2025-06-11,Standard,Phoenix,AZ,Paid Search,0
+CUST-000303,Skyler Garcia,skyler.garcia641@icloud.com,2024-11-02,Standard,Denver,CO,Paid Search,0
+CUST-000304,Harper Moore,harper.moore735@icloud.com,2025-07-30,Standard,San Jose,CA,Social Media,1
+CUST-000305,Cameron Hernandez,cameron.hernandez436@gmail.com,2025-08-20,VIP,San Jose,CA,Organic Search,0
+CUST-000306,Kendall Rodriguez,kendall.rodriguez601@enterprise.org,2024-08-21,Standard,Detroit,MI,Organic Search,0
+CUST-000307,Kendall Garcia,kendall.garcia654@enterprise.org,2025-09-26,Standard,Fort Worth,TX,Direct Referral,1
+CUST-000308,Jordan Jackson,jordan.jackson205@gmail.com,2024-01-20,Preferred,Charlotte,NC,Paid Search,1
+CUST-000309,Casey Wilson,casey.wilson430@yahoo.com,2025-05-28,Standard,,,Social Media,1
+CUST-000310,Sawyer Jones,sawyer.jones222@enterprise.org,2025-07-28,Standard,Austin,TX,Social Media,0
+CUST-000311,Sam Hernandez,sam.hernandez480@yahoo.com,2025-06-29,Standard,Austin,TX,Affiliate Network,1
+CUST-000312,Logan White,logan.white634@outlook.com,2025-05-10,Standard,San Antonio,TX,Direct Referral,1
+CUST-000313,Rowan Martinez,rowan.martinez974@yahoo.com,2024-10-31,Standard,San Jose,CA,Direct Referral,1
+CUST-000314,Skyler Thomas,skyler.thomas583@outlook.com,2024-10-07,Standard,San Jose,CA,Organic Search,0
+CUST-000315,Logan Moore,logan.moore927@icloud.com,2025-02-08,Standard,Jacksonville,FL,Direct Referral,1
+CUST-000316,Jordan Martinez,jordan.martinez364@gmail.com,2025-03-28,Standard,Boston,MA,Paid Search,1
+CUST-000317,Avery Miller,avery.miller287@enterprise.org,2025-07-29,Standard,Atlanta,GA,Paid Search,1
+CUST-000318,Morgan Martin,morgan.martin255@enterprise.org,2024-09-05,Preferred,Los Angeles,CA,Affiliate Network,1
+CUST-000319,Adrian Davis,adrian.davis112@gmail.com,2025-02-27,Standard,Austin,TX,Social Media,1
+CUST-000320,Logan Jones,logan.jones997@gmail.com,2025-07-17,VIP,Philadelphia,PA,Social Media,1
+CUST-000321,Kendall Lee,kendall.lee784@yahoo.com,2024-10-21,VIP,Austin,TX,Paid Search,1
+CUST-000322,Taylor Lee,taylor.lee247@enterprise.org,2025-07-01,Standard,Detroit,MI,Organic Search,1
+CUST-000323,Peyton Garcia,peyton.garcia866@gmail.com,2025-02-10,Standard,San Francisco,CA,Direct Referral,1
+CUST-000324,Jordan Smith,jordan.smith591@outlook.com,2025-09-09,Standard,Houston,TX,Paid Search,1
+CUST-000325,  hAYDEN lEE  ,hayden.lee546@enterprise.org,2025-05-20,Preferred, phoenix ,AZ,Affiliate Network,1
+CUST-000326,Reese Miller,reese.miller348@gmail.com,2024-06-15,Preferred,Detroit,MI,Social Media,1
+CUST-000327,Sawyer Garcia,sawyer.garcia764@gmail.com,2024-12-11,Preferred,San Jose,CA,Affiliate Network,1
+CUST-000328,Riley Martin,riley.martin856@icloud.com,2025-03-13,Standard,Indianapolis,IN,Paid Search,1
+CUST-000329,Sam Perez,sam.perez199@gmail.com,2024-05-23,Preferred,San Francisco,CA,Paid Search,1
+CUST-000330,Alex Rodriguez,alex.rodriguez251@icloud.com,2025-04-02,Standard,Dallas,TX,Paid Search,1
+CUST-000031,Emerson White,user@.invalid_tld,2024-09-24,Preferred,Boston,MA,Paid Search,1
+CUST-000332,Jordan Perez,jordan.perez486@gmail.com,2024-11-10,Standard,Philadelphia,PA,Social Media,0
+CUST-000333,Sawyer Martinez,sawyer.martinez664@gmail.com,2024-10-29,Preferred,Jacksonville,FL,Affiliate Network,1
+CUST-000334,Dakota Jones,dakota.jones166@icloud.com,2025-04-10,VIP,Detroit,MI,Affiliate Network,1
+CUST-000335,Peyton Thompson,peyton.thompson944@enterprise.org,2025-04-27,Standard,Seattle,WA,Direct Referral,1
+CUST-000336,Logan Martin,logan.martin548@gmail.com,2025-04-02,Preferred,Indianapolis,IN,Paid Search,1
+CUST-000337,Emerson Brown,emerson.brown858@gmail.com,2025-07-14,Standard,Indianapolis,IN,Direct Referral,0
+CUST-000338,Rowan Jones,rowan.jones345@yahoo.com,2025-06-16,Preferred,Charlotte,NC,Organic Search,1
+CUST-000339,Sawyer Jackson,sawyer.jackson103@icloud.com,2025-06-06,Standard,Charlotte,NC,Organic Search,1
+CUST-000340,Casey Taylor,casey.taylor477@icloud.com,2025-07-31,VIP,Los Angeles,CA,Affiliate Network,1
+CUST-000341,Logan Martinez,logan.martinez415@gmail.com,2024-09-17,Standard,New York,NY,Direct Referral,0
+CUST-000342,Taylor Johnson,taylor.johnson362@icloud.com,2024-03-06,Enterprise,Seattle,WA,Organic Search,1
+CUST-000343,Kendall Johnson,kendall.johnson428@outlook.com,2024-07-03,Preferred,Phoenix,AZ,Social Media,1
+CUST-000344,Sam Anderson,sam.anderson394@icloud.com,2024-03-23,Standard,Miami,FL,Affiliate Network,1
+CUST-000345,Adrian Lopez,adrian.lopez192@gmail.com,2025-07-04,Preferred,Fort Worth,TX,Affiliate Network,1
+CUST-000346,Elliot Davis,elliot.davis784@gmail.com,2024-01-24,Preferred,San Jose,CA,Social Media,0
+CUST-000347,Peyton Moore,peyton.moore853@icloud.com,2024-08-23,VIP,San Diego,CA,Social Media,1
+CUST-000348,Casey Rodriguez,casey.rodriguez969@yahoo.com,2024-04-25,Standard,Los Angeles,CA,Social Media,0
+CUST-000349,Alex Davis,alex.davis78@yahoo.com,2024-04-13,Standard,Washington,DC,Organic Search,1
+CUST-000350,  fINLEY pEREZ  ,finley.perez260@gmail.com,2024-02-15,Standard, fort worth ,TX,Social Media,1
+CUST-000351,  rOWAN mILLER  ,rowan.miller153@gmail.com,2025-05-30,Preferred, san jose ,CA,Direct Referral,0
+CUST-000352,Skyler Jackson,skyler.jackson801@enterprise.org,2025-11-19,Standard,Austin,TX,Direct Referral,1
+CUST-000353,Casey Perez,casey.perez236@enterprise.org,2025-02-27,Standard,San Jose,CA,Paid Search,1
+CUST-000354,Rowan Jackson,user@.invalid_tld,2025-11-26,Standard,Columbus,OH,Affiliate Network,1
+CUST-000355,Jordan Lopez,jordan.lopez814@icloud.com,2025-06-21,Standard,Austin,TX,Social Media,1
+CUST-000356,Casey Martinez,casey.martinez198@icloud.com,2025-07-04,Standard,San Francisco,CA,Direct Referral,1
+CUST-000357,Quinn Thompson,quinn.thompson835@yahoo.com,2025-04-19,Preferred,Los Angeles,CA,Affiliate Network,1
+CUST-000358,Peyton Moore,peyton.moore147@enterprise.org,2025-02-01,Preferred,San Diego,CA,Paid Search,1
+CUST-000359,Skyler Lee,skyler.lee954@gmail.com,2025-04-05,Standard,,,Organic Search,0
+CUST-000360,Elliot Miller,elliot.miller284@gmail.com,2025-01-21,Standard,Miami,FL,Affiliate Network,0
+CUST-000361,Jordan Williams,jordan.williams833@yahoo.com,2025-08-24,VIP,Detroit,MI,Affiliate Network,1
+CUST-000362,Kendall Miller,kendall.miller320@outlook.com,2024-01-16,Standard,San Antonio,TX,Direct Referral,1
+CUST-000363,Elliot Thomas,elliot.thomas722@yahoo.com,2025-09-10,Standard,Atlanta,GA,Direct Referral,1
+CUST-000364,Dakota Moore,dakota.moore804@outlook.com,2024-10-16,Standard,Fort Worth,TX,Social Media,0
+CUST-000365,Adrian Lopez,adrian.lopez277@outlook.com,2025-01-03,Preferred,Indianapolis,IN,Social Media,1
+CUST-000366,Morgan White,morgan.white789@icloud.com,2024-11-23,Standard,San Antonio,TX,Paid Search,1
+CUST-000367,Peyton Johnson,peyton.johnson894@enterprise.org,2024-08-14,Preferred,Detroit,MI,Direct Referral,1
+CUST-000368,Reese Moore,reese.moore603@enterprise.org,2025-03-03,Preferred,San Jose,CA,Direct Referral,1
+CUST-000369,Skyler Davis,skyler.davis593@icloud.com,2024-09-08,Standard,San Francisco,CA,Affiliate Network,1
+CUST-000370,Reese Thomas,reese.thomas481@icloud.com,2024-06-21,VIP,Detroit,MI,Paid Search,1
+CUST-000371,Casey White,casey.white510@enterprise.org,2024-07-07,Preferred,Seattle,WA,Organic Search,0
+CUST-000372,Jordan Williams,jordan.williams792@gmail.com,2024-01-07,Standard,Columbus,OH,Direct Referral,1
+CUST-000373,Taylor Thompson,taylor.thompson19@yahoo.com,2024-08-11,Standard,Indianapolis,IN,Social Media,1
+CUST-000374,Jordan Martin,jordan.martin944@enterprise.org,2025-05-09,Standard,Miami,FL,Social Media,1
+CUST-000375,Alex Moore,alex.moore431@enterprise.org,2024-01-13,Standard,New York,NY,Affiliate Network,1
+CUST-000376,Rowan Martinez,rowan.martinez524@gmail.com,2025-11-21,Standard,,,Direct Referral,1
+CUST-000377,Morgan Taylor,missing_at_symbol.com,2024-07-15,VIP,Washington,DC,Affiliate Network,1
+CUST-000378,Cameron Rodriguez,cameron.rodriguez90@icloud.com,2025-01-17,Standard,Fort Worth,TX,Social Media,0
+CUST-000379,Dakota Thompson,dakota.thompson317@yahoo.com,2025-12-01,Standard,Chicago,IL,Organic Search,1
+CUST-000380,Sam Gonzalez,sam.gonzalez575@icloud.com,2025-05-02,Preferred,Los Angeles,CA,Organic Search,1
+CUST-000381,Taylor Thomas,taylor.thomas670@icloud.com,2024-12-05,Standard,Denver,CO,Organic Search,0
+CUST-000382,Jordan Davis,invalid_user@domain..com,2025-08-03,VIP,San Francisco,CA,Paid Search,1
+CUST-000383,Taylor Perez,taylor.perez930@outlook.com,2025-07-10,Preferred,,,Organic Search,1
+CUST-000384,Skyler Smith,skyler.smith611@yahoo.com,2024-05-27,Standard,Atlanta,GA,Social Media,1
+CUST-000385,Quinn Garcia,quinn.garcia256@enterprise.org,2025-08-03,Standard,Fort Worth,TX,Affiliate Network,1
+CUST-000386,Sam White,sam.white819@yahoo.com,2024-03-21,Enterprise,Indianapolis,IN,Paid Search,1
+CUST-000387,Morgan Wilson,morgan.wilson868@yahoo.com,2024-03-18,Preferred,Austin,TX,Affiliate Network,0
+CUST-000388,Finley Gonzalez,finley.gonzalez40@outlook.com,2025-10-11,Enterprise,Dallas,TX,Social Media,1
+CUST-000389,Dakota Lopez,dakota.lopez973@enterprise.org,2025-01-19,Standard,Columbus,OH,Direct Referral,0
+CUST-000390,Logan Gonzalez,logan.gonzalez800@gmail.com,2025-09-25,VIP,San Jose,CA,Direct Referral,1
+CUST-000391,Taylor Rodriguez,taylor.rodriguez399@yahoo.com,2025-10-11,Preferred,Phoenix,AZ,Social Media,1
+CUST-000392,Cameron Brown,cameron.brown15@gmail.com,2024-11-11,Standard,Charlotte,NC,Paid Search,1
+CUST-000393,Morgan Jones,morgan.jones201@gmail.com,2025-03-17,Standard,Charlotte,NC,Affiliate Network,0
+CUST-000394,Harper Wilson,harper.wilson36@gmail.com,2024-04-01,Preferred,Jacksonville,FL,Affiliate Network,1
+CUST-000395,Finley Martin,finley.martin894@outlook.com,2025-01-29,Standard,New York,NY,Paid Search,1
+CUST-000396,Sam Williams,sam.williams936@enterprise.org,2024-09-05,Standard,Denver,CO,Affiliate Network,1
+CUST-000397,Logan Gonzalez,logan.gonzalez152@yahoo.com,2024-10-02,Preferred,San Jose,CA,Paid Search,1
+CUST-000398,Casey Williams,casey.williams455@yahoo.com,2024-10-09,Standard,Columbus,OH,Paid Search,1
+CUST-000399,Taylor Lopez,taylor.lopez976@outlook.com,2024-09-09,Standard,Detroit,MI,Social Media,0
+CUST-000400,Finley Miller,finley.miller119@icloud.com,2024-05-18,Standard,San Jose,CA,Organic Search,1
+CUST-000401,Skyler Martin,skyler.martin833@icloud.com,2024-12-03,Standard,Charlotte,NC,Paid Search,1
+CUST-000402,Adrian Martin,adrian.martin317@yahoo.com,2024-11-24,VIP,Washington,DC,Direct Referral,1
+CUST-000403,Skyler Garcia,skyler.garcia336@icloud.com,2024-10-25,Preferred,Detroit,MI,Social Media,0
+CUST-000404,  dAKOTA hERNANDEZ  ,dakota.hernandez297@icloud.com,2025-02-06,Standard, jacksonville ,FL,Organic Search,0
+CUST-000405,Avery Jackson,avery.jackson194@enterprise.org,2025-11-29,Enterprise,Seattle,WA,Organic Search,1
+CUST-000406,Sawyer Miller,sawyer.miller826@icloud.com,2024-10-25,VIP,Atlanta,GA,Organic Search,1
+CUST-000407,Logan Thomas,logan.thomas658@yahoo.com,2024-11-06,Standard,San Diego,CA,Paid Search,1
+CUST-000408,Sawyer Wilson,sawyer.wilson85@icloud.com,2025-04-04,Preferred,Washington,DC,Social Media,0
+CUST-000409,Sam Moore,sam.moore955@enterprise.org,2025-03-04,Standard,,,Organic Search,1
+CUST-000410,Sawyer Moore,sawyer.moore663@enterprise.org,2024-03-28,Enterprise,Houston,TX,Direct Referral,1
+CUST-000411,Riley Lee,riley.lee55@enterprise.org,2025-07-30,Preferred,Boston,MA,Social Media,1
+CUST-000412,Peyton Brown,peyton.brown110@gmail.com,2024-09-21,Preferred,San Diego,CA,Affiliate Network,0
+CUST-000413,Rowan Jackson,rowan.jackson236@enterprise.org,2025-04-01,Standard,Jacksonville,FL,Social Media,1
+CUST-000414,Logan Jackson,logan.jackson164@enterprise.org,2024-12-19,VIP,New York,NY,Social Media,1
+CUST-000415,Quinn Wilson,quinn.wilson128@gmail.com,2024-05-25,Standard,Jacksonville,FL,Paid Search,1
+CUST-000416,Hayden Miller,hayden.miller504@enterprise.org,2024-12-22,Standard,San Francisco,CA,Organic Search,1
+CUST-000417,Elliot Thompson,elliot.thompson336@icloud.com,2024-03-09,Standard,San Jose,CA,Organic Search,1
+CUST-000418,Alex Hernandez,alex.hernandez703@gmail.com,2024-06-17,Preferred,Detroit,MI,Direct Referral,0
+CUST-000019,Riley Moore,riley.moore348@yahoo.com,2025-07-27,Standard,Columbus,OH,Social Media,1
+CUST-000420,Sam Lee,sam.lee200@yahoo.com,2025-10-17,VIP,Miami,FL,Social Media,1
+CUST-000421,Alex White,double@@atdomain.com,2024-07-21,Preferred,Charlotte,NC,Affiliate Network,1
+CUST-000422,Sam Smith,sam.smith220@yahoo.com,2024-10-12,Standard,Atlanta,GA,Organic Search,0
+CUST-000423,Morgan Moore,morgan.moore384@yahoo.com,2024-11-29,Standard,San Antonio,TX,Social Media,1
+CUST-000424,Reese Perez,reese.perez550@icloud.com,2025-10-16,Standard,Austin,TX,Affiliate Network,1
+CUST-000425,Finley Gonzalez,finley.gonzalez126@enterprise.org,2024-12-22,Preferred,Jacksonville,FL,Social Media,0
+CUST-000426,Riley Perez,riley.perez950@outlook.com,2025-09-21,Preferred,Denver,CO,Organic Search,1
+CUST-000427,Skyler Brown,skyler.brown322@yahoo.com,2024-04-29,Standard,Philadelphia,PA,Paid Search,1
+CUST-000428,Harper Gonzalez,harper.gonzalez620@icloud.com,2024-05-21,Preferred,Denver,CO,Social Media,1
+CUST-000429,Riley Thomas,riley.thomas720@enterprise.org,2025-10-22,Standard,Philadelphia,PA,Affiliate Network,1
+CUST-000430,Kendall Martinez,kendall.martinez201@yahoo.com,2024-11-18,Preferred,Charlotte,NC,Affiliate Network,1
+CUST-000431,Cameron Smith,cameron.smith149@icloud.com,2024-07-18,VIP,Fort Worth,TX,Affiliate Network,0
+CUST-000432,Adrian Thomas,adrian.thomas711@icloud.com,2025-05-18,Preferred,Columbus,OH,Social Media,1
+CUST-000433,Riley Williams,riley.williams41@enterprise.org,2024-08-13,Preferred,San Jose,CA,Organic Search,1
+CUST-000434,Dakota Moore,dakota.moore182@outlook.com,2025-04-13,Preferred,Denver,CO,Social Media,0
+CUST-000435,Harper Brown,harper.brown126@enterprise.org,2024-10-01,Standard,Seattle,WA,Paid Search,0
+CUST-000436,Jordan White,user@.invalid_tld,2024-08-11,Standard,Columbus,OH,Organic Search,1
+CUST-000437,Quinn Johnson,quinn.johnson279@icloud.com,2024-12-22,Standard,Chicago,IL,Social Media,1
+CUST-000438,Dakota Miller,dakota.miller715@enterprise.org,2024-12-25,Standard,Atlanta,GA,Affiliate Network,1
+CUST-000439,Riley Martin,plainaddress_no_tld@,2024-07-30,Preferred,San Antonio,TX,Organic Search,0
+CUST-000440,Cameron Moore,invalid_user@domain..com,2025-07-05,Preferred,Philadelphia,PA,Paid Search,1
+CUST-000441,Quinn Jackson,quinn.jackson985@outlook.com,2025-06-10,VIP,Miami,FL,Organic Search,1
+CUST-000442,Peyton Johnson,peyton.johnson897@outlook.com,2025-11-02,Standard,Phoenix,AZ,Direct Referral,1
+CUST-000443,Casey Thompson,casey.thompson858@outlook.com,2024-09-10,Preferred,Miami,FL,Social Media,1
+CUST-000444,Casey Jackson,casey.jackson652@outlook.com,2025-02-28,Standard,Fort Worth,TX,Social Media,1
+CUST-000445,Adrian Williams,adrian.williams537@icloud.com,2024-10-11,Standard,Atlanta,GA,Paid Search,1
+CUST-000446,Kendall Hernandez,kendall.hernandez12@enterprise.org,2024-04-05,Preferred,Detroit,MI,Social Media,1
+CUST-000447,Taylor Moore,taylor.moore233@icloud.com,2025-03-15,Enterprise,San Antonio,TX,Social Media,1
+CUST-000448,Skyler Martinez,skyler.martinez570@outlook.com,2025-08-14,Preferred,Phoenix,AZ,Affiliate Network,1
+CUST-000449,Skyler Perez,skyler.perez57@gmail.com,2024-04-11,Standard,Boston,MA,Social Media,1
+CUST-000450,Morgan Garcia,morgan.garcia477@icloud.com,2024-01-01,Preferred,Columbus,OH,Direct Referral,1
+CUST-000451,Adrian Martinez,adrian.martinez905@yahoo.com,2024-10-07,Standard,Chicago,IL,Paid Search,1
+CUST-000452,Taylor Lopez,taylor.lopez63@yahoo.com,2025-02-09,VIP,Boston,MA,Paid Search,1
+CUST-000453,Peyton Lee,user@.invalid_tld,2024-04-07,Preferred,New York,NY,Direct Referral,1
+CUST-000454,Taylor Jones,taylor.jones241@enterprise.org,2025-06-15,Standard,Miami,FL,Social Media,1
+CUST-000455,Alex Thompson,alex.thompson846@outlook.com,2024-05-03,Standard,Columbus,OH,Direct Referral,1
+CUST-000456,Taylor Davis,taylor.davis101@icloud.com,2024-04-14,Standard,Houston,TX,Paid Search,1
+CUST-000457,Quinn Jones,quinn.jones802@icloud.com,2024-05-16,Enterprise,Boston,MA,Direct Referral,1
+CUST-000458,Harper Jackson,harper.jackson634@gmail.com,2025-10-27,Standard,Philadelphia,PA,Social Media,1
+CUST-000459,Elliot Miller,elliot.miller951@yahoo.com,2025-02-25,Preferred,Washington,DC,Social Media,1
+CUST-000460,Taylor Brown,taylor.brown780@yahoo.com,2024-05-06,Preferred,Denver,CO,Social Media,1
+CUST-000461,Peyton Hernandez,peyton.hernandez263@yahoo.com,2024-10-10,Standard,Boston,MA,Organic Search,1
+CUST-000462,Rowan Martin,rowan.martin748@enterprise.org,2025-09-14,Standard,San Jose,CA,Organic Search,1
+CUST-000463,Avery Taylor,avery.taylor531@enterprise.org,2024-07-12,VIP,Detroit,MI,Social Media,1
+CUST-000464,Adrian Johnson,adrian.johnson516@yahoo.com,2025-01-30,Standard,Houston,TX,Direct Referral,1
+CUST-000465,Adrian Martin,adrian.martin550@gmail.com,2024-01-13,Standard,Jacksonville,FL,Paid Search,1
+CUST-000466,Sam Jackson,sam.jackson384@icloud.com,2025-07-13,Preferred,Miami,FL,Direct Referral,1
+CUST-000467,Taylor Smith,taylor.smith79@enterprise.org,2024-01-15,Preferred,Dallas,TX,Direct Referral,1
+CUST-000468,Jordan Gonzalez,jordan.gonzalez303@enterprise.org,2025-10-05,VIP,Atlanta,GA,Affiliate Network,1
+CUST-000469,Peyton Thompson,peyton.thompson94@icloud.com,2025-10-17,Standard,Seattle,WA,Affiliate Network,0
+CUST-000470,Casey Rodriguez,casey.rodriguez327@gmail.com,2024-03-21,Standard,Indianapolis,IN,Direct Referral,1
+CUST-000471,Rowan Hernandez,rowan.hernandez610@icloud.com,2025-10-11,Standard,Boston,MA,Organic Search,1
+CUST-000472,Sawyer Wilson,user@.invalid_tld,2024-09-07,Standard,Chicago,IL,Social Media,1
+CUST-000473,Hayden Martin,hayden.martin66@enterprise.org,2024-11-12,Standard,Miami,FL,Direct Referral,1
+CUST-000474,Alex Thompson,alex.thompson728@yahoo.com,2024-01-12,Standard,Philadelphia,PA,Social Media,1
+CUST-000475,Harper Taylor,harper.taylor180@outlook.com,2025-01-15,Standard,Phoenix,AZ,Paid Search,1
+CUST-000476,Alex Hernandez,alex.hernandez288@icloud.com,2025-06-20,Standard,Chicago,IL,Paid Search,0
+CUST-000477,Adrian Williams,adrian.williams476@icloud.com,2025-06-07,Standard,Jacksonville,FL,Organic Search,1
+CUST-000478,Emerson Garcia,emerson.garcia171@outlook.com,2024-09-18,Preferred,Houston,TX,Affiliate Network,1
+CUST-000479,Dakota White,dakota.white12@enterprise.org,2024-02-15,Preferred,New York,NY,Direct Referral,1
+CUST-000480,Kendall Lopez,kendall.lopez952@icloud.com,2024-06-02,Standard,Philadelphia,PA,Organic Search,0
+CUST-000481,Sawyer White,sawyer.white239@icloud.com,2024-11-25,Standard,San Diego,CA,Social Media,1
+CUST-000482,Reese Williams,reese.williams391@enterprise.org,2024-05-02,Standard,Indianapolis,IN,Organic Search,1
+CUST-000483,Dakota Taylor,dakota.taylor986@gmail.com,2025-02-14,Standard,Chicago,IL,Social Media,1
+CUST-000484,Quinn Hernandez,quinn.hernandez576@gmail.com,2025-04-12,Standard,New York,NY,Paid Search,1
+CUST-000485,  qUINN jACKSON  ,quinn.jackson767@outlook.com,2025-09-29,Standard, san diego ,CA,Social Media,1
+CUST-000486,Emerson Thomas,emerson.thomas760@yahoo.com,2025-07-13,Standard,San Diego,CA,Direct Referral,1
+CUST-000487,Peyton Smith,peyton.smith564@yahoo.com,2024-12-20,Standard,Boston,MA,Organic Search,1
+CUST-000488,Alex Perez,alex.perez879@icloud.com,2024-11-10,Standard,Houston,TX,Direct Referral,0
+CUST-000489,Dakota Wilson,dakota.wilson994@icloud.com,2024-03-02,Standard,Phoenix,AZ,Paid Search,1
+CUST-000490,Jordan Davis,jordan.davis432@enterprise.org,2025-01-16,Standard,Charlotte,NC,Organic Search,0
+CUST-000491,Morgan Taylor,morgan.taylor662@yahoo.com,2025-02-07,Preferred,Chicago,IL,Affiliate Network,0
+CUST-000492,Jordan Wilson,jordan.wilson252@yahoo.com,2024-10-25,Preferred,Dallas,TX,Paid Search,1
+CUST-000493,Sawyer White,sawyer.white335@outlook.com,2025-04-08,Preferred,Dallas,TX,Direct Referral,1
+CUST-000494,Avery Jones,double@@atdomain.com,2024-06-08,Standard,Houston,TX,Direct Referral,1
+CUST-000495,Hayden Hernandez,hayden.hernandez133@icloud.com,2025-07-02,Preferred,Jacksonville,FL,Direct Referral,1
+CUST-000496,Quinn Anderson,quinn.anderson882@outlook.com,2024-05-02,Standard,Chicago,IL,Direct Referral,1
+CUST-000497,Sawyer Thompson,sawyer.thompson51@enterprise.org,2024-08-08,Standard,Austin,TX,Direct Referral,1
+CUST-000498,Sawyer Davis,sawyer.davis415@outlook.com,2025-06-09,Preferred,Los Angeles,CA,Paid Search,1
+CUST-000499,Riley Smith,riley.smith885@icloud.com,2025-04-08,Standard,Seattle,WA,Affiliate Network,1
+CUST-000500,Morgan Anderson,morgan.anderson833@gmail.com,2024-05-23,Standard,Houston,TX,Organic Search,1
+CUST-000501,Dakota Jones,dakota.jones853@yahoo.com,2025-02-14,Preferred,Jacksonville,FL,Organic Search,0
+CUST-000502,Emerson Rodriguez,emerson.rodriguez32@gmail.com,2024-03-07,VIP,San Antonio,TX,Social Media,1
+CUST-000003,Taylor Hernandez,taylor.hernandez53@gmail.com,2025-04-17,VIP,Los Angeles,CA,Direct Referral,0
+CUST-000504,Peyton White,peyton.white518@icloud.com,2024-01-31,Standard,,,Social Media,1
+CUST-000505,Cameron Miller,cameron.miller291@yahoo.com,2024-10-13,Standard,Charlotte,NC,Direct Referral,1
+CUST-000506,Finley Martin,finley.martin261@enterprise.org,2025-10-24,Preferred,San Jose,CA,Social Media,1
+CUST-000507,Rowan Thomas,rowan.thomas99@gmail.com,2024-10-13,Standard,Fort Worth,TX,Direct Referral,1
+CUST-000508,Avery Lee,avery.lee265@enterprise.org,2025-10-07,Preferred,,,Organic Search,1
+CUST-000509,Sawyer Lopez,sawyer.lopez567@icloud.com,2025-05-11,Standard,Jacksonville,FL,Affiliate Network,0
+CUST-000510,Skyler Gonzalez,skyler.gonzalez194@outlook.com,2024-01-27,Standard,Austin,TX,Affiliate Network,1
+CUST-000511,Alex Rodriguez,alex.rodriguez838@gmail.com,2025-04-28,Standard,Indianapolis,IN,Paid Search,0
+CUST-000512,Dakota Garcia,dakota.garcia263@gmail.com,2025-11-03,Preferred,San Diego,CA,Paid Search,0
+CUST-000513,Elliot Johnson,elliot.johnson599@yahoo.com,2025-02-01,Standard,Jacksonville,FL,Direct Referral,1
+CUST-000514,Dakota Jackson,dakota.jackson835@outlook.com,2025-01-02,Standard,Denver,CO,Organic Search,1
+CUST-000515,Emerson Jackson,emerson.jackson586@yahoo.com,2024-07-11,Standard,San Francisco,CA,Affiliate Network,1
+CUST-000516,Riley Thomas,riley.thomas102@gmail.com,2024-02-27,Standard,San Diego,CA,Affiliate Network,1
+CUST-000517,Alex Taylor,alex.taylor10@icloud.com,2024-12-05,Standard,Washington,DC,Direct Referral,1
+CUST-000518,Skyler Thompson,skyler.thompson950@yahoo.com,2024-11-27,Preferred,Los Angeles,CA,Organic Search,1
+CUST-000519,Emerson Thompson,emerson.thompson802@yahoo.com,2024-04-23,Standard,Indianapolis,IN,Paid Search,1
+CUST-000520,Cameron Thompson,cameron.thompson610@icloud.com,2024-04-13,Preferred,Austin,TX,Paid Search,1
+CUST-000521,Casey Garcia,casey.garcia820@icloud.com,2025-10-16,VIP,San Francisco,CA,Paid Search,1
+CUST-000522,Sawyer Moore,sawyer.moore815@enterprise.org,2024-12-31,Standard,San Diego,CA,Affiliate Network,1
+CUST-000523,Sam Martinez,sam.martinez140@outlook.com,2024-06-30,Standard,Detroit,MI,Organic Search,0
+CUST-000524,Sam Jackson,sam.jackson196@gmail.com,2025-09-08,Preferred,Austin,TX,Affiliate Network,1
+CUST-000525,Adrian Jackson,adrian.jackson969@gmail.com,2025-05-23,Standard,Phoenix,AZ,Paid Search,1
+CUST-000526,Dakota Lopez,dakota.lopez181@outlook.com,2025-10-13,Standard,Chicago,IL,Paid Search,1
+CUST-000527,Alex Rodriguez,alex.rodriguez265@yahoo.com,2024-03-10,Enterprise,Jacksonville,FL,Paid Search,1
+CUST-000528,Elliot Smith,elliot.smith405@gmail.com,2025-03-24,Enterprise,Detroit,MI,Social Media,1
+CUST-000529,Peyton Thomas,peyton.thomas369@icloud.com,2025-07-13,Preferred,Fort Worth,TX,Organic Search,1
+CUST-000530,Emerson Lee,emerson.lee176@yahoo.com,2025-04-07,Standard,Chicago,IL,Organic Search,1
+CUST-000531,Alex Hernandez,alex.hernandez984@outlook.com,2024-04-17,Preferred,Chicago,IL,Paid Search,1
+CUST-000532,Sam Garcia,sam.garcia570@gmail.com,2024-04-05,Preferred,Austin,TX,Affiliate Network,0
+CUST-000533,Kendall Thompson,kendall.thompson451@gmail.com,2025-10-31,Standard,Philadelphia,PA,Affiliate Network,1
+CUST-000534,Riley Johnson,riley.johnson349@gmail.com,2024-07-29,Preferred,San Antonio,TX,Social Media,0
+CUST-000535,Elliot White,elliot.white281@enterprise.org,2025-11-07,Standard,San Jose,CA,Paid Search,1
+CUST-000536,Morgan Johnson,morgan.johnson595@icloud.com,2025-07-16,Standard,San Francisco,CA,Direct Referral,1
+CUST-000537,Cameron Smith,cameron.smith99@icloud.com,2024-10-28,Standard,Miami,FL,Affiliate Network,1
+CUST-000538,Avery Brown,plainaddress_no_tld@,2024-06-23,Standard,Boston,MA,Paid Search,1
+CUST-000539,Kendall Brown,kendall.brown813@outlook.com,2025-02-11,Standard,San Francisco,CA,Social Media,1
+CUST-000540,Taylor Lee,taylor.lee406@enterprise.org,2024-07-08,Preferred,Jacksonville,FL,Social Media,1
+CUST-000541,Riley Anderson,riley.anderson279@gmail.com,2025-03-26,Enterprise,Charlotte,NC,Paid Search,1
+CUST-000542,Reese Jackson,missing_at_symbol.com,2025-11-14,Standard,Houston,TX,Organic Search,1
+CUST-000543,Rowan Wilson,rowan.wilson242@enterprise.org,2025-07-20,Preferred,Los Angeles,CA,Social Media,0
+CUST-000544,Peyton Moore,peyton.moore596@icloud.com,2024-08-29,Enterprise,San Francisco,CA,Paid Search,1
+CUST-000545,Sam Thompson,sam.thompson524@gmail.com,2025-08-07,Standard,Indianapolis,IN,Affiliate Network,0
+CUST-000546,Casey Brown,casey.brown187@icloud.com,2024-06-20,Standard,San Antonio,TX,Direct Referral,1
+CUST-000547,Jordan Wilson,jordan.wilson709@gmail.com,2025-03-21,Standard,San Antonio,TX,Direct Referral,0
+CUST-000548,Reese Hernandez,reese.hernandez99@gmail.com,2025-02-01,Standard,Seattle,WA,Social Media,0
+CUST-000549,Skyler Rodriguez,skyler.rodriguez479@enterprise.org,2024-01-13,Preferred,Atlanta,GA,Affiliate Network,0
+CUST-000550,Harper Wilson,harper.wilson434@gmail.com,2024-06-02,Standard,Phoenix,AZ,Affiliate Network,0
+CUST-000551,Emerson Brown,emerson.brown586@gmail.com,2024-04-13,Standard,San Jose,CA,Affiliate Network,1
+CUST-000552,Peyton Rodriguez,peyton.rodriguez680@icloud.com,2025-05-12,Standard,Denver,CO,Affiliate Network,1
+CUST-000553,Jordan Garcia,jordan.garcia422@outlook.com,2024-05-27,Standard,Washington,DC,Affiliate Network,1
+CUST-000554,Jordan Gonzalez,jordan.gonzalez717@outlook.com,2024-08-31,VIP,Los Angeles,CA,Social Media,1
+CUST-000555,Cameron Smith,cameron.smith847@outlook.com,2024-11-06,Standard,San Jose,CA,Paid Search,1
+CUST-000556,Sawyer Perez,sawyer.perez899@gmail.com,2024-08-21,Standard,Phoenix,AZ,Paid Search,1
+CUST-000557,Skyler Rodriguez,skyler.rodriguez629@icloud.com,2025-10-23,Standard,,,Direct Referral,1
+CUST-000558,Avery Wilson,avery.wilson787@icloud.com,2025-06-12,Standard,Jacksonville,FL,Organic Search,0
+CUST-000559,Riley Williams,double@@atdomain.com,2025-06-02,Standard,Fort Worth,TX,Direct Referral,0
+CUST-000560,Emerson Smith,emerson.smith207@yahoo.com,2024-07-24,Standard,Los Angeles,CA,Direct Referral,1
+CUST-000561,Hayden Johnson,hayden.johnson731@outlook.com,2024-07-22,Standard,Dallas,TX,Paid Search,1
+CUST-000562,  hARPER gONZALEZ  ,harper.gonzalez707@gmail.com,2024-02-01,Standard, san diego ,CA,Paid Search,1
+CUST-000563,Finley Anderson,finley.anderson993@yahoo.com,2025-04-30,Preferred,Denver,CO,Affiliate Network,1
+CUST-000564,Cameron Garcia,cameron.garcia776@outlook.com,2024-04-02,Preferred,San Jose,CA,Organic Search,1
+CUST-000565,Jordan Garcia,jordan.garcia808@enterprise.org,2024-08-07,Preferred,San Diego,CA,Direct Referral,1
+CUST-000566,Reese Lee,reese.lee535@icloud.com,2024-01-21,Preferred,Miami,FL,Organic Search,1
+CUST-000567,Casey Lee,casey.lee625@yahoo.com,2024-01-09,Preferred,San Diego,CA,Paid Search,0
+CUST-000568,Quinn Thompson,quinn.thompson443@outlook.com,2025-01-20,Standard,Jacksonville,FL,Social Media,1
+CUST-000569,  aVERY aNDERSON  ,avery.anderson703@outlook.com,2025-06-17,Standard, washington ,DC,Social Media,0
+CUST-000570,Morgan Smith,morgan.smith688@enterprise.org,2025-01-18,Standard,Seattle,WA,Affiliate Network,0
+CUST-000571,Quinn Martinez,invalid_user@domain..com,2024-03-06,Standard,Austin,TX,Paid Search,1
+CUST-000572,Reese Rodriguez,reese.rodriguez202@outlook.com,2024-06-02,Preferred,Indianapolis,IN,Direct Referral,1
+CUST-000573,Finley Gonzalez,finley.gonzalez707@outlook.com,2024-05-23,Standard,Detroit,MI,Organic Search,1
+CUST-000574,Quinn Rodriguez,missing_at_symbol.com,2025-02-01,Preferred,Detroit,MI,Organic Search,0
+CUST-000575,Sawyer Jackson,sawyer.jackson361@yahoo.com,2024-08-15,VIP,Miami,FL,Affiliate Network,1
+CUST-000576,Logan Lopez,logan.lopez317@enterprise.org,2024-06-23,Standard,Miami,FL,Affiliate Network,1
+CUST-000577,Quinn Brown,quinn.brown141@icloud.com,2024-09-21,VIP,Detroit,MI,Affiliate Network,1
+CUST-000578,Logan Hernandez,logan.hernandez237@gmail.com,2024-12-29,Standard,San Diego,CA,Paid Search,1
+CUST-000579,Skyler Lopez,skyler.lopez609@outlook.com,2024-10-28,VIP,Charlotte,NC,Organic Search,1
+CUST-000580,Jordan Lee,jordan.lee604@enterprise.org,2025-09-27,Standard,Chicago,IL,Social Media,1
+CUST-000581,Harper Brown,harper.brown552@icloud.com,2024-11-01,Standard,Columbus,OH,Organic Search,1
+CUST-000582,Casey Miller,casey.miller429@outlook.com,2025-08-06,Standard,Charlotte,NC,Direct Referral,1
+CUST-000583,Sawyer Garcia,sawyer.garcia509@gmail.com,2024-12-06,Standard,Boston,MA,Direct Referral,1
+CUST-000584,  aDRIAN jOHNSON  ,adrian.johnson472@gmail.com,2024-10-07,Standard, san antonio ,TX,Direct Referral,0
+CUST-000585,Riley Thomas,riley.thomas142@gmail.com,2025-09-21,VIP,Columbus,OH,Social Media,1
+CUST-000586,Peyton Thomas,peyton.thomas14@icloud.com,2024-02-08,Preferred,Seattle,WA,Direct Referral,1
+CUST-000587,Alex Hernandez,alex.hernandez205@enterprise.org,2024-01-19,Standard,Miami,FL,Organic Search,1
+CUST-000588,Dakota Thompson,dakota.thompson329@outlook.com,2024-05-12,Standard,Houston,TX,Social Media,0
+CUST-000589,Emerson Martinez,emerson.martinez76@yahoo.com,2024-02-16,Standard,San Jose,CA,Paid Search,1
+CUST-000590,Elliot Taylor,elliot.taylor546@enterprise.org,2024-12-11,Standard,Columbus,OH,Direct Referral,1
+CUST-000591,Kendall Lopez,kendall.lopez178@yahoo.com,2025-02-17,VIP,New York,NY,Direct Referral,1
+CUST-000592,Elliot Jones,elliot.jones761@yahoo.com,2024-01-23,Standard,Denver,CO,Affiliate Network,1
+CUST-000593,Morgan Lopez,morgan.lopez394@gmail.com,2025-10-17,Standard,Dallas,TX,Affiliate Network,0
+CUST-000594,Jordan Martin,jordan.martin687@gmail.com,2024-04-20,Standard,Boston,MA,Organic Search,1
+CUST-000595,Sawyer Brown,sawyer.brown464@icloud.com,2025-01-24,Standard,Houston,TX,Affiliate Network,1
+CUST-000596,Kendall Thompson,kendall.thompson220@yahoo.com,2025-10-07,Standard,New York,NY,Paid Search,1
+CUST-000597,Logan Brown,logan.brown286@enterprise.org,2025-09-29,Preferred,Washington,DC,Direct Referral,1
+CUST-000598,Morgan Taylor,morgan.taylor130@enterprise.org,2024-10-16,Preferred,Houston,TX,Organic Search,1
+CUST-000599,Avery Martin,avery.martin806@yahoo.com,2024-09-26,Enterprise,Indianapolis,IN,Direct Referral,1
+CUST-000600,Sawyer Wilson,sawyer.wilson174@outlook.com,2024-02-10,Preferred,Seattle,WA,Social Media,1
+CUST-000601,Sawyer Thomas,sawyer.thomas250@outlook.com,2024-01-03,Standard,New York,NY,Organic Search,1
+CUST-000602,Emerson Perez,emerson.perez162@icloud.com,2024-04-02,Preferred,Indianapolis,IN,Organic Search,1
+CUST-000603,Reese Lee,reese.lee477@yahoo.com,2024-10-30,VIP,Dallas,TX,Social Media,1
+CUST-000004,Morgan Garcia,morgan.garcia882@gmail.com,2024-10-24,Preferred,Jacksonville,FL,Paid Search,1
+CUST-000605,Elliot Brown,elliot.brown881@gmail.com,2024-02-16,Enterprise,New York,NY,Direct Referral,1
+CUST-000606,Skyler Lopez,skyler.lopez988@icloud.com,2025-09-28,Preferred,Dallas,TX,Organic Search,1
+CUST-000607,Skyler Garcia,skyler.garcia420@gmail.com,2025-02-13,VIP,Charlotte,NC,Paid Search,1
+CUST-000608,Sawyer Thomas,sawyer.thomas674@icloud.com,2024-06-19,Standard,Houston,TX,Direct Referral,1
+CUST-000609,Riley Brown,riley.brown943@icloud.com,2025-08-27,Preferred,San Francisco,CA,Affiliate Network,1
+CUST-000010,Riley Martin,riley.martin807@icloud.com,2025-01-02,Standard,Washington,DC,Organic Search,1
+CUST-000611,Kendall Thomas,kendall.thomas918@gmail.com,2025-02-25,Standard,Charlotte,NC,Organic Search,1
+CUST-000612,  rEESE lEE  ,reese.lee22@outlook.com,2025-11-25,Preferred, indianapolis ,IN,Affiliate Network,0
+CUST-000613,Dakota Perez,dakota.perez541@outlook.com,2025-06-19,Enterprise,Atlanta,GA,Affiliate Network,1
+CUST-000614,Peyton Perez,peyton.perez503@yahoo.com,2024-12-20,Enterprise,Miami,FL,Social Media,1
+CUST-000015,Rowan Martin,rowan.martin21@gmail.com,2025-10-20,Standard,Philadelphia,PA,Affiliate Network,1
+CUST-000616,  kENDALL gARCIA  ,kendall.garcia779@gmail.com,2025-05-18,Preferred,,,Direct Referral,1
+CUST-000617,Reese Johnson,reese.johnson238@enterprise.org,2025-07-17,Preferred,Boston,MA,Social Media,1
+CUST-000618,Dakota Williams,dakota.williams464@icloud.com,2025-08-09,Standard,Charlotte,NC,Organic Search,1
+CUST-000619,  hAYDEN hERNANDEZ  ,hayden.hernandez519@gmail.com,2025-10-31,Standard, new york ,NY,Organic Search,1
+CUST-000620,Peyton Johnson,peyton.johnson572@enterprise.org,2024-01-01,Standard,Chicago,IL,Affiliate Network,0
+CUST-000621,Adrian Martinez,adrian.martinez585@enterprise.org,2024-07-30,Preferred,Boston,MA,Social Media,1
+CUST-000622,Cameron Johnson,cameron.johnson874@yahoo.com,2025-04-10,Standard,Austin,TX,Affiliate Network,0
+CUST-000623,Finley Thomas,finley.thomas743@outlook.com,2025-04-08,Enterprise,Houston,TX,Organic Search,1
+CUST-000624,Alex Hernandez,alex.hernandez859@outlook.com,2025-10-10,Standard,San Jose,CA,Affiliate Network,0
+CUST-000625,Cameron Thompson,cameron.thompson56@gmail.com,2024-06-17,Enterprise,San Francisco,CA,Direct Referral,1
+CUST-000626,Morgan Rodriguez,morgan.rodriguez210@enterprise.org,2024-07-11,Standard,Houston,TX,Social Media,1
+CUST-000627,Hayden Miller,hayden.miller120@outlook.com,2025-02-28,Preferred,Los Angeles,CA,Affiliate Network,1
+CUST-000628,Hayden Anderson,hayden.anderson989@enterprise.org,2025-05-31,Standard,Phoenix,AZ,Social Media,1
+CUST-000629,Harper White,harper.white576@gmail.com,2025-03-19,Standard,Denver,CO,Social Media,0
+CUST-000630,Riley Thompson,riley.thompson187@enterprise.org,2024-05-11,Preferred,Houston,TX,Social Media,0
+CUST-000631,Finley Hernandez,finley.hernandez912@enterprise.org,2025-01-28,VIP,Columbus,OH,Affiliate Network,1
+CUST-000632,Reese Gonzalez,reese.gonzalez311@outlook.com,2025-04-08,Preferred,Phoenix,AZ,Direct Referral,1
+CUST-000633,Finley Thompson,finley.thompson316@enterprise.org,2025-07-14,Standard,Austin,TX,Affiliate Network,1
+CUST-000634,Avery Miller,avery.miller741@enterprise.org,2024-10-24,Standard,Miami,FL,Paid Search,1
+CUST-000635,  sAWYER lEE  ,sawyer.lee525@yahoo.com,2025-07-09,Standard, atlanta ,GA,Paid Search,1
+CUST-000636,Cameron Moore,cameron.moore606@icloud.com,2025-08-07,Standard,Miami,FL,Social Media,0
+CUST-000637,Quinn Wilson,quinn.wilson545@gmail.com,2024-04-19,Preferred,New York,NY,Social Media,1
+CUST-000638,Jordan Perez,jordan.perez214@gmail.com,2024-09-30,Preferred,Philadelphia,PA,Paid Search,1
+CUST-000639,  cASEY jOHNSON  ,casey.johnson218@outlook.com,2025-07-08,Preferred, los angeles ,CA,Paid Search,1
+CUST-000640,Morgan Martin,morgan.martin895@enterprise.org,2024-08-17,VIP,Detroit,MI,Affiliate Network,1
+CUST-000641,Dakota Taylor,dakota.taylor719@outlook.com,2025-11-11,Preferred,Los Angeles,CA,Social Media,1
+CUST-000642,Peyton Perez,peyton.perez999@outlook.com,2025-07-19,Preferred,Los Angeles,CA,Organic Search,1
+CUST-000643,Avery Martin,avery.martin859@icloud.com,2024-08-18,Standard,Boston,MA,Paid Search,0
+CUST-000644,Rowan White,rowan.white211@enterprise.org,2024-07-17,Standard,San Jose,CA,Social Media,1
+CUST-000645,Logan Williams,missing_at_symbol.com,2024-06-26,Preferred,Detroit,MI,Affiliate Network,1
+CUST-000646,Sam Johnson,sam.johnson295@icloud.com,2025-07-23,VIP,,,Direct Referral,1
+CUST-000647,Emerson Rodriguez,emerson.rodriguez348@gmail.com,2025-04-22,Standard,Atlanta,GA,Direct Referral,1
+CUST-000648,Casey Hernandez,casey.hernandez62@enterprise.org,2025-10-02,Standard,Washington,DC,Paid Search,1
+CUST-000649,Emerson Moore,emerson.moore84@outlook.com,2024-11-21,Preferred,Indianapolis,IN,Direct Referral,1
+CUST-000650,Harper Williams,harper.williams173@enterprise.org,2025-03-01,Standard,Seattle,WA,Affiliate Network,1

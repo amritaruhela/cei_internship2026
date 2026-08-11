@@ -1,0 +1,20 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Database (optional to include or exclude, but schema & generation scripts recreate it)
+# data/omnimarket_analytics.db
+
+# IDEs & System
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

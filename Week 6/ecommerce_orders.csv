@@ -1,0 +1,61 @@
+order_id,customer_id,item_name,category,brand,region,order_stage,order_ts,qty,unit_price,discount_pct,payment_channel,fulfillment_center
+NC20260001,CUST1013,PulseFit Smart Band,Wearables,PulseFit,Central,Delivered,2026-02-27 04:47:00,1,11941.34,,Card,FC-Pune
+NC20260002,CUST1069,Vertex Gaming Mouse,Electronics,Quantum,West,Shipped,2026-07-03 20:44:00,5,715.61,5,,FC-Hyderabad
+NC20260003,CUST1011,Ferro Cast Iron Skillet,Kitchen,Ferro,West,Processing,2026-02-25 10:06:00,4,5640.93,5,Card,FC-Bengaluru
+NC20260004,CUST1080,Terra Ceramic Plant Pot,Home,Terra,Central,Delivered,2026-01-21 17:18:00,5,2258.77,,Wallet,FC-Pune
+NC20260005,CUST1081,Ember Insulated Water Bottle,Outdoor,Ember,East,Delivered,2026-04-08 08:29:00,1,13727.49,0,UPI,FC-Bengaluru
+NC20260006,CUST1059,TrailBlaze Hiking Backpack,Outdoor,Summit,West,Delivered,2026-07-06 07:10:00,5,10268.16,20,Wallet,FC-Pune
+NC20260007,CUST1027,Zenith 4K Monitor 27in,Electronics,ViewPro,Central,Shipped,2026-04-13 08:04:00,2,13201.3,10,Wallet,FC-Mumbai
+NC20260008,CUST1033,Terra Ceramic Plant Pot,Home,Terra,Central,Delivered,2026-07-10 17:34:00,2,4457.62,5,NetBanking,FC-Pune
+NC20260009,CUST1020,Vertex Gaming Mouse,Electronics,Quantum,West,Delivered,2026-01-29 04:40:00,4,1726.28,0,COD,FC-Delhi
+NC20260010,CUST1087,Voyager Carry-on Suitcase,Travel,Voyager,Central,Delivered,2026-06-24 23:07:00,5,13813.24,0,Wallet,FC-Bengaluru
+NC20260011,CUST1081,Voyager Carry-on Suitcase,Travel,Voyager,Central,Delivered,2026-01-28 20:19:00,5,12261.81,20,COD,FC-Mumbai
+NC20260012,CUST1046,Vertex Gaming Mouse,Electronics,Quantum,East,Delivered,2026-01-05 03:59:00,1,9702.43,15,UPI,FC-Delhi
+NC20260013,CUST1084,Basecamp 2-Person Tent,Outdoor,Summit,West,Delivered,2026-07-16 04:08:00,1,15653.36,20,COD,FC-Mumbai
+NC20260014,CUST1051,Lumos LED Desk Lamp,Home,Lumos,East,Delivered,2026-02-21 22:19:00,5,12156.66,25,NetBanking,FC-Pune
+NC20260015,CUST1090,Aurora Wireless Earbuds,Electronics,SoundWave,North,Cancelled,2026-02-26 00:04:00,5,8995.57,20,UPI,FC-Delhi
+NC20260016,CUST1073,Quantum Mechanical Keyboard,Electronics,Quantum,Central,Processing,2026-05-19 04:46:00,3,10801.95,5,NetBanking,FC-Mumbai
+NC20260017,CUST1086,PulseFit Smart Band,Wearables,PulseFit,North,Shipped,2026-04-30 23:03:00,4,5861.47,15,Card,FC-Hyderabad
+NC20260018,CUST1059,Lumos LED Desk Lamp,Home,Lumos,South,Processing,2026-04-19 05:17:00,2,8718.69,5,Card,FC-Hyderabad
+NC20260019,CUST1061,Solstice Reading Lamp,Home,Lumos,South,Delivered,2026-02-12 13:31:00,1,15512.24,,NetBanking,FC-Delhi
+NC20260020,CUST1091,Terra Ceramic Plant Pot,Home,Terra,West,Delivered,2026-07-20 17:42:00,3,6940.22,25,UPI,FC-Mumbai
+NC20260021,CUST1064,Solstice Reading Lamp,Home,Lumos,Central,Returned,2026-01-13 18:30:00,1,12042.22,0,UPI,FC-Delhi
+NC20260022,CUST1072,Ridge Trail Running Shoes,Footwear,Summit,South,Delivered,2026-04-14 03:56:00,1,10899.84,5,COD,FC-Pune
+NC20260023,CUST1040,Marina Beach Towel Set,Home,CloudRest,South,Delivered,2026-02-22 21:45:00,5,5266.01,10,Wallet,FC-Hyderabad
+NC20260024,CUST1027,TrailBlaze Hiking Backpack,Outdoor,Summit,Central,Returned,2026-01-26 02:34:00,1,7494.08,20,Wallet,FC-Mumbai
+NC20260025,CUST1083,Drift Bluetooth Speaker,Electronics,SoundWave,Central,Delivered,2026-06-30 09:39:00,3,2775.63,20,Card,FC-Pune
+NC20260026,CUST1034,Nimbus Memory Foam Pillow,Home,CloudRest,East,Shipped,2026-07-10 17:09:00,3,2111.23,0,COD,FC-Mumbai
+NC20260027,CUST1035,Voyager Carry-on Suitcase,Travel,Voyager,North,Processing,2026-01-24 20:27:00,5,7968.95,0,Card,FC-Bengaluru
+NC20260028,CUST1088,Terra Ceramic Plant Pot,Home,Terra,South,Processing,2026-01-03 03:04:00,5,11377.98,20,COD,FC-Delhi
+NC20260029,CUST1031,Nimbus Memory Foam Pillow,Home,CloudRest,North,Cancelled,2026-04-02 06:43:00,1,5138.66,0,Wallet,FC-Pune
+NC20260030,CUST1094,Nimbus Memory Foam Pillow,Home,CloudRest,East,Delivered,2026-04-16 00:11:00,2,13873.31,5,NetBanking,FC-Mumbai
+NC20260031,CUST1029,Zenith 4K Monitor 27in,Electronics,ViewPro,South,Delivered,2026-03-31 09:52:00,4,3791.21,15,Card,FC-Mumbai
+NC20260032,CUST1003,Voyager Carry-on Suitcase,Travel,Voyager,North,Shipped,2026-06-23 17:21:00,3,10370.26,15,,FC-Mumbai
+NC20260033,CUST1014,Ridge Trail Running Shoes,Footwear,Summit,West,Delivered,2026-04-22 19:32:00,4,5726.29,10,,FC-Mumbai
+NC20260034,CUST1040,Solstice Reading Lamp,Home,Lumos,North,Delivered,2026-06-20 10:39:00,2,6017.28,0,Wallet,FC-Pune
+NC20260035,CUST1095,Ember Insulated Water Bottle,Outdoor,Ember,South,Delivered,2026-06-20 12:43:00,5,2297.42,15,,FC-Pune
+NC20260036,CUST1059,Ember Insulated Water Bottle,Outdoor,Ember,West,Delivered,2026-06-05 20:20:00,2,7048.24,20,NetBanking,FC-Mumbai
+NC20260037,CUST1011,Ferro Cast Iron Skillet,Kitchen,Ferro,South,Processing,2026-06-12 19:21:00,1,4754.45,25,,FC-Mumbai
+NC20260038,CUST1080,Basecamp 2-Person Tent,Outdoor,Summit,Central,Delivered,2026-04-27 13:56:00,5,13639.88,0,UPI,FC-Hyderabad
+NC20260039,CUST1059,Aurora Wireless Earbuds,Electronics,SoundWave,North,Cancelled,2026-02-15 22:33:00,1,12520.2,5,COD,FC-Mumbai
+NC20260040,CUST1092,Terra Ceramic Plant Pot,Home,Terra,Central,Delivered,2026-03-23 14:39:00,5,15808.91,20,NetBanking,FC-Pune
+NC20260041,CUST1080,Terra Ceramic Plant Pot,Home,Terra,South,Delivered,2026-03-12 16:31:00,3,12101.9,25,Wallet,FC-Hyderabad
+NC20260042,CUST1019,Cascade Yoga Mat Pro,Fitness,Cascade,South,Delivered,2026-03-01 12:44:00,5,1564.07,5,Card,FC-Hyderabad
+NC20260043,CUST1097,Lumos LED Desk Lamp,Home,Lumos,Central,Delivered,2026-06-28 00:54:00,4,6413.79,20,NetBanking,FC-Hyderabad
+NC20260044,CUST1028,Nova Graphic Tablet,Electronics,ViewPro,East,Delivered,2026-06-04 07:31:00,5,12035.0,20,NetBanking,FC-Hyderabad
+NC20260045,CUST1050,Alpine Thermal Jacket,Apparel,Alpine,Central,Delivered,2026-06-09 17:01:00,2,13494.94,5,COD,FC-Delhi
+NC20260046,CUST1043,Ferro Cast Iron Skillet,Kitchen,Ferro,West,Delivered,2026-02-24 14:20:00,1,4383.45,10,,FC-Hyderabad
+NC20260047,CUST1099,Solstice Reading Lamp,Home,Lumos,North,Delivered,2026-02-27 20:04:00,1,15997.55,,Card,FC-Mumbai
+NC20260048,CUST1032,Nimbus Memory Foam Pillow,Home,CloudRest,East,Shipped,2026-02-25 14:44:00,4,10809.5,20,UPI,FC-Pune
+NC20260049,CUST1048,Ferro Cast Iron Skillet,Kitchen,Ferro,West,Shipped,2026-03-21 18:43:00,3,1996.15,0,UPI,FC-Delhi
+NC20260050,CUST1068,Ember Insulated Water Bottle,Outdoor,Ember,West,Delivered,2026-07-20 01:22:00,5,12945.79,20,Wallet,FC-Delhi
+NC20260051,CUST1019,Basecamp 2-Person Tent,Outdoor,Summit,West,Returned,2026-06-12 14:45:00,1,7105.32,10,UPI,FC-Pune
+NC20260052,CUST1031,Solstice Reading Lamp,Home,Lumos,North,Delivered,2026-06-01 08:20:00,4,7597.52,25,Wallet,FC-Hyderabad
+NC20260053,CUST1045,Alpine Thermal Jacket,Apparel,Alpine,East,Cancelled,2026-02-16 15:13:00,3,749.59,10,Wallet,FC-Bengaluru
+NC20260054,CUST1062,Aurora Wireless Earbuds,Electronics,SoundWave,Central,Shipped,2026-03-03 23:26:00,5,15183.58,0,UPI,FC-Hyderabad
+NC20260055,CUST1074,TrailBlaze Hiking Backpack,Outdoor,Summit,East,Delivered,2026-03-04 09:42:00,3,3778.06,25,NetBanking,FC-Pune
+NC20260056,CUST1015,Cascade Yoga Mat Pro,Fitness,Cascade,South,Shipped,2026-03-20 08:14:00,3,11333.82,10,Wallet,FC-Delhi
+NC20260057,CUST1067,Lumos LED Desk Lamp,Home,Lumos,Central,Processing,2026-07-05 18:48:00,2,11895.09,10,Wallet,FC-Delhi
+NC20260058,CUST1070,Ember Insulated Water Bottle,Outdoor,Ember,East,Delivered,2026-03-12 01:03:00,1,11414.89,,UPI,FC-Hyderabad
+NC20260059,CUST1008,Basecamp 2-Person Tent,Outdoor,Summit,West,Shipped,2026-03-06 15:07:00,4,5648.08,0,NetBanking,FC-Delhi
+NC20260060,CUST1053,Marina Beach Towel Set,Home,CloudRest,Central,Delivered,2026-01-31 17:48:00,3,1636.34,5,COD,FC-Pune
